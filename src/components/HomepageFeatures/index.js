@@ -33,6 +33,9 @@ export default function HomepageFeatures() {
                   <li>
                     Posts that document major updates for those building the Everybot as well as updates or large changes in the manual
                   </li>
+                  <li>
+                    Maybe kitbot resources.
+                  </li>
                 </ul>
               </div>
               <br></br><br></br><br></br><br></br>
