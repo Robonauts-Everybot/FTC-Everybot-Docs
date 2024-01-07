@@ -17,7 +17,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Robonatus-Everybot', // Usually your GitHub org/user name.
+  organizationName: 'Robonauts-Everybot', // Usually your GitHub org/user name.
   projectName: 'Everybot-Docs', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
