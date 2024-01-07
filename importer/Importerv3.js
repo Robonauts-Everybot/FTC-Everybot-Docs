@@ -487,15 +487,17 @@ function Importerv3() {
                     endRun = true;
                     desiredTag = true;
                 }
-                else if(goodTags.hasOwnProperty(headParent) && headParent.match(/h\d/) && useHashtagHeader == true)
-                {
-                    ignoreEndTags[headParent] = true;
-                    importedHTML[currIndex] = "#";
-                    for(let k = 1; k < parseInt(headParent.match(/(?<=h)\d/)[0]); k++)
-                    {
-                        importedHTML[currIndex] += "#";
-                    }
-                }
+                //*
+                //else if(goodTags.hasOwnProperty(headParent) && headParent.match(/h\d/) && useHashtagHeader == true)
+               // {
+                //    ignoreEndTags[headParent] = true;
+                //    importedHTML[currIndex] = "#";
+                //    for(let k = 1; k < parseInt(headParent.match(/(?<=h)\d/)[0]); k++)
+                //    {
+                //        importedHTML[currIndex] += "#";
+                //    }
+               // }
+                
                 else {
                     importedHTML[currIndex] = '<' + headParent + '>';
                     elementInit = true;

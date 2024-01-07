@@ -109,7 +109,7 @@ Just like many other shop tools, calipers favor right handed individuals, it may
 
 ### Scribe The Line
 
-With 2.000" +/- .0005" locked in on the calipers we can scribe our line. Some people may find it easiest to put their part in a vice but this is not required. To scribe our line we will use the large outside jaws, start by lining up the jaw attached to display with the edge of your part. 
+With 2.000" +/- .0005" locked in on the calipers we can scribe our line. Some people may find it easiest to put their part in a vice but this is not required. To scribe our line we will use the large outside jaws, start by lining up the jaw attached to display with the edge of your part. This method of marking should only be done with your team’s tools. Over time the point of the caliper will degrade, resulting in less accurate measurements.
 
 <br/>
 <div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '4.26px -4.26px', border: '0.00px solid #000000', transform: 'rotate(1.57rad) translateZ(0px)',  width: '376.00px', height: '367.48px'}}><Image img={require("/static/media/mechanical/measurement/image_14.jpg")} style={{ width: '376.00px', height: '669.00px', marginLeft: '0.00px', marginTop: '-158.52px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>

@@ -7,8 +7,6 @@ sidebar_position: 2
 
 import Image from '@theme/IdealImage';
 
-TODO: improve image quality
-
 <p><br /> </p>
 
 The Everybot manual will use engineering &quot;drawings&quot; like the one below to aid you in machining parts of the bot correctly. This part is from the 2022 Everybot but we will use it as an example.

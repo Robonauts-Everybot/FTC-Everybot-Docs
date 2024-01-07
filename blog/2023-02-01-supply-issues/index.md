@@ -1,8 +1,8 @@
 ---
-slug: supply
-title: Supply Issues With The MAX 90 Degree Gearbox
-tags: [BOM Stock]
-date: 2023-02-01T18:00
+slug: release
+title: We are live!
+tags: [Site Updates]
+date: 2024-01-01T18:00
 ---
 
- Hello all, we were informed that there are supply issues with the 90 degree gearbox, here are some fixes:
+Welcome to the Everybot documentation site! More updates to come soon.

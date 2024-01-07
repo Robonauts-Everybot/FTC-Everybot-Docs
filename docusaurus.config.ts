@@ -114,10 +114,9 @@ const config: Config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: '2023 Everybot Manual',
+            label: '2024 Everybot Documentation',
           },
-          { type: 'docSidebar', sidebarId: 'fundamentalSidebar', label: 'Everybot Fundamentals', position: 'left' },
-          { type: 'docSidebar', sidebarId: 'aboutSidebar', label: 'About This Site', position: 'left' },
+          { type: 'docSidebar', sidebarId: 'fundamentalSidebar', label: 'Everybot Evergreens', position: 'left' },
           { to: '/blog', label: 'Updates', position: 'left' },
           {
             href: 'https://www.118everybot.org/',
