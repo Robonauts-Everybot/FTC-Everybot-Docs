@@ -25,5 +25,5 @@ The roboRIO 2 is the current model, it is in the rookie kit of parts and should 
 :::warning
 As stated by WPILib: Before imaging your roboRIO, you must have completed installation of the FRC Game Tools. You also must have the roboRIO power properly wired to the CTRE Power Distribution Panel or REV Power Distribution Hub. Make sure the power wires to the roboRIO are secure and that the connector is secure firmly to the roboRIO (4 total screws to check).
 <br/>
-Please see [Robot Wiring](../electrical/electrical-overview.md) for more information.
+Please see [Robot Wiring](../electrical-overview.md) for more information.
 :::

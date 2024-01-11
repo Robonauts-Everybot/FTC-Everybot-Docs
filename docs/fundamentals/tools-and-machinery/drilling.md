@@ -39,13 +39,17 @@ A good option for creating larger holes. Features include:
 
 Used to hold drill bits, the most common chuck on hand drills. Parts include:
 
+<br/>
+
 - Jaws: Typically three angled pieces that linearly move to grip the shank of a drill bit (1)
 - Body: Rotating this will cause the jaws to clamp or retract. Some ratchet to prevent loosening (2)
-- Clutch torque ring: Rotating this ring will adjust how much torque the drill can impart before its clutch begins to slip. Used more often for fasteners and should be set to the drill but icon when drilling holes
+
+- Clutch torque ring: Rotating this ring will adjust how much torque the drill can impart before its clutch begins to slip. Used more often for fasteners and should be set to the drill bit icon when drilling holes (3)
 
 <br/>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '457.50px', height: '298.40px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/drilling/image_2.jpg")} width = "628.38" height = "408.38"  style={{ width: '457.50px', height: '298.40px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '457.50px', height: '298.40px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/drilling/image_2.jpg")} width = "628.38" height = "408.38"  style={{ width: '458.49px', height: '298.40px', marginLeft: '-0.50px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+
 
 ### Keyed Chuck
 
@@ -254,13 +258,9 @@ Once a clamping configuration is found you may find that the height and position
 <br/>
 
 Finally, position the part so the drill bit is roughly centered over the center punch dimple. Lower the drill press (still turned off) onto the dimple paying special attention to the drill bit. If the drill bit deflects to one side to get into the dimple, meaning the drill bit moves slightly at an angle to enter the hole, then you are not centered. Continually peck with the drill bit until you find that the drill bit does not deflect. Clamp the part down in this location, ensuring that it does not shift. Some drill presses will have a laser alignment feature to help line up the bit, but this may need to be calibrated and should still be double-checked by lowering the bit down into the punched dimple.
-
 <br/>
-
 <div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '461.50px', height: '433.89px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/drilling/image_29.jpg")} width = "633.88" height = "595.38"  style={{ width: '461.50px', height: '820.77px', marginLeft: '0.00px', marginTop: '-103.95px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
-
 <br/>
-
 This process can be annoying but it is important to get it right. To make the process easier, if you find that you like the alignment in a certain direction you can place a clamp against that edge of the part. This will not lock the part down but you can press the part against the clamp to ensure you have that axis of movement &ldquo;correct.&rdquo; This can be done twice before clamping the part down, ensuring it does not shift when clamping. 
 
 <br/>
@@ -282,10 +282,7 @@ When clamped, pull the bit down to the surface once more, ensure that the holes 
 <br/>
 
 You are now ready to make the hole. Put some cutting fluid on the part around the area to be drilled. Power on the drill press lower into the part. You will need to apply light to moderate pressure to get the bit to cut down into the material. If not enough force is applied the drill bit will not make progress in cutting the hole and will begin to heat up. Too much force can cause the drill to stall or also heat up. If you are using sacrificial material under the piece you will be able to feel a difference in the resistance in the feed wheel and the chips being ejected by the bit&rsquo;s flutes will also change. Rotate the feed wheel back up (do not simply release it, as this will cause the drill to slam back upwards quickly) and then turn the machine off and allow it to come to a complete stop.
-
 <br/>
-
-
 <div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '269.00px', height: '519.00px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/drilling/image_32.jpg")} width = "368.50" height = "712.25"  style={{ width: '410.00px', height: '729.00px', marginLeft: '0.00px', marginTop: '-54.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <br/>

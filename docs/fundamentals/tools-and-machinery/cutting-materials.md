@@ -11,7 +11,7 @@ import Image from '@theme/IdealImage';
 
 ### General Machine Safety Tips
 
-- Always use proper PPE (personal protective equipment) when operating machines, PPE includes:
+- Always use proper PPE (Personal Protective Equipment) when operating machines. PPE includes:
   - Safety glasses for eye protection (should be worn during any shop procedure)
   - Hearing protection in the form of ear plugs or safety ear muffs
   - Hair ties if you have long hair
@@ -31,7 +31,9 @@ import Image from '@theme/IdealImage';
   - Look for improper use of tools, trip hazards and unprotected sharp objects
 
 :::danger
-These are only tips, **this is not comprehensive or adequate safety training**. The machine operation sections will also provide general safety tips but will not be comprehensive for safe operation. Safety for the machine in your shop may differ from what is provided. Always read a machine's manual for safe operations, especially if nobody in the room has machine shop experience.   
+
+These are only tips, **this is not comprehensive or adequate safety training**. The machine operation sections will also provide general safety tips but will not be comprehensive for safe operation. Safety for the machine in your shop may differ from what is provided. Always read a machine&#39;s manual for safe operations, especially if nobody in the room has machine shop experience. &nbsp; 
+
 :::
 
 ### General Tips
@@ -59,7 +61,7 @@ Start making sure the chop saw is in a safe state. It is ideal to have the saw u
 
 <br/>
 
-Image coming soon
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '449.00px', height: '293.54px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_1.jpg")} style={{ width: '478.05px', height: '342.00px', marginLeft: '-10.51px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <br/>
 
@@ -67,7 +69,7 @@ Move the blade down closer to the part for a better alignment. Make sure not to 
 
 <br/>
 
-Image coming soon
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '433.50px', height: '292.47px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_2.jpg")} style={{ width: '433.50px', height: '292.47px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <br/>
 
@@ -81,12 +83,14 @@ Good for cutting most stock. Some machines may prevent longer pieces of stock fr
 
 <br/>
 
-<div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '301.29px', height: '261.50px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_1.png")} style={{ width: '301.29px', height: '261.50px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '312.65px', height: '432.19px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_2.png")} style={{ width: '432.24px', height: '432.19px', marginLeft: '-59.07px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div>
+<div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '301.29px', height: '261.50px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_3.png")} style={{ width: '301.29px', height: '261.50px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '312.65px', height: '432.19px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_4.png")} style={{ width: '432.24px', height: '432.19px', marginLeft: '-59.07px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div>
 
 <br/><br/>
 
 :::tip
-Many vertical bandsaws/tabletop jigsaws are made for cutting wood. Make sure that your machine is able to cut aluminum. Tabletop jigsaws will typically come with a blade designed for metals if they are able to cut it. Vertical bandsaws for wood run at a higher RPM than recommended for aluminum. If you have nothing else they can be used, hopefully with a blade made for cutting metals. This will dull blades quickly, may not be good for the machine and will likely be less safe.
+
+Many vertical bandsaws/tabletop jigsaws are made for cutting wood. Make sure that your machine is able to cut aluminum. Tabletop jigsaws will typically come with a blade designed for metals if they are able to cut metal. Vertical bandsaws for wood run at a higher RPM than recommended for aluminum. If you have nothing else they can be used, preferably with a blade made for cutting metals. This will dull blades quickly, may not be good for the machine, and will likely be less safe.
+
 :::
 
 <br/>
@@ -98,13 +102,17 @@ Start by making sure the machine is not plugged in or is safely powered off. Gen
 For machines that do not have a guide preinstalled, two bar clamps, a speed square and something rectangular like tube stock or 2x4 wood can be used as a guide instead. Lightly clamp the rectangular object to the table and line it up so that the end of the work piece can be slid along side it in the correct position for the cut to be made. Once in position, use the speed square to ensure that both the front and back are square to the table and then clamp it down.
 
 <br/>
-Image coming soon
-<br/>
 
-Afterwards, configure the blade guard height such that it will barely clear the material, a good height is ~3/8&quot; over.
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '458.50px', height: '475.32px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_5.jpg")} style={{ width: '458.50px', height: '589.01px', marginLeft: '0.00px', marginTop: '-41.81px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <br/>
-Image coming soon
+
+Afterwards, configure the blade guard height so that it will barely clear the material (~3/8&quot; over). Usually, there is a knob on the back of the machine that loosens and tightens the guard.
+
+<br/>
+
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '413.00px', height: '274.27px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_6.jpg")} style={{ width: '506.09px', height: '476.63px', marginLeft: '0.00px', marginTop: '-58.28px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+
 <br/>
 
 Whenever possible use a push block or push stick. A push block can be a simple scrap piece of wood that is tall enough to push the part effectively and wide/long enough to ensure safe distance between your fingers and the blade. A push stick is good when cuts must be very close to the blade. Generally, fingers should stay at least 5 inches away from the blade.
@@ -115,7 +123,7 @@ When preparing to cut, mime the action of cutting the material. Think about what
 
 <br/>
 
-Image coming soon
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '405.50px', height: '242.44px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_7.jpg")} style={{ width: '405.50px', height: '242.44px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <br/>
 
@@ -131,38 +139,44 @@ Great for cutting hex shaft, box tube and circular stock.
 Start by loosely aligning the cutting mark with the blade, then tighten the vise up to the part without tightening it. Lower the blade close to the part, making sure that the blade does not touch the part. Some machines are gravity fed, while others use hydraulics. If your machine uses hydraulics, lock the machine in place such that your blade is close to the part while still having some comfortable room. If your machine is gravity fed then it may be useful to have a friend hold the blade above the part if it cannot lock in a position. With the blade close to the part, align the blade with the cut mark, making sure to leave a bit of room for the width of the blade.
 
 <br/>
-Image coming soon
+
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '504.50px', height: '337.14px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_8.jpg")} style={{ width: '504.50px', height: '337.14px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+
 <br/>
 
 When ready, tighten the vise, making sure the part does not move. Before operation, ensure people around you are aware the machine is about to be operated and check that your attire is proper, making extra sure you have nothing dangling. Additionally, assess the state of the machine and ensure it is in proper operating condition.
 
 <br/>
-Image coming soon
+
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '444.45px', height: '325.50px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_9.jpg")} style={{ width: '444.45px', height: '325.50px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+
 <br/>
 
 In the case of a hydraulic horizontal bandsaw, lift the blade to be around two to three inches above the part, start the blade and let it descend at a slow speed. In the case of a gravity feed machine, turn the machine on and use the handle to lower the frame. Make sure that the blade is fully up to speed before contact with the material. For gravity feed machines you may apply a very light amount of downward force, but the goal is to let the teeth do most of the work. When reaching the bottom some machines will automatically shut off while others will require you to turn them off. Wait for the machine to cut fully through the part and wait for the blade to stop after it has been turned off.
 
 <br/>
-Image coming soon
+
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '300.65px', height: '251.24px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_10.jpg")} style={{ width: '300.65px', height: '251.24px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '303.46px', height: '251.24px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_11.jpg")} style={{ width: '303.46px', height: '251.24px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+
 <br/>
 
 When retrieving your work, be careful of heat and sharp edges around the cut area.
 
 
-## Hacksaw
+### Hacksaw
 
 A hacksaw can be used to cut almost anything for your robot at the cost of time and potentially less precision.
 
 <br/>
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '-140.36px 140.36px', border: '0.00px solid #000000', transform: 'rotate(4.71rad) translateZ(0px)',  width: '244.79px', height: '525.50px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_3.jpg")} style={{ width: '377.16px', height: '671.57px', marginLeft: '-73.13px', marginTop: '-16.97px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '-140.36px 140.36px', border: '0.00px solid #000000', transform: 'rotate(4.71rad) translateZ(0px)',  width: '244.79px', height: '525.50px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_12.jpg")} style={{ width: '377.16px', height: '671.57px', marginLeft: '-73.13px', marginTop: '-16.97px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <br/>
-
 To start, make sure that your part is firmly clamped in a vice. Make sure to position the location of your cut outside of the jaws but not too far away so that the part does not flex while cutting. Typically, 1-4 inches away will work well, the closer the better.
 
 <br/>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '426.00px', height: '220.23px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_4.jpg")} style={{ width: '624.00px', height: '351.32px', marginLeft: '-40.00px', marginTop: '-25.77px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '426.00px', height: '220.23px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_13.jpg")} style={{ width: '624.00px', height: '351.32px', marginLeft: '-40.00px', marginTop: '-25.77px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <br/>
 
@@ -170,7 +184,7 @@ To get a straighter cut use a measuring device to ensure the bottom of the stock
 
 <br/>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '446.00px', height: '276.00px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_5.jpg")} style={{ width: '624.00px', height: '351.00px', marginLeft: '0.00px', marginTop: '-51.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '446.00px', height: '276.00px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_14.jpg")} style={{ width: '624.00px', height: '351.00px', marginLeft: '0.00px', marginTop: '-51.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <br/>
 
@@ -178,7 +192,7 @@ When you are ready to begin your cut, double check that your hacksaw blade is te
 
 <br/>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '-143.29px 143.29px', border: '0.00px solid #000000', transform: 'rotate(4.71rad) translateZ(0px)',  width: '257.92px', height: '544.50px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_6.jpg")} style={{ width: '388.75px', height: '690.28px', marginLeft: '-72.89px', marginTop: '-16.82px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '-143.29px 143.29px', border: '0.00px solid #000000', transform: 'rotate(4.71rad) translateZ(0px)',  width: '257.92px', height: '544.50px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_15.jpg")} style={{ width: '388.75px', height: '690.28px', marginLeft: '-72.89px', marginTop: '-16.82px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <br/>
 
@@ -186,7 +200,7 @@ Cuts cannot be undone, and a hacksaw can wander if proper attention is not given
 
 <br/>
 
-<div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '588.50px', height: '515.23px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_7.png")} style={{ width: '1086.46px', height: '515.23px', marginLeft: '-497.96px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div>
+<div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '588.50px', height: '515.23px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_16.png")} style={{ width: '1086.46px', height: '515.23px', marginLeft: '-497.96px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div>
 
 <div style={{ textAlign: 'center'}}>In this image, the grey side of the stock is the &ldquo;keep&rdquo; side while the blue side is the offcut. The red portion of the blade shows where the saw blade intersects with both the keep and non-keep portions of the stock when cutting directly over the scribed line. If you instead line the edge of the blade up with the non-keep side of the scribe mark and then add a small amount of room for cutting error, the material that the blade removes will all be on the offcut side of the stock and the keep side should be the correct length.</div>
 
@@ -202,7 +216,7 @@ The start is the most important part of the cut. Make sure that your blade is pe
 
 <br/>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '299.37px', height: '437.26px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_8.jpg")} style={{ width: '444.80px', height: '788.74px', marginLeft: '-72.72px', marginTop: '-61.05px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '309.50px', height: '245.47px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_9.jpg")} style={{ width: '309.50px', height: '546.12px', marginLeft: '0.00px', marginTop: '-101.32px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '299.37px', height: '437.26px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_17.jpg")} style={{ width: '444.80px', height: '788.74px', marginLeft: '-72.72px', marginTop: '-61.05px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '309.50px', height: '245.47px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_18.jpg")} style={{ width: '309.50px', height: '546.12px', marginLeft: '0.00px', marginTop: '-101.32px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <br/>
 
@@ -210,7 +224,7 @@ Once the grove has been started, keep the blade straight and use long strokes. W
 
 <br/>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '260.46px', height: '802.50px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_10.jpg")} style={{ width: '549.08px', height: '974.97px', marginLeft: '-102.07px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '282.79px', height: '800.50px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_11.jpg")} style={{ width: '514.46px', height: '917.22px', marginLeft: '-117.90px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '260.46px', height: '802.50px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_19.jpg")} style={{ width: '549.08px', height: '974.97px', marginLeft: '-102.07px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '282.79px', height: '800.50px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_20.jpg")} style={{ width: '514.46px', height: '917.22px', marginLeft: '-117.90px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Top bar is rotated to the left&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Handle is shifted to the right
 
@@ -218,19 +232,15 @@ If you notice that you have deviated from your desired line then you may be able
 
 <br/>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '441.51px', height: '381.80px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_12.jpg")} style={{ width: '467.75px', height: '829.12px', marginLeft: '0.00px', marginTop: '-45.48px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '390.00px', height: '285.05px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_13.jpg")} style={{ width: '410.39px', height: '727.72px', marginLeft: '0.00px', marginTop: '-105.09px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '441.51px', height: '381.80px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_21.jpg")} style={{ width: '467.75px', height: '829.12px', marginLeft: '0.00px', marginTop: '-45.48px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '390.00px', height: '285.05px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_22.jpg")} style={{ width: '410.39px', height: '727.72px', marginLeft: '0.00px', marginTop: '-105.09px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <div style={{ textAlign: 'center'}}>Here are the consequences of cutting directly on the line. Luckily, not being exactly 2&rdquo; doesn&rsquo;t matter for this part.</div>
 
 ## Cleaning Up The Part
 
-:::note 
-Images coming soon
-:::
-
 After a part is cut it may not be exactly flat and it will have burrs that need to be removed as they could cut someone when trying to attach the component to an assembly.
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '527.50px', height: '282.31px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_14.jpg")} style={{ width: '609.56px', height: '1082.35px', marginLeft: '0.00px', marginTop: '-431.77px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '527.50px', height: '282.31px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_23.jpg")} style={{ width: '609.56px', height: '1082.35px', marginLeft: '0.00px', marginTop: '-431.77px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <br/>
 
@@ -254,11 +264,19 @@ If filing down a larger surface, place the part in a vise, keep the file level a
 
 <br/>
 
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '350.00px', height: '194.95px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_25.jpg")} style={{ width: '624.00px', height: '284.01px', marginLeft: '-119.00px', marginTop: '-51.11px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+
+<br/>
+
 Filling all parts and edges is generally good. A corner that will be exposed when assembled must be filed, as the corners can catch on people and clothing and are generally sharper than edges.
 
 <br/>
 
-A file can also be used to slightly shorten a part by shaving it down if it was made slightly too long. 
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '322.50px', height: '211.71px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_26.jpg")} style={{ width: '322.50px', height: '573.08px', marginLeft: '0.00px', marginTop: '-108.62px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '224.55px', height: '211.18px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_27.jpg")} style={{ width: '291.31px', height: '516.27px', marginLeft: '-66.76px', marginTop: '-133.73px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+
+<br/>
+
+A file can also be used to slightly shorten a part by shaving it down if it was made slightly too long.
 
 <br/>
 
@@ -282,7 +300,15 @@ Belt sanders come in a few different styles with belts usually starting at 1&rdq
 
 <br/>
 
-Typically belt sanders will have a table. Your work piece should be held down against the table whenever sanding to help prevent the sander from grabbing the piece and pulling it and your hands into the machine. Some tables can be angled but generally it is easier to angle a part against the flat table if you do not specifically care about the angle that the sander grinds into the work piece. When the sander is turned on, the belt will run from the top to the bottom, pushing the piece down into the table. When using a disc sander, use the side of the disc that is rotating down into the table so that the sander is pushing the piece down into it instead of trying to lift it up and out of your hands.
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '396.02px', height: '320.50px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_28.jpg")} style={{ width: '396.02px', height: '320.50px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+
+<br/>
+
+Typically belt sanders will have a table. Your work piece should be held down against the table whenever sandering to help prevent the sander from grabbing the piece and pulling it and your hands into the machine. Some tables can be angled but generally it is easier to angle a part against the flat table if you do not specifically care about the angle that the sander grinds into the work piece. When the sander is turned on, the belt will run from the top to the bottom, pushing the piece down into the table. When using a disc sander, use the side of the disc that is rotating down into the table so that the sander is pushing the piece down into it instead of trying to lift it up and out of your hands.
+
+<br/>
+
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '303.53px', height: '292.50px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_29.jpg")} style={{ width: '362.14px', height: '292.50px', marginLeft: '-20.31px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '304.01px', height: '288.81px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_30.jpg")} style={{ width: '304.01px', height: '288.81px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <br/>
 
@@ -294,9 +320,13 @@ For deburring edges, use a ~30 degree angle and move the part from side to side 
 
 <br/>
 
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '490.85px', height: '370.50px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_31.jpg")} style={{ width: '490.85px', height: '370.50px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+
+<br/>
+
 When flattening a face, keep the part flat against the table and if there is room continuously move the part from side to side on the belt&rsquo;s surface. Make sure that the part is flat on the table and perpendicular to the belt. A short amount of time should be all that is needed to flatten a component&rsquo;s face.
 
 <br/>
 
-Removing material will work just like flattening but with more time up against sanding belt to remove more material. The part may begin to heat up during this operation. A pair of vise grips, which are basically a type of adjustable locking pliers, to hold onto most parts (work pieces may be grabbed and flung out of regular pliers, making them an unsafe choice). Make sure to measure your workpiece periodically so that you do not over do the sanding and make the piece too short.
+Removing material will work just like flattening but with more time up against the sanding belt to remove more material. The part may begin to heat up during this operation. A pair of vise grips, which are basically a type of adjustable locking pliers, to hold onto most parts (work pieces may be grabbed and flung out of regular pliers, making them an unsafe choice). Make sure to measure your workpiece periodically so that you do not over do the sanding and make the piece too short.
 

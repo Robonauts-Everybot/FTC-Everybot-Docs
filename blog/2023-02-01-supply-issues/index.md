@@ -1,8 +1,8 @@
 ---
-slug: release
-title: We are live!
-tags: [Site Updates]
-date: 2024-01-01T18:00
+slug: Update
+title: This is an update.
+tags: [Site Update]
+date: 2024-01-08T17:00
 ---
 
-Welcome to the Everybot documentation site! More updates to come soon.
+Updates will exist in the updates tab and the newest two updates will exist on the home page. Look for updates about Everybot documentation, critical component stock and updates the Everybot Evergreens.

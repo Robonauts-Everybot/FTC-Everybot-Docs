@@ -21,20 +21,20 @@ export default function HomepageFeatures() {
               <br>
               </br>
               <br></br><br></br><br></br>
-              <h3>At the top you will find:  </h3>
+              <h2>At the top you will find:  </h2>
               <div>
-                <ul style={{ textAlign: 'center', listStylePosition: 'inside', marginBottom: '5px' }}>
+                <ul style={{ textAlign: 'center', listStylePosition: 'inside', marginBottom: '5px', fontSize: '20px' }}>
                   <li>
-                    Step-by-step instructions on how to build the Everybot
+                    Step-by-step instructions to build the Everybot which will be gradually released in the first weeks of the season
                   </li>
                   <li>
-                    Resources to teach some of the core basic concepts used to build the Everybot and robots in general
+                    Everybot Evergreens, a collection of exercises and technical resources
                   </li>
                   <li>
                     Posts that document major updates for those building the Everybot as well as updates or large changes in the manual
                   </li>
                   <li>
-                    Maybe kitbot resources.
+                    Resources to support the base KitBot configuration
                   </li>
                 </ul>
               </div>
@@ -55,7 +55,7 @@ function Tester() {
   }, [])
 
   const blogs = async () => {
-    const response = await fetch('https://yapplejack.github.io/ebot/blog/feed.json');
+    const response = await fetch('https://robonauts-everybot.github.io/Everybot-Docs/blog/feed.json');
     let text = await response.json();
     setText(text.items);
   }
@@ -66,8 +66,8 @@ function Tester() {
     return <aside className="col col--2"></aside>
   }
 
-  let firstBlog = "/ebot" + test[0].id.match(/\/blog\/.*/);
-  let secondBlog = "/ebot" + test[1].id.match(/\/blog\/.*/);
+  let firstBlog = "/Everybot-Docs" + test[0].id.match(/\/blog\/.*/);
+  let secondBlog = "/Everybot-Docs" + test[1].id.match(/\/blog\/.*/);
 
   return (
     <aside className="col col--2"><nav className="sidebar_node_modules-@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module thin-scrollbar" aria-label="Blog recent posts navigation" style={{

@@ -9,7 +9,7 @@ import Image from '@theme/IdealImage';
 
 <br/>
 
-The goal of tapping is to add internal threads to a hole so a bolt can be threaded on. Typically for tapping you will need the following:
+The goal of tapping is to add internal threads to a hole so a bolt can be screwed into it like it is a nut. Typically for tapping you will need the following:
 
 <br/>
 
