@@ -202,9 +202,9 @@ pre[class*="language-"] {
 */
 
 
-/*
+
 @font-face {
   font-family: "Ebot";
   src:
-    url("/static/fonts/file.woff2") format("woff");
-}*/
+    url(/static/fonts/file.woff2) format("woff");
+}

@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Imaging the roboRIO and Programming the Radio'
 sidebar_position: 3
+description: "Links to setup your hardware"
 ---
 
 # Imaging the roboRIO and Programming the Radio

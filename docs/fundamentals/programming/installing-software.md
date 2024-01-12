@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Installing Software'
 sidebar_position: 2
+description: "Install all software needed for the season"
 ---
 
 # Installing Software

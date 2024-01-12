@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Cutting By Hand And With Machines'
 sidebar_position: 4
+description: "How to cut aluminum for FRC"
 ---
 
 import Image from '@theme/IdealImage';
@@ -200,9 +201,11 @@ Cuts cannot be undone, and a hacksaw can wander if proper attention is not given
 
 <br/>
 
-<div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '588.50px', height: '515.23px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_16.png")} style={{ width: '1086.46px', height: '515.23px', marginLeft: '-497.96px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '588.50px', height: '515.23px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_16.png")} style={{ width: '1086.46px', height: '515.23px', marginLeft: '-497.96px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
-<div style={{ textAlign: 'center'}}>In this image, the grey side of the stock is the &ldquo;keep&rdquo; side while the blue side is the offcut. The red portion of the blade shows where the saw blade intersects with both the keep and non-keep portions of the stock when cutting directly over the scribed line. If you instead line the edge of the blade up with the non-keep side of the scribe mark and then add a small amount of room for cutting error, the material that the blade removes will all be on the offcut side of the stock and the keep side should be the correct length.</div>
+<br/>
+
+In this image, the grey side of the stock is the &ldquo;keep&rdquo; side while the blue side is the offcut. The red portion of the blade shows where the saw blade intersects with both the keep and non-keep portions of the stock when cutting directly over the scribed line. If you instead line the edge of the blade up with the non-keep side of the scribe mark and then add a small amount of room for cutting error, the material that the blade removes will all be on the offcut side of the stock and the keep side should be the correct length.
 
 <br/>
 
@@ -226,7 +229,7 @@ Once the grove has been started, keep the blade straight and use long strokes. W
 
 <div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '260.46px', height: '802.50px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_19.jpg")} style={{ width: '549.08px', height: '974.97px', marginLeft: '-102.07px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '282.79px', height: '800.50px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/cutting/image_20.jpg")} style={{ width: '514.46px', height: '917.22px', marginLeft: '-117.90px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Top bar is rotated to the left&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Handle is shifted to the right
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Top bar is rotated to the left&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Handle is shifted to the right
 
 If you notice that you have deviated from your desired line then you may be able to bias the hacksaw in the opposite direction so that it cuts straight again, but that shift may cause some binding between the blade and the walls of the existing cut. If done correctly, you can still get a relatively straight line. When the part is hanging on by a small tab the hanging side of the cut may start to droop or drop off with part of the tab still intact. This can be filed off later. The cut part may be hot and the sawed edges will probably be sharp.
 
@@ -316,7 +319,7 @@ There are three common operations that will be performed on the belt sander: deb
 
 <br/>
 
-For deburring edges, use a ~30 degree angle and move the part from side to side to remove the burrs. This should happen very quickly. Be careful, some tables may have a decent gap between the table and belt which your part could be shot through. If this is the case, use a metal hand file instead.
+For deburring edges, use a ~30 degree angle and move the part from side to side to remove the burrs. Sometimes this angle might have to be more aggressive, use a file instead if this is the case. This should happen very quickly. Be careful, some tables may have a decent gap between the table and belt which your part could be shot through. If this is the case, use a metal hand file instead.
 
 <br/>
 

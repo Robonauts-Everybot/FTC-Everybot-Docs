@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Tapping'
 sidebar_position: 7
+description: "Tapping aluminum for FRC"
 ---
 
 import Image from '@theme/IdealImage';

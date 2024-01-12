@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Reading Engineering Drawings'
 sidebar_position: 2
+description: "Reading Part Drawings"
 ---
 
 # Reading Part Drawings

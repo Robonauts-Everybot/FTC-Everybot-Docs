@@ -37,11 +37,17 @@ If you create a test bed you may use some consumables. This could include wire i
 ### [Gather Materials](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-1/intro-to-frc-robot-wiring.html#gather-materials)
 
 - In past years we have not used Pneumatics, double check with Everybot's bill of materials when it is released.
+
 - We heavily recommend using [inline WAGOs](https://www.andymark.com/products/wago-221-series-inline-splicing-connector-with-lever?via=Z2lkOi8vYW5keW1hcmsvV29ya2FyZWE6Ok5hdmlnYXRpb246OlNlYXJjaFJlc3VsdHMvJTdCJTIyYnV0dG9uJTIyJTNBJTIyc2VhcmNoJTIyJTJDJTIycSUyMiUzQSUyMndhZ28lMjIlMkMlMjJ1dGY4JTIyJTNBJTIyJUUyJTlDJTkzJTIyJTdE) over the quick disconnect terminals as they are easier to impliment and require less training.
+
 	- When using the WAGOs, 11mm of insulation needs to be removed. This length is also represented on the side of the WAGO.
+
 - The cable intended for PWM signals will be used to wire the RSL, but any 22 gauge wire will work. The included Molex CAN Bus kit is used for the motor controllers. To make them easier to work with you may want[CAN Extension Cables](https://www.revrobotics.com/rev-21-2052/).
+
 	- If using the extension cables, these [Cable Clips] (https://www.revrobotics.com/rev-11-1229/) will prevent unwaited disconnections. 
+
 - The 10 AWG wire can be replaced with 12 AWG wire.
+
 - Most of these items will come in the kit of parts, the rest can be purchased from FRC vendors like [AndyMark](https://www.andymark.com/pages/electrical) or [REV](https://www.revrobotics.com/ion/electronics/).
 
 ### [Weidmuller Connectors](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-1/intro-to-frc-robot-wiring.html#weidmuller-connectors)

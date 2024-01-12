@@ -21,4 +21,6 @@ With this move we hope to accomplish the following:
 
 <br/>
 
+Currently, we have electrical and chassis sections for the KitBot.
+
 Plenty more content is on the way, look out for it in the coming weeks.

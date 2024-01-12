@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Setting up your motor controllers'
 sidebar_position: 4
+description: "Coming soon!"
 ---
 
 import Image from '@theme/IdealImage';

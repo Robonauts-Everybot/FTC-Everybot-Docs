@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Measurement And Marking'
 sidebar_position: 3
+description: "How to measure for FRC"
 ---
 
 import Image from '@theme/IdealImage';
@@ -242,5 +243,11 @@ Some center punches require the usage of a hammer, while ones like the style pic
 
 If you are not happy with the location of the punch mark, it can be hammered flat with a ball peen hammer or you can try angling the center punch and punching in the direction you want the hole shifted.
 
-<div style={{ textAlign: 'center'}}>When finished your part should like this:<div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '418.00px', height: '435.76px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/measurement/image_28.jpg")} style={{ width: '418.00px', height: '740.72px', marginLeft: '0.00px', marginTop: '-101.72px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<br/>
+
+When finished your part should like this:
+
+<br/>
+
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '418.00px', height: '435.76px'}}><Image autoLoad={"true"} img={require("/static/media/mechanical/measurement/image_28.jpg")} style={{ width: '418.00px', height: '740.72px', marginLeft: '0.00px', marginTop: '-101.72px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 

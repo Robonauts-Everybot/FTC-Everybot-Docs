@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Exercise To Follow Along'
 sidebar_position: 3
+description: "An exercise that will prepare your team for FRC"
 ---
 
 import Image from '@theme/IdealImage';

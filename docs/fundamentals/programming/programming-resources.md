@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Programming Resources'
 sidebar_position: 1
+description: "Resources to help learn programming"
 ---
 
 # Programming Resources

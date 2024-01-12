@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Introductory Tools and Machines for FRC/Everybot'
 sidebar_position: 1
+description: "Tools to start your FRC journey"
 ---
 
 import Admonition from '@theme/Admonition';

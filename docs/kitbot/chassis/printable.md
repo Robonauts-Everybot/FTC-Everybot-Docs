@@ -1,7 +1,7 @@
 ---
 sidebar_label: 'Printable Section'
-sidebar_position: 2
-description: "The goals we set out to achieve with the Everybot"
+sidebar_position: 5
+description: "Wait for the images to load and print"
 ---
 
 import Image from '@theme/IdealImage';
@@ -22,7 +22,7 @@ The AndyMark &ldquo;long&rdquo; chassis configuration has plenty of room to moun
 
 <div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '233.33px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p1/image_0.png")} style={{ width: '624.00px', height: '233.33px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
-## Chassis Assembly
+## Chassis Cuts and Tools
 
 Required tools:
 
@@ -52,7 +52,7 @@ All required parts for the chassis are from the AndyMark AM14U5 Kit of Parts cha
 
 Before beginning to assemble the chassis, the two Chassis End Plates will need to be cut down to 27&rdquo; by removing 4&rdquo; from one end. The two 24&rdquo; churros will need to be cut down to 18.25&rdquo;. If the size of your team allows for it, have someone begin making these cuts while another group begins assembling the wheels. Measure out your cuts and mark them with a combination square to make sure your cuts are perpendicular and cut the plates in a bandsaw or chop saw, making sure to account for the width of your blade. Save the end plate cutoffs for later.
 
-### Wheel Assembly
+## Wheel Assembly
 
 Start assembling the wheels by screwing two pulley halves into one side of each wheel. Each half-pulley (AndyMark part number am-2234a-half) has one raised screw hole and one recessed screw hole on the bottom. Connect two halves together by lining the raised portion of one half with the recessed hole on the other. The ridged portion of the pulley that the belt will actually ride on should line up across the two pulleys with no gaps or misaligned teeth.
 
@@ -104,7 +104,7 @@ The 1.5&rdquo; screws included in the 2024 Kit of Parts collide with one another
 
 <div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '284.00px', height: '268.40px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p1/image_15.jpg")} style={{ width: '720.00px', height: '328.44px', marginLeft: '-162.00px', marginTop: '-33.60px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '297.50px', height: '268.35px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p1/image_16.jpg")} style={{ width: '781.75px', height: '356.43px', marginLeft: '-158.52px', marginTop: '-48.47px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
-<h3><span style={{ fontSize: "14pt"}}>Motor and Gearbox Assembly</span></h3>
+## Motor and Gearbox Assembly
 
 For each of your four drivetrain motors, place two 5/16&rdquo; washers (am-1009a) onto the shaft. If your team is a rookie team, your kit of parts should include six CIM motors. If you are not a rookie team, your kit will contain only two CIM motors, so you will need to purchase two new motors or reuse two from a previous year (recommended). Two more CIM motors are also used in the KitBot launcher mechanism if your team plans on building it. Install a machine key into the slot in the motor shaft.
 
@@ -258,7 +258,7 @@ The 10-32 x 0.75&rdquo; bolts should be inserted into the Chassis Inside Plate a
 
 Complete these steps with both Toughboxes, affixing one to each Chassis Inside Plate.
 
-<h3><span style={{ fontSize: "14pt"}}>Chassis Assembly</span></h3>
+## Chassis Assembly
 
 Insert one of the Chassis Inside Plates into one of the Chassis End Plates. The motors sticking out of the gearbox should face towards the middle of the robot with the output shaft sticking outwards. The top flange of the Chassis Inside Plates should point towards the outside of the robot while the bottom flange should face inwards. Line up the outermost hole in the upper flange of the Chassis Inside Plate with the 8th hole in from the edge of the top of the Chassis End Plate, with the first two holes in the bottom flange lining up with the 10th holes in from the edge of the bottom of the Chassis End Plate.
 
@@ -266,7 +266,7 @@ Insert one of the Chassis Inside Plates into one of the Chassis End Plates. The 
 
 <div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '289.31px', height: '218.50px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_0.jpg")} style={{ width: '289.31px', height: '254.63px', marginLeft: '0.00px', marginTop: '-7.44px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '283.50px', height: '220.19px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_1.jpg")} style={{ width: '295.43px', height: '246.52px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
-<div style={{ textAlign: 'center'}}>Top view&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bottom view</div>
+<div style={{ textAlign: 'center'}}>Top view&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bottom view</div>
 
 <p><br /> </p>
 
@@ -285,21 +285,6 @@ The other End Plate is similarly attached to the Inner Side Plates with the hole
 :::note
 
 If you can, prepare the [electronics bellypan](/docs/kitbot/electrical.md) out of 0.5&rdquo; thick plywood and slide it into place in the chassis now before the second end plate is installed.
-
-
-
-:::
-
-<p><br /> </p>
-
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '620.00px', height: '282.00px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_3.jpg")} style={{ width: '677.17px', height: '308.00px', marginLeft: '-42.08px', marginTop: '-19.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
-
-<p><br /> </p>
-
-:::note
-
-You will probably want to leave the churros crossing the frame out until you have made sure it is square. There is also no bellypan pictured, which you may want to have installed before the second chassis end plate.
-
 :::
 
 <p><br /> </p>
@@ -308,23 +293,33 @@ Using a carpenter&rsquo;s square or similar tool, check that the frame of the ch
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '252.50px', height: '275.79px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_4.jpg")} style={{ width: '392.48px', height: '856.77px', marginLeft: '-39.13px', marginTop: '-339.23px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '15.28px -15.28px', border: '0.00px solid #000000', transform: 'rotate(4.71rad) translateZ(0px)',  width: '275.90px', height: '245.35px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_5.jpg")} style={{ width: '714.92px', height: '327.49px', marginLeft: '-201.43px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '252.50px', height: '275.79px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_3.jpg")} style={{ width: '392.48px', height: '856.77px', marginLeft: '-39.13px', marginTop: '-339.23px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '15.28px -15.28px', border: '0.00px solid #000000', transform: 'rotate(4.71rad) translateZ(0px)',  width: '275.90px', height: '245.35px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_4.jpg")} style={{ width: '714.92px', height: '327.49px', marginLeft: '-201.43px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <div style={{ textAlign: 'center'}}>Squared corner&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not squared corner</div>
 
 <p><br /> </p>
 
-:::danger
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '620.00px', height: '282.00px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_5.jpg")} style={{ width: '620.00px', height: '303.95px', marginLeft: '0.00px', marginTop: '-16.97px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
-At this point, follow the [FIRST KitBot](https://www.firstinspires.org/resource-library/frc/kitbot) plans to machine and assemble the launcher and frame, and attach it to the chassis. After the hole attaching the front of the superstructure to the frame is added in step 4 of section 6.2.10 and the fitment of the mechanism is satisfactory the mechanism can be removed if desired.
+<p><br /> </p>
 
-:::
+The churro in the front part of the chassis is installed in the AndyMark recommended location. If you plan on adding the Everybot additions to the KitBot, install the rear churro one churro hole further back.
+
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '100.00px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_6.png")} style={{ width: '624.00px', height: '100.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
 :::note
 
-Your chassis will now have a front (towards the side with added holes) and a back (the other side of the robot where the angled structure is pointing down towards). It is probably a good idea to label the chassis with front and back so your team can keep it straight when assembling the rest of the KitBot.
+Your chassis will now have a front (the side with the churro closer to the middle) and a back (the other side of the robot with the churro closer to the Chassis End Plate). It is probably a good idea to label the chassis with front and back so your team can keep it straight when assembling the rest of the KitBot.
+
+:::
+
+<p><br /> </p>
+
+:::danger
+
+At this point, follow the [FIRST KitBot](https://www.firstinspires.org/resource-library/frc/kitbot) plans to machine and assemble the launcher and frame, and attach it to the chassis, making sure the front of the mechanism is on the side with the churro closer to the center of the frame. After the hole attaching the front of the superstructure to the frame is added in step 4 of section 6.2.10 and the fitment of the mechanism is satisfactory the mechanism can be removed if desired.
 
 :::
 
@@ -334,7 +329,7 @@ Attach three of the 3.375&rdquo; long churros to each side of the chassis using 
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '93.33px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_6.png")} style={{ width: '624.00px', height: '93.34px', marginLeft: '0.00px', marginTop: '-0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '93.33px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_7.png")} style={{ width: '624.00px', height: '93.34px', marginLeft: '0.00px', marginTop: '-0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
@@ -342,7 +337,7 @@ A 1/2&rdquo; hex wrench can be used to hold churro in place while tightening the
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '470.00px', height: '243.40px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_7.jpg")} style={{ width: '470.00px', height: '279.98px', marginLeft: '0.00px', marginTop: '-18.29px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '470.00px', height: '243.40px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_8.jpg")} style={{ width: '470.00px', height: '279.98px', marginLeft: '0.00px', marginTop: '-18.29px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
@@ -350,7 +345,7 @@ Place a center wheel with two pulleys on the Toughbox output shaft with the alum
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '197.00px', height: '176.40px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_8.jpg")} style={{ width: '209.00px', height: '457.61px', marginLeft: '0.00px', marginTop: '-78.71px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '194.21px', height: '176.00px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_9.jpg")} style={{ width: '406.01px', height: '185.70px', marginLeft: '-107.33px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '197.00px', height: '176.40px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_9.jpg")} style={{ width: '209.00px', height: '457.61px', marginLeft: '0.00px', marginTop: '-78.71px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '194.21px', height: '176.00px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_10.jpg")} style={{ width: '406.01px', height: '185.70px', marginLeft: '-107.33px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
@@ -362,7 +357,7 @@ If the spacer can not easily be pushed or tapped into place with a rubber mallet
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '243.50px', height: '215.00px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_10.jpg")} style={{ width: '543.51px', height: '247.79px', marginLeft: '-150.54px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '347.42px', height: '215.50px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_11.jpg")} style={{ width: '633.27px', height: '291.36px', marginLeft: '-101.15px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '243.50px', height: '215.00px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_11.jpg")} style={{ width: '543.51px', height: '247.79px', marginLeft: '-150.54px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '347.42px', height: '215.50px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_12.jpg")} style={{ width: '633.27px', height: '291.36px', marginLeft: '-101.15px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
@@ -370,9 +365,9 @@ Loop two of the 160 tooth belts (am-2266, marked as 8005M15 on the belts themsel
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '310.50px', height: '180.48px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_12.jpg")} style={{ width: '310.50px', height: '208.31px', marginLeft: '0.00px', marginTop: '-13.92px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '310.50px', height: '180.48px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_13.jpg")} style={{ width: '310.50px', height: '208.31px', marginLeft: '0.00px', marginTop: '-13.92px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '140.00px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_13.jpg")} style={{ width: '624.00px', height: '140.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '140.00px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_14.jpg")} style={{ width: '624.00px', height: '140.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
@@ -380,7 +375,7 @@ The photos in this section show the left side of the chassis with the front of t
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '92.00px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_14.png")} style={{ width: '625.19px', height: '92.00px', marginLeft: '-0.60px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '92.00px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_15.png")} style={{ width: '625.19px', height: '92.00px', marginLeft: '-0.60px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
@@ -388,7 +383,7 @@ Insert one of the 3/8-16 4.25&rdquo; bolts (am-1297) through the rear axle hole 
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '313.58px', height: '207.50px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_15.jpg")} style={{ width: '313.58px', height: '207.50px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '230.81px', height: '207.50px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_16.jpg")} style={{ width: '230.81px', height: '207.50px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '313.58px', height: '207.50px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_16.jpg")} style={{ width: '313.58px', height: '207.50px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '230.81px', height: '207.50px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_17.jpg")} style={{ width: '230.81px', height: '207.50px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
@@ -396,7 +391,7 @@ Take one of the four outer wheels and loop the belt around its pulley, making su
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '297.00px', height: '203.04px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_17.jpg")} style={{ width: '297.00px', height: '203.04px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '308.00px', height: '202.99px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_18.jpg")} style={{ width: '308.00px', height: '215.93px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '297.00px', height: '203.04px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_18.jpg")} style={{ width: '297.00px', height: '203.04px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '308.00px', height: '202.99px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_19.jpg")} style={{ width: '308.00px', height: '215.93px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
@@ -408,7 +403,7 @@ Insert another 3/8-16 4.25&rdquo; bolt (am-1297) through the front axle hole in 
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '429.96px', height: '251.00px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_19.jpg")} style={{ width: '429.96px', height: '251.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '429.96px', height: '251.00px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_20.jpg")} style={{ width: '429.96px', height: '251.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
@@ -416,7 +411,7 @@ Pull the other 160 tooth belt towards the front of the robot, making sure it fit
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '192.00px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_20.jpg")} style={{ width: '624.00px', height: '192.00px', marginLeft: '-0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '192.00px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_21.jpg")} style={{ width: '624.00px', height: '192.00px', marginLeft: '-0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
@@ -424,7 +419,7 @@ Now slip a short 0.28&rdquo; nylon spacer over the end of the bolt. A nut can be
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '146.67px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_21.jpg")} style={{ width: '624.00px', height: '146.67px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '146.67px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_22.jpg")} style={{ width: '624.00px', height: '146.67px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div>
 
 <p><br /> </p>
 
@@ -432,7 +427,7 @@ Press a FR8ZZ 1/2&ldquo; round bearing (am-0030) into the center hole of each Ch
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '289.00px', height: '255.00px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_22.jpg")} style={{ width: '289.00px', height: '255.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '289.00px', height: '255.00px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_23.jpg")} style={{ width: '289.00px', height: '255.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
@@ -440,7 +435,7 @@ With the Outside Plate&rsquo;s flanges pointing out, line the bearing up with th
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '150.67px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_23.jpg")} style={{ width: '652.51px', height: '150.67px', marginLeft: '-15.91px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '150.67px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_24.jpg")} style={{ width: '652.51px', height: '150.67px', marginLeft: '-15.91px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div>
 
 <p><br /> </p>
 
@@ -448,7 +443,7 @@ Secure the Chassis Outside Plates in place using six 10-32 x 0.5&rdquo; bolts an
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '573.50px', height: '420.02px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_24.jpg")} style={{ width: '573.50px', height: '420.02px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '573.50px', height: '420.02px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_25.jpg")} style={{ width: '573.50px', height: '420.02px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
