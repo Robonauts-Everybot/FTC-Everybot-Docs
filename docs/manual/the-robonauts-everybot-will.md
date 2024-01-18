@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'The Robonauts Everybot Will...'
-sidebar_position: 2
+sidebar_position: 1
 description: "The goals we set out to achieve with the Everybot"
 ---
 

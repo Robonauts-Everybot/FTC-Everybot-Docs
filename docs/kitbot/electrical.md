@@ -85,9 +85,7 @@ The battery bracket is included with the AndyMark Kit of Parts Chassis that you 
 
 The bracket is installed slightly off center in the back of the robot (the opposite side from the scoring mechanism). Looking at the rear Chassis End Plate from behind the robot, the leftmost hole in the top plate of the AndyMark Battery Bracket should be located in the 18th hole along the Chassis End Plate top flange when counting from the left edge to the right. This will be 8.75&rdquo; away from the left side of the chassis when viewed from the back. Make sure the top plate is on top of the Chassis End Plate upper flange and the lower plate is below the Chassis End Plate lower flange.
 
-<br/>
-
-<div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '161.33px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/electrical/image_3.png")} style={{ width: '624.00px', height: '161.33px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '161.33px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/electrical/image_3.png")} style={{ width: '624.00px', height: '161.33px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <br/>
 
@@ -109,11 +107,9 @@ Use four 0.5&rdquo; 10-32 socket heads to secure the bottom plate to the chassis
 
 Next install the battery clamp, which is the strip with 5 holes, on top of the cylindrical spacers with the 1.5&rdquo; 10-32 bolts with nylock nuts underneath. There should be five open holes from the plate to one side of the top battery plate to the location of the battery clamp.
 
-<br/>
-
 <div style={{pageBreakAfter: 'always'}}></div>
 
-<div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '269.33px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/electrical/image_6.png")} style={{ width: '624.00px', height: '269.33px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '269.33px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/electrical/image_6.png")} style={{ width: '624.00px', height: '269.33px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <br/>
 
@@ -131,7 +127,7 @@ The KitBot shopping list includes a sheet of 1/2 inch thick plywood intended to 
 
 <br/>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '324.13px', height: '591.50px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/electrical/image_8.png")} style={{ width: '330.00px', height: '591.50px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 5.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '274.76px', height: '540.50px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/electrical/image_9.png")} style={{ width: '276.10px', height: '540.50px', marginLeft: '-0.67px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '324.13px', height: '591.50px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/electrical/image_8.png")} style={{ width: '330.00px', height: '591.50px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '274.76px', height: '540.50px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/electrical/image_9.png")} style={{ width: '276.10px', height: '540.50px', marginLeft: '-0.67px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <br/>
 
@@ -145,9 +141,7 @@ The easiest way to install the bellypan is to slide it in from the front or rear
 
 <div style={{ textAlign: 'center'}}>FIRST official KitBot CAD churro locations</div>
 
-<br/>
-
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '591.00px', height: '388.00px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/electrical/image_11.png")} style={{ width: '625.05px', height: '402.53px', marginLeft: '-8.51px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '571.50px', height: '388.00px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/electrical/image_11.png")} style={{ width: '601.97px', height: '388.00px', marginLeft: '-7.24px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <div style={{ textAlign: 'center'}}>Our recommended churro locations (Everybot compatible)</div>
 
@@ -173,7 +167,7 @@ The component layout shown and described here is merely one potential layout and
 
 <br/>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '591.00px', height: '388.00px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/electrical/image_11.png")} style={{ width: '625.05px', height: '402.53px', marginLeft: '-8.51px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '525.33px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/electrical/image_14.png")} style={{ width: '624.40px', height: '525.33px', marginLeft: '-0.20px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <br/>
 
@@ -199,7 +193,7 @@ The middle of the bellypan holds the Power Distribution Hub (PDH). The PDH is he
 
 <br/>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '328.00px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/electrical/image_16.jpg")} style={{ width: '624.00px', height: '328.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '238.67px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/electrical/image_18.jpg")} style={{ width: '624.00px', height: '238.67px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <br/>
 
@@ -257,6 +251,8 @@ The motors are plugged into their motor controllers by stripping the ends of the
 
 Do not worry about the white wire if using the provided CIM motors for the KitBot. Wrap some electrical tape around the white wire if it is unused to prevent the wire inside from contacting metal components of the robot. It does need to be connected (along with the hall effect sensor cable) if using NEO motors. In our testing we preferred CIMs over NEOs in all locations.
 
+<br/>
+
 <div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '184.50px', height: '180.95px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/electrical/image_23.jpg")} style={{ width: '442.80px', height: '787.00px', marginLeft: '-68.83px', marginTop: '-199.59px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 :::
@@ -305,7 +301,7 @@ When using the Radio Power Module, the Ethernet cables (covered in the Data sect
 
 <br/>
 
-<h2><span style={{ fontSize: "16pt"}}>Data Wiring</span></h2>
+## Data Wiring
 
 We suggest using the CAN bus over PWM cables to control the motor controllers as the wiring is neater and there are sometimes issues with using PWM control with Spark Max controllers. The CAN network or &ldquo;bus&rdquo; consists of a daisy-chain connecting every component on the bus. The CAN bus begins at the CAN ports located near the power connector on the roboRIO and terminates at the CAN connectors on the PDP or PDH, passing through each of the Spark Max motor controllers on the way.
 
@@ -403,7 +399,9 @@ The connector end of either cable is plugged into the RSL port with the red wire
 
 ## Securing the Battery
 
-Some text and images are derived from the AndyMark [battery bracket manual](https://cdn.andymark.com/media/W1siZiIsIjIwMjAvMDEvMDMvMTgvMjgvNDUvYmFhYmY4ZTUtZjEzNC00ZDRlLTg3MTMtOWM0ODMzNzQ4OTJjL0FNMTRVNCBCYXR0ZXJ5IFRyYXkgQXR0YWNobWVudC5wZGYiXV0/AM14U4%20Battery%20Tray%20Attachment.pdf?sha=362671bd2d9d78da).
+<br/>
+
+Derived from the AM battery bracket manual.
 
 <br/>
 

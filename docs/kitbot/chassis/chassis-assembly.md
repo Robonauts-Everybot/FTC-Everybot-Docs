@@ -47,13 +47,13 @@ Using a carpenter&rsquo;s square or similar tool, check that the frame of the ch
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '620.00px', height: '282.00px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_5.jpg")} style={{ width: '620.00px', height: '303.95px', marginLeft: '0.00px', marginTop: '-16.97px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '620.00px', height: '309.47px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_5.jpg")} style={{ width: '620.00px', height: '336.94px', marginLeft: '0.00px', marginTop: '-27.47px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
 The churro in the front part of the chassis is installed in the AndyMark recommended location. If you plan on adding the Everybot additions to the KitBot, install the rear churro one churro hole further back.
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '100.00px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_6.png")} style={{ width: '624.00px', height: '100.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '100.00px'}}><Image autoLoad={"true"} img={require("/static/media/kitbot/chassis/p2/image_6.png")} style={{ width: '624.19px', height: '100.00px', marginLeft: '-0.10px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 

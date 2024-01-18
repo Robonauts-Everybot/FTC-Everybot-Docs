@@ -57,7 +57,7 @@ The video attached is private, here an image of the connector:
 <br/>
 
 <div style={{textAlign: 'center'}}>
-<div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)'}}><Image autoLoad={"true"} img={require("/static/media/electrical/ezgif-2-736bc92b50.png")} style={{ marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "700px"}}></Image></span></div></div>
+<div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)'}}><Image autoLoad={"true"} img={require("/static/media/electrical/circuit-breaker-REV-1400.webp")} style={{ marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "700px"}}></Image></span></div></div>
 
 <br/>
 

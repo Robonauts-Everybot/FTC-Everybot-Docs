@@ -116,6 +116,9 @@ const config: Config = {
             position: 'left',
             label: '2024 Everybot Documentation',
           },
+          {
+            type: 'docSidebar', sidebarId: 'everybotResources', label: 'Everybot Resources', position: 'left'
+          },
           { type: 'docSidebar', sidebarId: 'fundamentalSidebar', label: 'Everybot Evergreens', position: 'left' },
           {type: 'docSidebar', sidebarId: 'kitbotSidebar', label: 'Our KitBot Resources', position: 'left'},
           { to: '/blog', label: 'Updates', position: 'left' },
