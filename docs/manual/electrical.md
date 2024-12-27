@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Electrical'
-sidebar_position: 5
+sidebar_position: 6
 description: ""
 ---
 
@@ -12,17 +12,11 @@ The Everybot electrical system can be wired using wire and connectors included i
 
 ## [How to Wire a Robot video from FIRST](https://www.youtube.com/watch?v=lGgIhxYuSHM)
 
-<p><br /> </p>
-
 For more visual aid we highly recommend watching this video. Wiring a battery, main breaker, motor controllers, the roboRIO, RSL (Robot Signal Light) and CAN bus is covered.
 
 ## [Introduction to FRC Robot Wiring](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-1/intro-to-frc-robot-wiring.html)
 
-<p><br /> </p>
-
 A that FIRST linked that we also want to echo. Here are two large pieces of information when using this resource:
-
-<p><br /> </p>
 
 - Use CAN over PWM, we have had issues with SPARK MAXs in PWM mode and found CAN to be significantly more reliable
 
@@ -32,7 +26,9 @@ A that FIRST linked that we also want to echo. Here are two large pieces of info
 
 :::tip
 
-**If you plan on using the quick disconnects included in the kit, please see our [video](TODO: add crimping video) on crimping them**
+**If you plan on using the quick disconnects included in the kit, please see our [video](https://youtu.be/NslfpSyZNOo).**
+
+<br/>
 
 <div style={{overflow: 'hidden', float: 'right', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{float: 'right', overflow: 'hidden', display: 'inline-block', margin: '-19.22px 19.22px', border: '0.00px solid #000000', transform: 'rotate(4.71rad) translateZ(0px)',  width: '93.56px', height: '132.00px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_0.jpg")} style={{ width: '221.43px', height: '387.99px', marginLeft: '-68.01px', marginTop: '-92.73px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div>
 
@@ -59,8 +55,6 @@ For more tips on navigating this resource please the Everybot Evergreens electri
 :::
 
 <div style={{pageBreakAfter: 'always'}}></div>
-
-<p><br /> </p>
 
 ## Battery Bracket
 
@@ -134,6 +128,8 @@ The easiest way to install the bellypan is to slide it in from the front or rear
 
 <div style={{ textAlign: 'center'}}>FIRST official KitBot CAD churro locations</div>
 
+<div style={{ textAlign: 'center'}}>(these have since been moved, but one must still be removed)</div>
+
 <div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '556.50px', height: '388.00px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_11.png")} style={{ width: '602.50px', height: '388.00px', marginLeft: '-15.75px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <div style={{ textAlign: 'center'}}>Everybot churro locations</div>
@@ -204,6 +200,12 @@ The climber motor controller sits under the climber and in range of the motor, w
 
 <div style={{pageBreakAfter: 'always'}}></div>
 
+<h2><span style={{ fontSize: "16pt"}}>Wiring Diagram</span></h2>
+
+<h2><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '616.00px', height: '801.00px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_21.jpg")} style={{ width: '624.00px', height: '801.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></h2>
+
+<div style={{pageBreakAfter: 'always'}}></div>
+
 <p><br /> </p>
 
 ## Power Wiring
@@ -212,7 +214,7 @@ Thick 6 gauge wire (provided in the [Kit of Parts](https://firstfrc.blob.core.wi
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(3.14rad) translateZ(0px)',  width: '419.50px', height: '340.55px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_21.jpg")} style={{ width: '1064.10px', height: '484.04px', marginLeft: '-392.22px', marginTop: '-22.16px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(3.14rad) translateZ(0px)',  width: '419.50px', height: '340.55px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_22.jpg")} style={{ width: '1064.10px', height: '484.04px', marginLeft: '-392.22px', marginTop: '-22.16px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
@@ -226,7 +228,7 @@ The Anderson Connector can be screwed into the tab on the battery bracket using 
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '388.00px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_22.png")} style={{ width: '624.00px', height: '388.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '388.00px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_23.png")} style={{ width: '624.00px', height: '388.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> <br /> </p>
 
@@ -238,7 +240,7 @@ The eight Spark Maxes should be able to be plugged directly into the PDP/PDH by 
 
 <div style={{pageBreakAfter: 'always'}}></div>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '476.50px', height: '335.99px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_23.jpg")} style={{ width: '476.50px', height: '335.99px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '476.50px', height: '335.99px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_24.jpg")} style={{ width: '476.50px', height: '335.99px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
@@ -246,7 +248,7 @@ The motors are plugged into their motor controllers by stripping the ends of the
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '438.71px', height: '183.50px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_24.jpg")} style={{ width: '438.71px', height: '183.50px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '438.71px', height: '183.50px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_25.jpg")} style={{ width: '438.71px', height: '183.50px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
@@ -254,13 +256,13 @@ The motors are plugged into their motor controllers by stripping the ends of the
 
 Do not worry about the white wire when connecting CIM motors to Spark Max motor controllers. Wrap some electrical tape around the white wire if it is unused to prevent the wire inside from contacting metal components of the robot. It does need to be connected (along with the hall effect sensor cable) if you use the NEO in the Rookie Kit of Parts to power the climbing mechanism.
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '184.50px', height: '180.95px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_25.jpg")} style={{ width: '442.80px', height: '787.00px', marginLeft: '-68.83px', marginTop: '-199.59px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '184.50px', height: '180.95px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_26.jpg")} style={{ width: '442.80px', height: '787.00px', marginLeft: '-68.83px', marginTop: '-199.59px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 :::
 
 <div style={{pageBreakAfter: 'always'}}></div>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '308.70px', height: '197.39px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_26.jpg")} style={{ width: '308.70px', height: '197.39px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '274.00px', height: '198.45px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_27.jpg")} style={{ width: '281.82px', height: '198.45px', marginLeft: '-3.91px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '308.70px', height: '197.39px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_27.jpg")} style={{ width: '308.70px', height: '197.39px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '274.00px', height: '198.45px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_28.jpg")} style={{ width: '281.82px', height: '198.45px', marginLeft: '-3.91px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
@@ -292,7 +294,7 @@ Two pairs of 18 gauge wire run from the PDH auxiliary power slots to the roboRIO
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '279.50px', height: '154.08px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_28.jpg")} style={{ width: '279.50px', height: '154.08px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '279.50px', height: '154.08px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_29.jpg")} style={{ width: '279.50px', height: '154.08px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <div style={{pageBreakAfter: 'always'}}></div>
 
@@ -300,7 +302,7 @@ When using the Radio Power Module, the Ethernet cables (covered in the Data sect
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '185.50px', height: '353.33px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_29.jpg")} style={{ width: '277.58px', height: '491.21px', marginLeft: '-52.49px', marginTop: '-40.79px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '185.50px', height: '353.33px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_30.jpg")} style={{ width: '277.58px', height: '491.21px', marginLeft: '-52.49px', marginTop: '-40.79px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <div style={{pageBreakAfter: 'always'}}></div>
 
@@ -316,7 +318,7 @@ The Spark Maxes come with two data cables, a black and white PWM cable and a CAN
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '319.50px', height: '291.38px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_30.jpg")} style={{ width: '319.50px', height: '291.38px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '295.00px', height: '292.00px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_31.jpg")} style={{ width: '295.00px', height: '307.00px', marginLeft: '0.00px', marginTop: '-15.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '319.50px', height: '291.38px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_31.jpg")} style={{ width: '319.50px', height: '291.38px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '295.00px', height: '292.00px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_32.jpg")} style={{ width: '295.00px', height: '307.00px', marginLeft: '0.00px', marginTop: '-15.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <div style={{pageBreakAfter: 'always'}}></div>
 
@@ -326,7 +328,7 @@ One of the pairs of yellow and green wire will connect to the previous device in
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '306.50px', height: '227.15px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_32.jpg")} style={{ width: '306.50px', height: '227.15px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '313.50px', height: '228.72px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_33.jpg")} style={{ width: '313.50px', height: '228.72px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '306.50px', height: '227.15px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_33.jpg")} style={{ width: '306.50px', height: '227.15px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '313.50px', height: '228.72px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_34.jpg")} style={{ width: '313.50px', height: '228.72px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
@@ -334,7 +336,7 @@ The Spark Max CAN cables come with servo-style pin header connectors. One connec
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '302.00px', height: '299.17px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_34.jpg")} style={{ width: '302.00px', height: '314.27px', marginLeft: '0.00px', marginTop: '-9.44px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '320.00px', height: '299.67px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_35.jpg")} style={{ width: '320.00px', height: '299.67px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '302.00px', height: '299.17px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_35.jpg")} style={{ width: '302.00px', height: '314.27px', marginLeft: '0.00px', marginTop: '-9.44px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '320.00px', height: '299.67px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_36.jpg")} style={{ width: '320.00px', height: '299.67px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <div style={{pageBreakAfter: 'always'}}></div>
 
@@ -342,7 +344,7 @@ The other connector on that same motor controller can then be plugged into the o
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '315.50px', height: '316.53px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_36.jpg")} style={{ width: '315.50px', height: '316.53px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '304.90px', height: '316.51px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_37.jpg")} style={{ width: '304.90px', height: '316.51px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '315.50px', height: '316.53px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_37.jpg")} style={{ width: '315.50px', height: '316.53px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '304.90px', height: '316.51px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_38.jpg")} style={{ width: '304.90px', height: '316.51px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <div style={{pageBreakAfter: 'always'}}></div>
 
@@ -352,7 +354,7 @@ The white clips provided with the Spark Maxes can be used to hold the servo conn
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '333.50px', height: '228.24px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_38.jpg")} style={{ width: '333.50px', height: '228.24px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '267.50px', height: '229.43px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_39.jpg")} style={{ width: '267.50px', height: '229.43px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '333.50px', height: '228.24px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_39.jpg")} style={{ width: '333.50px', height: '228.24px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '267.50px', height: '229.43px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_40.jpg")} style={{ width: '267.50px', height: '229.43px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
@@ -364,7 +366,7 @@ The radio needs to be plugged into the Ethernet jack on the roboRIO. If the Radi
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '420.00px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_40.jpg")} style={{ width: '624.00px', height: '420.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '420.00px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_41.jpg")} style={{ width: '624.00px', height: '420.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
@@ -388,7 +390,7 @@ The Robot Signal Light (RSL) visually indicates what state of operation your rob
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '422.97px', height: '322.65px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_41.jpg")} style={{ width: '422.97px', height: '322.65px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '422.97px', height: '322.65px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_42.jpg")} style={{ width: '422.97px', height: '322.65px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
@@ -398,7 +400,7 @@ The connector end of either cable is plugged into the RSL port with the red wire
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '324.50px', height: '264.13px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_42.jpg")} style={{ width: '324.50px', height: '264.13px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '243.75px', height: '262.50px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_43.jpg")} style={{ width: '243.75px', height: '262.50px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '324.50px', height: '264.13px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_43.jpg")} style={{ width: '324.50px', height: '264.13px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '243.75px', height: '262.50px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_44.jpg")} style={{ width: '243.75px', height: '262.50px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <div style={{pageBreakAfter: 'always'}}></div>
 
@@ -416,7 +418,7 @@ Derived from the AM battery bracket manual.
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '348.50px', height: '296.01px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_44.png")} style={{ width: '348.50px', height: '296.01px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '348.50px', height: '296.01px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_45.png")} style={{ width: '348.50px', height: '296.01px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
@@ -424,7 +426,7 @@ Derived from the AM battery bracket manual.
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '381.71px', height: '224.50px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_45.png")} style={{ width: '381.71px', height: '224.50px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '381.71px', height: '224.50px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_46.png")} style={{ width: '381.71px', height: '224.50px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <div style={{pageBreakAfter: 'always'}}></div>
 

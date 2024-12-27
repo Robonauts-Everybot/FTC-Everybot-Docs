@@ -1,12 +1,14 @@
 ---
 sidebar_label: 'Roller Claw'
-sidebar_position: 3
+sidebar_position: 4
 description: ""
 ---
 
 import Image from '@theme/IdealImage';
 
 # Everybot Roller Claw
+
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '469.00px', height: '329.81px'}}><Image autoLoad={"true"} img={require("/static/media/introduction/image_3.png")} style={{ width: '469.00px', height: '329.81px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 ### <div style={{ textAlign: 'center'}}>Roller Claw Architecture</div>
 
@@ -83,7 +85,7 @@ A NEO 550 could also be used but the motor controller would need to be relocated
 
 ## <div style={{ textAlign: 'center'}}>Roller Claw Assembly</div>
 
-If you do not have access to a CNC mill, router, waterjet, or other similar computerized manufacturing process it is recommended that your team purchase a pair of roller claw side plates from one of the manufacturers that have agreed to produce and sell them directly to teams. A DXF of these side plates can be found [here](https://cdn.discordapp.com/attachments/928843736849477675/1197047671920271401/everybot24_rollerclaw_side_x2.dxf?ex=65b9d885&amp;is=65a76385&amp;hm=5fda3ac6d4c65f8f822f53fec3427ea9b6acbd4775a4b81afce850ab6322f74c&amp;)&nbsp;with the&nbsp;horizontal support plate [here](https://cdn.discordapp.com/attachments/928843736849477675/1197047671605694604/everybot24_deflector_x1.dxf?ex=65b9d884&amp;is=65a76384&amp;hm=c77be7cf69f67cb60ff78102050d07770148493a52add2559df643d84b81f395&amp;).
+If you do not have access to a CNC mill, router, waterjet, or other similar computerized manufacturing process it is recommended that your team purchase a pair of roller claw side plates from one of the manufacturers that have agreed to produce and sell them directly to teams. A DXF of these side plates can be found [here](https://drive.google.com/file/d/1UQrz02eukxNCq5t4sMpPU92qqvWHlii1/view?usp=drive_link)&nbsp;with the&nbsp;horizontal support plate [here](https://drive.google.com/file/d/1LvSxkTAAT8KFWu26xsgYczYrWR-_NkR6/view?usp=drive_link).
 
 <p><br /> </p>
 

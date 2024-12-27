@@ -20,12 +20,16 @@ export default function HomepageFeatures() {
               <h1>Welcome to the Everybot Documentation Site</h1>
               <br>
               </br>
+              <h3>Google Doc for translated <a href='https://docs.google.com/document/d/1lBv1Fh4_S4MBdBZgeo5OS2aI-miKmlPI-0C_GDHbHdI/edit?usp=sharing' target='_blank'>Everybot</a> manual and <a href='https://docs.google.com/document/d/1Eb5SdHCCC-5kwIwPgk8-dheHW8TVtwfSRiBPiTpqHRk/edit?usp=sharing' target='_blank'>KitBot</a> resources</h3>
               <br></br><br></br><br></br>
               <h2>At the top you will find:  </h2>
               <div>
                 <ul style={{ textAlign: 'center', listStylePosition: 'inside', marginBottom: '5px', fontSize: '20px' }}>
                   <li>
                     Step-by-step instructions to build the Everybot which will be gradually released in the first weeks of the season
+                  </li>
+                  <li>
+                    Resources for the Everybot, such as the Everybot Discord, Bill of Materials, CAD and Code
                   </li>
                   <li>
                     Everybot Evergreens, a collection of exercises and technical resources
@@ -68,11 +72,12 @@ function Tester() {
 
   let firstBlog = "/Everybot-Docs" + test[0].id.match(/\/blog\/.*/);
   let secondBlog = "/Everybot-Docs" + test[1].id.match(/\/blog\/.*/);
+  let thirdBlog = "/Everybot-Docs" + test[2].id.match(/\/blog\/.*/);
 
   return (
     <aside className="col col--2"><nav className="sidebar_node_modules-@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module thin-scrollbar" aria-label="Blog recent posts navigation" style={{
       top: "calc(var(--ifm-navbar-height) + 2rem)", position: "sticky", maxHeight: "calc(100vh - (var(--ifm-navbar-height) + 2rem))", overflowY: "auto"
-    }}><h3 className={styles.updates}>Recent Updates</h3><ul className="sidebarItemList_node_modules-@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module clean-list"><li className="sidebarItem_node_modules-@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module"><a className={styles.details} href={firstBlog}>{test[0].title}</a></li><br></br><li className="sidebarItem_node_modules-@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module"><a className={styles.details} href={secondBlog}>{test[1].title}</a></li></ul></nav></aside >
+    }}><h3 className={styles.updates}>Recent Updates</h3><ul className="sidebarItemList_node_modules-@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module clean-list"><li className="sidebarItem_node_modules-@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module" style={{ margin: "0px 0" }}><a className={styles.details} href={firstBlog}>{test[0].title}</a></li><br /><li className="sidebarItem_node_modules-@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module" style={{ margin: "0px 0" }}><a className={styles.details} href={secondBlog}>{test[1].title}</a></li><br /><li className="sidebarItem_node_modules-@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module" style={{ margin: "0px 0" }}><a className={styles.details} href={thirdBlog}>{test[2].title}</a></li></ul></nav></aside >
   );
 }
 

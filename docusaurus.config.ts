@@ -30,6 +30,16 @@ const config: Config = {
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
+    //locales: ['en', 'fr', 'fa'],
+    //localeConfigs: {
+    //  en: {
+    //   htmlLang: 'en-GB',
+    // },
+    // You can omit a locale (e.g. fr) if you don't need to override the defaults
+    //  fa: {
+    //    direction: 'rtl',
+    //},
+    //},
   },
 
   presets: [
@@ -49,12 +59,13 @@ const config: Config = {
           showReadingTime: false,
           feedOptions: {
             type: 'all',
-            copyright: `Copyright © ${new Date().getFullYear()} THE ROBONAUTS`,
+            copyright: `Copyright © ${new Date().getFullYear()
+              } THE ROBONAUTS`,
             createFeedItems: async (params) => {
               const { blogPosts, defaultCreateFeedItems, ...rest } = params;
               return defaultCreateFeedItems({
                 // keep only the 10 most recent blog posts in the feed
-                blogPosts: blogPosts.filter((item, index) => index < 2),
+                blogPosts: blogPosts.filter((item, index) => index < 4),
                 ...rest,
               });
             },
@@ -84,7 +95,7 @@ const config: Config = {
       require.resolve('@yapplejack/docusaurus-plugin-ideal-image'),
       {
         quality: 100,
-        max: 1200, // max resized image's size.
+        max: 1800, // max resized image's size.
         min: 600, // min resized image's size. if original is lower, use that size.
         steps: 3, // the max number of images generated between min and max (inclusive)
         disableInDev: false,
@@ -119,9 +130,16 @@ const config: Config = {
           {
             type: 'docSidebar', sidebarId: 'everybotResources', label: 'Everybot Resources', position: 'left'
           },
+          {
+            type: 'docSidebar', sidebarId: 'FTCSidebar', label: "FTC Everybot Resources", position: 'left'
+          },
           { type: 'docSidebar', sidebarId: 'fundamentalSidebar', label: 'Everybot Evergreens', position: 'left' },
-          {type: 'docSidebar', sidebarId: 'kitbotSidebar', label: 'Our KitBot Resources', position: 'left'},
+          { type: 'docSidebar', sidebarId: 'kitbotSidebar', label: 'Our KitBot Resources', position: 'left' },
           { to: '/blog', label: 'Updates', position: 'left' },
+          //{
+          //  type: 'localeDropdown',
+          //  position: 'left',
+          //},
           {
             href: 'https://www.118everybot.org/',
             label: 'Everybot Hub Website',
