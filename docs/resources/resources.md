@@ -8,24 +8,38 @@ import Image from '@theme/IdealImage';
 
 <br/>
 
-# [Discord](https://discord.gg/XuWfwRJcfA)
+# [Everybot Discord](https://discord.gg/XuWfwRJcfA)
 
-# [Reveal Video](https://www.youtube.com/watch?v=o71nCB5ytRY)
+# [Reveal Video](https://www.youtube.com/watch?v=cM40ZVAj9Tk)
 
-# [Bill of Materials](https://docs.google.com/spreadsheets/d/1JyhVJVZ0inz81Wz3QoG46LAQDKUhNX0DPzLpNda1-z4/edit?usp=sharing)
+# [BOM (Bill Of Materials)](https://docs.google.com/spreadsheets/d/1xdodEr3vj5AneTFxeAHf_wto5SA2gwDHoCzKOeL6VsE/edit?usp=sharing)
 
-# [Everybot CAD](https://cad.onshape.com/documents/11393533f241a1bac47fac04/w/54cb75f426d800e19ae27e1b/e/551c742fd59451c1f2fbfc42?renderMode=0&uiState=65a6f1f83bf5b4311bb3cbbb)
+# [Cut List](https://docs.google.com/spreadsheets/d/1xdodEr3vj5AneTFxeAHf_wto5SA2gwDHoCzKOeL6VsE/edit?gid=2076126636#gid=2076126636)
 
-# [Everybot Code](https://github.com/Robonauts-Everybot/Everybot-2024-Code)
+# [3D Printed Parts](https://drive.google.com/drive/folders/11rmf2mMmYooSvV4UwBnba3eJvCZcSJAN?usp=sharing)
 
-# [Everybot Scouting Sheet](https://drive.google.com/file/d/1Pl-yqfxHrna6vECbkAJJlCZcLwTvm9dE/view?usp=drive_link)
+# [Code](https://github.com/Robonauts-Everybot/Everybot-2025-Code) (will be here once it is ready)
 
-# [Everybot Scouting Guide](https://docs.google.com/document/d/18NSZVmFhvxz_Fo46LVo6jZsnqRJpHbhl/edit?usp=drive_link&ouid=113459328058165767681&rtpof=true&sd=true)
+# [CAD](https://cad.onshape.com/documents/322c7df6642d82ddf075940f/w/8ad012ad66362b6d4f5577e0/e/e921bded1f7315514cafb5a6?renderMode=0&uiState=67870c2bf1065e0a527a5e31)
 
-<br/><br/><br/>
+# [Main Everybot Site](https://www.118everybot.org/)
 
-# <div style={{ textAlign: 'center'}}>Roller Claw Resources:</div>
-# <div style={{ textAlign: 'center'}}>Purchase Intake Kit from [AndyMark](https://www.andymark.com/pages/everybot-2024)</div>
-# <div style={{ textAlign: 'center'}}>Purchase [Intake Plate](https://www.andymark.com/products/everybot-2024-polycarbonate-intake-plate?via=Z2lkOi8vYW5keW1hcmsvV29ya2FyZWE6OkNhdGFsb2c6OkNhdGVnb3J5LzVhZjhkOWRmYmM2ZjZkNWUzNmYyMzU0Zg) and [Deflector Plate](https://www.andymark.com/products/everybot-2024-polycarbonate-deflector-plate?via=Z2lkOi8vYW5keW1hcmsvV29ya2FyZWE6OkNhdGFsb2c6OkNhdGVnb3J5LzVhZjhkOWRmYmM2ZjZkNWUzNmYyMzU0Zg) from AndyMark</div>
-# <div style={{ textAlign: 'center'}}>[1:1 printable Roller Claw Plate PDFs](https://drive.google.com/drive/folders/18V3ZDKfA3n7g4oGU0VCl-ymKe8dkTRA5?usp=sharing)</div>
-# <div style={{ textAlign: 'center'}}>[Roller Claw DXFs](https://drive.google.com/drive/folders/11wZu2kKPe4djUYGnOWTsPsQig9LzSTFj?usp=sharing)</div>
+# [Robonauts Website](https://www.118robonauts.org/)
+
+# [NASA RAP Design Guide](https://robotics.nasa.gov/nasa-rap-robotics-design-guide/)
+
+<br/>
+<br/>
+
+# Supplier Specific Resources
+<br/>
+<div style={{ textAlign: 'center'}}>
+
+|Supplier|Link|Type Of Resource|
+| :--- | --- | ---|
+|Thrifty Bot|[2025 FRC Everybot Specific Page](https://www.thethriftybot.com/collections/everybot-2025)|Barb and Parts|
+|REV Robotics|[2025 FRC Everybot Specific Page](https://www.revrobotics.com/competition/frc-everybot/)|Parts|
+|AndyMark|[2025 FRC Everybot Specific Page](https://www.andymark.com/pages/everybot-2025)|Barb, Winch and Parts|
+|SendCutSend|[Everybot Barb Deep Climb Plates Cart Link](https://app.sendcutsend.com/customer#/cart?accept=aWQ9MTMwNDI3JnRva2VuPWJkOTM1ZDBhLWJlZjMtNDkyMi05MmMxLWRkOTU2%0ANzA2NDI2Mw%3D%3D%0A)|Barb|
+
+</div>

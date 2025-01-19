@@ -20,28 +20,6 @@ export default function HomepageFeatures() {
               <h1>Welcome to the Everybot Documentation Site</h1>
               <br>
               </br>
-              <h3>Google Doc for translated <a href='https://docs.google.com/document/d/1lBv1Fh4_S4MBdBZgeo5OS2aI-miKmlPI-0C_GDHbHdI/edit?usp=sharing' target='_blank'>Everybot</a> manual and <a href='https://docs.google.com/document/d/1Eb5SdHCCC-5kwIwPgk8-dheHW8TVtwfSRiBPiTpqHRk/edit?usp=sharing' target='_blank'>KitBot</a> resources</h3>
-              <br></br><br></br><br></br>
-              <h2>At the top you will find:  </h2>
-              <div>
-                <ul style={{ textAlign: 'center', listStylePosition: 'inside', marginBottom: '5px', fontSize: '20px' }}>
-                  <li>
-                    Step-by-step instructions to build the Everybot which will be gradually released in the first weeks of the season
-                  </li>
-                  <li>
-                    Resources for the Everybot, such as the Everybot Discord, Bill of Materials, CAD and Code
-                  </li>
-                  <li>
-                    Everybot Evergreens, a collection of exercises and technical resources
-                  </li>
-                  <li>
-                    Posts that document major updates for those building the Everybot as well as updates or large changes in the manual
-                  </li>
-                  <li>
-                    Resources to support the base KitBot configuration
-                  </li>
-                </ul>
-              </div>
               <br></br><br></br><br></br><br></br>
             </div>
           </div>

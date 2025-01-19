@@ -6,109 +6,115 @@ description: ""
 
 import Image from '@theme/IdealImage';
 
-# Robonauts' 2024 Everybot
+# Robonauts' 2025 Everybot
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.76px', height: '553.01px'}}><Image autoLoad={"true"} img={require("/static/media/introduction/image_0.png")} style={{ width: '832.16px', height: '553.01px', marginLeft: '-158.45px', marginTop: '-0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '553.50px', height: '542.23px'}}><Image autoLoad={"true"} img={require("/static/media/explanation/image_0.png")} style={{ width: '1150.44px', height: '645.26px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
-The Robonauts&rsquo; Everybot is an affordable, competitive, and elegant robot that can be built using basic tools and items found in the Kit of Parts, common FRC suppliers, or your local hardware store. The 2024 Everybot is based on the FIRST KitBot and offers a clear and simple upgrade path. The mechanisms can be built and installed independently and can also be incorporated into different robot designs. The 2024 Everybot costs around 900 U.S. dollars when built from the KitBot and Rookie Kit of Parts and weighs approximately 110lbs when complete.
-
-<p><br /> </p>
-
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '496.00px'}}><Image autoLoad={"true"} img={require("/static/media/introduction/image_1.png")} style={{ width: '624.00px', height: '496.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
-
-<p><br /> </p>
-
-The 2024 Everybot adds functionality to FIRST&rsquo;s KitBot by adding an Amp and Climbing mechanism.
-
+The Robonauts’ Everybot is an affordable, competitive, and elegant robot that can be built using basic tools and items found in the Kit of Parts, common FRC suppliers, or your local hardware store. The 2025 Everybot utilizes a majority of the KitBot components to offer a clear and simple upgrade path. The mechanisms can be built and installed independently and can also be incorporated into different robot designs. The 2025 Everybot costs around 1400 U.S. dollars when built from the KitBot parts and Rookie Kit of Parts and weighs approximately 79lbs without bumpers when complete.
 <div style={{pageBreakAfter: 'always'}}></div>
+<p><br /> </p>
 
-## Roller Claw
+The 2025 Everybot is able to do coral into the L1 trough of the REEF, ALGAE into the PROCESSOR and climb on the DEEP CAGE.
+
+<h1>Deep Climber</h1>
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '350.67px'}}><Image autoLoad={"true"} img={require("/static/media/introduction/image_2.jpg")} style={{ width: '624.00px', height: '350.67px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
-
-
-<p><br /> </p>
-
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '469.00px', height: '329.81px'}}><Image autoLoad={"true"} img={require("/static/media/introduction/image_3.png")} style={{ width: '469.00px', height: '329.81px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
-
-<p><br /> </p>
-
-The roller claw reliably picks up Notes from the Source and drops them into the Amp. The wheels are spun towards the inside of the claw when intaking from the Sources and spun away from the claw when scoring in the Amp. The Note is tightly held by the complaint wheels with the deflection plate and fiberglass rod preventing the Note from pivoting below the scoring position. The wheels can be run passively inward at low power (&gt;10%) if your claw is losing control of game pieces while the robot is in motion.
-
-<p><br /> </p>
-
-The roller claw consists of 3 polycarbonate parts that can be bought from [AndyMark](https://www.andymark.com/products/2024-everybot-intake-kit), a motor and gearbox, two pulleys with a belt running between them, a short section of 1/2&rdquo; hex shaft with compliant wheels, spacers, bearings, and shaft collars, and a fiberglass rod to hold the Note at a downward angle to make scoring in the Amp easy.
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '662.67px'}}><Image autoLoad={"true"} img={require("/static/media/explanation/image_1.png")} style={{ width: '624.00px', height: '662.67px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <div style={{pageBreakAfter: 'always'}}></div>
 
 <p><br /> </p>
 
-## Climber
-
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '629.50px', height: '493.20px'}}><Image autoLoad={"true"} img={require("/static/media/introduction/image_4.jpg")} style={{ width: '876.80px', height: '493.20px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
-
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '572.50px', height: '567.96px'}}><Image autoLoad={"true"} img={require("/static/media/introduction/image_5.jpg")} style={{ width: '1249.09px', height: '567.96px', marginLeft: '-320.28px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+The Everybot Deep Climb mechanism consists of four critical components in the form of the post, the barb, the wall and the winch.
 
 <p><br /> </p>
 
-The Everybot climber uses a vertical box tube and PVC pipe telescoping system to lift a hook up to the Stage chain. The inner slider is pulled upward by extension springs routed around the top of the robot by paracord and downward by a ratchet strap and winch that bear the robot&rsquo;s weight when climbing. The height restrictions of this year&rsquo;s game allow for the climber to start the match already extended upwards and remain that way for the entire match until the robot goes to hang at the end of the match, where the winch winds the ratchet strap up and pulls the hook down (and itself up). The spring pulls the hook back up when the winch unwinds, allowing the robot to retry a missed climb. The climber does require ballast or the weight at the front of the robot will cause the bumpers to touch the ground when the climber is fully pulled in. It is recommended that you generally leave the climber extended so the spring does not wear out over time.
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '538.67px'}}><Image autoLoad={"true"} img={require("/static/media/explanation/image_2.png")} style={{ width: '624.00px', height: '538.67px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <div style={{pageBreakAfter: 'always'}}></div>
 
-## KitBot&rsquo;s Launcher
+<p><br /> </p>
+
+The tube attached to the barb is passively sprung up such that it will want to be roughly parallel to the post when the winch is loose.
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '567.00px', height: '600.00px'}}><Image autoLoad={"true"} img={require("/static/media/introduction/image_6.png")} style={{ width: '567.00px', height: '600.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '257.00px', height: '341.87px'}}><Image autoLoad={"true"} img={require("/static/media/explanation/image_3.png")} style={{ width: '257.00px', height: '341.87px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '186.32px', height: '331.23px'}}><Image autoLoad={"true"} img={require("/static/media/explanation/image_4.jpg")} style={{ width: '186.32px', height: '331.23px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
-The Everybot is built around the 2024 FIRST KitBot and incorporates its Speaker launcher into the design. The Launcher consists of a superstructure, two wheels powered by CIMs, some launcher panels, and a compression beam. 
+The barb is connected to the winch via a ratchet strap which is pulled in by the winch. As the winch gives the barb slack, the barb will go towards the upright position and when the winch is wound, it will pull the barb down towards the winch.
 
 <p><br /> </p>
 
-The superstructure supports the launcher and needs to be at the correct height and angle to properly intake and launch Notes. The roller claw mounts in place of the FIRST-provided bracket in the upper right corner, and the superstructure also needs to be built correctly for the roller claw to function correctly.
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '183.50px', height: '325.93px'}}><Image autoLoad={"true"} img={require("/static/media/explanation/image_5.jpg")} style={{ width: '183.50px', height: '325.93px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '184.00px', height: '324.77px'}}><Image autoLoad={"true"} img={require("/static/media/explanation/image_6.jpg")} style={{ width: '184.00px', height: '324.77px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+
+The post has two bolts wrapped in surgical tubing that stick out towards the outside of the robot. We want the cage’s bottom to be underneath these bolts when climbing. When catching the cage under these bolts, we also want to pierce the cage with the barb during this time.
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '430.00px', height: '662.00px'}}><Image autoLoad={"true"} img={require("/static/media/introduction/image_7.png")} style={{ width: '528.00px', height: '662.00px', marginLeft: '-98.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '234.50px', height: '415.60px'}}><Image autoLoad={"true"} img={require("/static/media/explanation/image_7.jpg")} style={{ width: '234.50px', height: '415.60px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '261.50px', height: '418.00px'}}><Image autoLoad={"true"} img={require("/static/media/explanation/image_8.jpg")} style={{ width: '261.50px', height: '467.44px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '276.50px', height: '337.94px'}}><Image autoLoad={"true"} img={require("/static/media/explanation/image_9.jpg")} style={{ width: '276.50px', height: '489.49px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+
+The barb is designed to enter the cage with little resistance, then expand such that it has trouble exiting the cage and then allow the robot to climb by pulling down on two bars via the groves on the end of the fingers. In our experience once the barb has pierced the cage, the robot cannot let go without human intervention.
 
 <p><br /> </p>
 
-The two wheels move and launch the Note inside the launcher. When intaking from the Source, both wheels are run inwards so the Note ends up resting against the crossmember of the angled portion of the superstructure and still in contact with the lower &ldquo;feeder&rdquo; wheel.
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '210.50px', height: '375.07px'}}><Image autoLoad={"true"} img={require("/static/media/explanation/image_10.jpg")} style={{ width: '210.50px', height: '375.07px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '193.00px', height: '380.00px'}}><Image autoLoad={"true"} img={require("/static/media/explanation/image_11.jpg")} style={{ width: '213.00px', height: '380.00px', marginLeft: '-20.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '150.02px', height: '377.50px'}}><Image autoLoad={"true"} img={require("/static/media/explanation/image_12.jpg")} style={{ width: '212.91px', height: '377.50px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '616.00px'}}><Image autoLoad={"true"} img={require("/static/media/introduction/image_8.jpg")} style={{ width: '624.00px', height: '1339.00px', marginLeft: '0.00px', marginTop: '-350.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+With the barb piercing the cage and caught under the bolts, the winch is pulled in until the robot is climbed. If you add any of the other mechanisms to the Everybot you will also need the cage hardstop. The cage hardstop prevents being pulled far enough into the robot such that you will risk touching the chain of the anchor to the Everybot’s superstructure.
+
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '205.50px', height: '263.08px'}}><Image autoLoad={"true"} img={require("/static/media/explanation/image_13.jpg")} style={{ width: '205.50px', height: '364.31px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+
+<div style={{pageBreakAfter: 'always'}}></div>
 
 <p><br /> </p>
 
-When launching, the upper &ldquo;launch&rdquo; wheel needs to spin up for around 1 second to reach top speed in order to be able to properly launch the Note. Once the launch wheel is spun up the feeder wheel feeds the Note up to the launcher wheel, which propels it outward using the built-up speed.
+<div style={{ textAlign: 'center'}}><h2><span style={{ fontSize: "24pt"}}>Algae Arm</span></h2></div>
 
 <p><br /> </p>
 
-The lower launcher panel is the surface that the note moves across. At the end it is bent by a zip tie to allow for easier intaking from the source. This bend will also start to cause the middle of the plate around the launcher wheels to bend upwards - make sure it does not bend so much that the Note contacts both the lower and upper launcher plates - this will introduce too much drag and cause Notes to fall short. Make sure Notes are only ever gliding along the bottom surface.
-
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '310.87px', height: '663.82px'}}><Image autoLoad={"true"} img={require("/static/media/introduction/image_9.jpg")} style={{ width: '1460.97px', height: '663.82px', marginLeft: '-457.95px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '661.33px'}}><Image autoLoad={"true"} img={require("/static/media/explanation/image_14.png")} style={{ width: '624.00px', height: '661.33px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
-The upper plate prevents the note from popping out the top during the launching and intaking process.
+The Algae Arm uses KitBot plates to hold the shaft for the arm and house the motors that bring the arm up/down and power the intake roller. The Algae Arm and structure supporting it is almost entirely made of parts from the KitBot.
 
 <p><br /> </p>
 
-The final important part of the KitBot launcher is the compression beam. 
+The Algae arm has a hard stop at the top in the form of two 3D printed parts and a rope for the bottom stop.
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '505.00px', height: '711.00px'}}><Image autoLoad={"true"} img={require("/static/media/introduction/image_10.png")} style={{ width: '505.00px', height: '711.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '439.50px', height: '509.12px'}}><Image autoLoad={"true"} img={require("/static/media/explanation/image_15.png")} style={{ width: '905.11px', height: '509.12px', marginLeft: '-191.47px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
-Whenever you are launching game objects in FRC, compression is one of the most important factors. If the compression beam was the diameter of the Note away from the launching wheel, the launching wheel would have no compression and no way to effectively transfer energy to the Note, as there would be enough room for the Note to sit in the gap without contacting the wheel. The compression could also be too high - if the gap between the wheels and the wall was only an inch or two wide, the Note might not fit at all and would probably stall the launching motor or tear up the Note. The 10 inch gap in the launcher offers about four inches of compression on the 14&rdquo; Notes, which allows the launcher to launch relatively fresh Notes effectively. We found that an additional inch or two of compression also worked, but have not changed the location of the compression wall or otherwise modified the functional KitBot launcher other than removing a small strip of polycarb to fit the roller claw.
+The Algae is taken over the bumpers with the rollers and contained within the robot, there are crossmembers that prevent the ball from entering further than desired. The arm is best stowed when controlling Algae.
+
+<p><br /> </p>
+
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '427.50px', height: '508.34px'}}><Image autoLoad={"true"} img={require("/static/media/explanation/image_16.png")} style={{ width: '427.50px', height: '759.09px', marginLeft: '0.00px', marginTop: '-29.46px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+
+<p><br /> </p>
+
+In the stowed position, the Algae is at a great height to score it into the PROCESSOR.
+
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '187.50px', height: '287.56px'}}><Image autoLoad={"true"} img={require("/static/media/explanation/image_17.png")} style={{ width: '187.50px', height: '334.33px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+
+<p><br /> </p>
+
+<div style={{textAlign: 'center'}}><h2><span style={{ fontSize: "24pt"}}>Coral Basket</span></h2></div>
+
+The Coral Basket requires the Algae Arm in order to function. The coral is obtained from the Coral Station. Once the coral is obtained, it can be ferried to the L1 trough and scored using the Algae Arm roller.
+
+<p><br /> </p>
+
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '313.52px', height: '411.50px'}}><Image autoLoad={"true"} img={require("/static/media/explanation/image_18.png")} style={{ width: '313.52px', height: '557.39px', marginLeft: '0.00px', marginTop: '-57.85px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '295.00px', height: '390.77px'}}><Image autoLoad={"true"} img={require("/static/media/explanation/image_19.png")} style={{ width: '295.00px', height: '524.81px', marginLeft: '0.00px', marginTop: '-38.84px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+
