@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Printable Section'
-sidebar_position: 5
+sidebar_position: 6
 description: "Wait for the images to load and print"
 ---
 
