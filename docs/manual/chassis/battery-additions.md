@@ -8,7 +8,7 @@ import Image from '@theme/IdealImage';
 
 # Chassis Finishing Touches
 
-This year the 2025 Everybot will require some non-standard modifications to support our robot&rsquo;s capabilities. We will not be using the vertical battery mount, instead laying the battery down flat so we can intake balls more comfortably and favorability shift the CG for the deep climb. The chassis end frame will also require reinforcement for our deep climb mechanism, this should be done when building the climb.
+This year the 2025 Everybot will require some non-standard modifications to support our robot&rsquo;s capabilities. We will not be using the vertical battery mount, instead laying the battery down flat so we can intake balls more comfortably and favorably shift the CG for the deep climb. The chassis end frame will also require reinforcement for our deep climb mechanism, this should be done when building the climb.
 
 ## Battery
 

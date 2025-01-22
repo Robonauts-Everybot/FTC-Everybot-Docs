@@ -1,8 +1,9 @@
 {
-  "label": "Software",
+  "label": "Software Setup",
   "position": 9,
   "link": {
     "type": "generated-index",
     "description": "Configure all software needed to run your robot"
   }
 }
+
