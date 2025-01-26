@@ -56,13 +56,13 @@ Click back to the &ldquo;Basic&rdquo; tab. The two most important settings here 
 
 The CAN IDs expected by the provided Everybot starter code are as follows:
 
-1 - Left rear drive motor
+1 - Left front drive motor
 
-2 - Left front drive motor
+2 - Left rear drive motor
 
-3 - Right rear drive motor
+3 - Right front drive motor
 
-4 - Right front drive motor
+4 - Right rear drive motor
 
 5 - Intake Roller Motor
 
