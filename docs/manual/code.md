@@ -149,7 +149,32 @@ public class RobotContainer {
 
 ## Specifics
 
-With this brief overview of the organization let's revisit subsystems, this time with more details. We will start with some commonalities across all of 
+With this brief overview of the organization let's revisit subsystems, this time with more details. We will start with some commonalities across all of these files, like the imports.
+
+---
+
+<p style={{textAlign: 'center'}}>
+### Importing
+</p>
+
+The package is simply the folder the code is in, starting at frc. Then in order to run the Spark Max you will need to import the relevant code from the REV libraries. Typically you do not have to memorize these imports, if you use a piece of code, then VS Code will do its best to use the correct imports. We also import some stuff from first's WPILIB libraries. Finally things from within your own code such as the DriveConstants can be imported when needed.
+
+<br/>
+
+```java
+package frc.robot.subsystems;
+
+import com.revrobotics.spark.SparkBase.PersistMode;
+import com.revrobotics.spark.SparkBase.ResetMode;
+import com.revrobotics.spark.SparkLowLevel.MotorType;
+import com.revrobotics.spark.SparkMax;
+import com.revrobotics.spark.config.SparkMaxConfig;
+
+
+import edu.wpi.first.wpilibj.drive.DifferentialDrive;
+import edu.wpi.first.wpilibj2.command.SubsystemBase;
+import frc.robot.Constants.DriveConstants;
+```
 
 ---
 
@@ -266,37 +291,6 @@ public class DriveSubsystem extends SubsystemBase {
   }
 }
 ```
-
----
-
-<p style={{textAlign: 'center'}}>
-#### Importing
-</p>
-
-<br/>
-
-Starting at the top, we will need to import everything that is needed to make our code function.
-
-<br/>
-
-```java
-package frc.robot.subsystems;
-
-import com.revrobotics.spark.SparkBase.PersistMode;
-import com.revrobotics.spark.SparkBase.ResetMode;
-import com.revrobotics.spark.SparkLowLevel.MotorType;
-import com.revrobotics.spark.SparkMax;
-import com.revrobotics.spark.config.SparkMaxConfig;
-
-
-import edu.wpi.first.wpilibj.drive.DifferentialDrive;
-import edu.wpi.first.wpilibj2.command.SubsystemBase;
-import frc.robot.Constants.DriveConstants;
-```
-
-<br/>
-
-The package is simply the folder the code is in, starting at frc. Then in order to run the Spark Max you will need to import the relevant code from the REV libraries. Typically you do not have to memorize these imports, if you use a piece of code, then VS Code will do its best to use the correct imports. We also import some stuff from first's WPILIB libraries.
 
 ---
 
