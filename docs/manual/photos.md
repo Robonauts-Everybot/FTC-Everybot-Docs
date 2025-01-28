@@ -9,3 +9,4 @@ import Image from '@theme/IdealImage';
 
 # Completed Everybot Photos
 
+Coming soon
