@@ -149,7 +149,7 @@ public class RobotContainer {
 
 ## Specifics
 
-With this brief overview of the organization let's revisit subsystems, this time with more details.
+With this brief overview of the organization let's revisit subsystems, this time with more details. We will start with some commonalities across all of 
 
 ---
 
