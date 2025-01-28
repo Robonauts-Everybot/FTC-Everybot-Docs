@@ -6,3 +6,5 @@ date: 2025-01-14T18:00
 ---
 
 The Everybot is being revealed tonight at 6pm cst.
+
+<!-- truncate -->

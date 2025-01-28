@@ -437,15 +437,7 @@ There are many different philosophies on how to best structure for commands. The
 
 <br/>
 
-TODO Image:
-
-<br/>
-
 If you wish to simplify things, for example all of the roller commands are identical, except during the execute portion, where each one feeds in a specific motor speed. When the command is called, you could also pass in a speed, which would cut the number of Roller commands from 4 to 1. 
-
-<br/>
-
-TODO Image:
 
 <br/>
 
@@ -625,8 +617,6 @@ Finally we need to decide how a command know when it is finished and what to do 
 
 Finally returning to robot container, we will look at how all the subsystems work and then cover autos.
 
-## Finished explanation coming soon!
-
 ```java
 // Copyright (c) FIRST and other WPILib contributors.
 // Open Source Software; you can modify and/or share it under the terms of
@@ -783,57 +773,68 @@ public class RobotContainer {
 #### Starting Robot Container
 </p>
 
+First we start setting up the controllers that we will be using. You can choose to use two or one if you use a single controller it will require some minor button mappings [1]. Then we will setup something that will allow us to choose our autonomous modes in the SendableChooser [2]. Finally we will initialize all of our subsystems, this will only be done once [3].
+
 ```java
 public class RobotContainer {
 
   // The robot's subsystems and commands are defined here...
   // Replace with CommandPS4Controller or CommandJoystick if needed
   private final CommandXboxController m_driverController =
-      new CommandXboxController(OperatorConstants.DRIVER_CONTROLLER_PORT);
+      new CommandXboxController(OperatorConstants.DRIVER_CONTROLLER_PORT); // [1]
   // You can remove this if you wish to have a single driver, note that you
   // may have to change the binding for left bumper.
   private final CommandXboxController m_operatorController = 
       new CommandXboxController(OperatorConstants.OPERATOR_CONTROLLER_PORT);
 
   // The autonomous chooser
-  SendableChooser<Command> m_chooser = new SendableChooser<>();
+  SendableChooser<Command> m_chooser = new SendableChooser<>(); // [2]
 
-  public final RollerSubsystem m_roller = new RollerSubsystem();
+  public final RollerSubsystem m_roller = new RollerSubsystem(); // [3]
   public final ArmSubsystem m_arm = new ArmSubsystem();
   public final DriveSubsystem m_drive = new DriveSubsystem();
   public final ClimberSubsystem m_climber = new ClimberSubsystem();
 }
 ```
 
+---
+
 <p style={{textAlign: 'center'}}>
 #### Setting up Autos
 </p>
 
+Next we will initialize all of the autos, making sure to feed in the correct subsystem instances [1]. Then we will configure the button bindings, which calls a function that will be explored in a bit [2]. Then we will provide the our autos to the sendable chooser, with the string (text) that will be output to your dashboard [3]. Then the data will be sent to the SmartDashboard [4]. Finally we create a function that will return the autonomous command to be used in Robot.java [5] (which we will not be covering).
+
+<br/>
+
 ```java
-  public final SimpleCoralAuto m_simpleCoralAuto = new SimpleCoralAuto(m_drive, m_roller, m_arm);
+  public final SimpleCoralAuto m_simpleCoralAuto = new SimpleCoralAuto(m_drive, m_roller, m_arm); // [1]
   public final DriveForwardAuto m_driveForwardAuto = new DriveForwardAuto(m_drive);
 
   /** The container for the robot. Contains subsystems, OI devices, and commands. */
   public RobotContainer() {
     // Set up command bindings
-    configureBindings();
+    configureBindings(); // [2]
     // Set the options to show up in the Dashboard for selecting auto modes. If you
     // add additional auto modes you can add additional lines here with
     // autoChooser.addOption
-    m_chooser.setDefaultOption("Coral Auto", m_simpleCoralAuto);
+    m_chooser.setDefaultOption("Coral Auto", m_simpleCoralAuto); // [3]
     m_chooser.addOption("Drive Forward Auto", m_driveForwardAuto);
-    SmartDashboard.putData(m_chooser);
+    SmartDashboard.putData(m_chooser); // [4]
   }
 
   public Command getAutonomousCommand() {
-    // An example command will be run in autonomous
-    return m_chooser.getSelected();
+    return m_chooser.getSelected(); // [5]
   }
 ```
+
+---
 
 <p style={{textAlign: 'center'}}>
 #### Configuring the button bindings
 </p>
+
+In order for the robot to drive we need to map the commands to buttons on the controllers. First we will setup a default command for the drivebase, to ensure that the command is always active [1]. This will ensure that whenever the sticks on the controllers are moved, then the robot always move. When the left bumper on the driver controller the robot will driven at a significantly lower speed [2]. The command works WHILE it is TRUE that the chosen button is held, then the behavior will return to normal. Finally all the controls are either true while a button is being held [3] or while one of the rear triggers is held down over the threshold [4].
 
 ```java
 private void configureBindings() {
@@ -846,7 +847,7 @@ private void configureBindings() {
      * value). Similarly for the X axis where we need to flip the value so the
      * joystick matches the WPILib convention of counter-clockwise positive
      */
-    m_drive.setDefaultCommand(new DriveCommand(m_drive,
+    m_drive.setDefaultCommand(new DriveCommand(m_drive, // [1]
         () -> -m_driverController.getLeftY(),
         () -> -m_driverController.getRightX(),
         () -> true));
@@ -860,7 +861,7 @@ private void configureBindings() {
      * 
      * When switching to single driver mode switch to the B button
      */
-    m_driverController.leftBumper().whileTrue(new DriveCommand(m_drive, 
+    m_driverController.leftBumper().whileTrue(new DriveCommand(m_drive, // [2]
         () -> -m_driverController.getLeftY() * DriveConstants.SLOW_MODE_MOVE,  
         () -> -m_driverController.getRightX() * DriveConstants.SLOW_MODE_TURN,
         () -> true));
@@ -869,10 +870,11 @@ private void configureBindings() {
      * Here we declare all of our operator commands, these commands could have been
      * written more compact but are left verbose so the intent is clear.
      */
-    m_operatorController.rightBumper().whileTrue(new AlgieInCommand(m_roller));
+    m_operatorController.rightBumper().whileTrue(new AlgieInCommand(m_roller)); // [3]
     
     // Here we use a trigger as a button when it is pushed past a certain threshold
-    m_operatorController.rightTrigger(.2).whileTrue(new AlgieOutCommand(m_roller));
+    m_operatorController.rightTrigger(.2).whileTrue(
+      new AlgieOutCommand(m_roller)); // [4]
 
     /**
      * The arm will be passively held up or down after this is used,
