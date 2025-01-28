@@ -14,6 +14,10 @@ In previous years we had used Timed Based code, which we found to be simpler to 
 
 <p><br /> </p>
 
+:::note
+This section is still under construction and being cleaned up. There is more than enough information to get started in your understanding but it needs some cleanup.
+:::
+
 ## Overview of Command Based Code
 
 There are 5 components to focus on: Autos folder, Commands folder, Subsystems folder, Constants file and Robot Container file. We will start by looking at how each of these work at a very broad level.
@@ -1006,11 +1010,15 @@ public class SimpleCoralAuto extends Command {
 }
 ```
 
+---
+
 <p style={{textAlign: 'center'}}>
 #### The Timer
 </p>
 
 Like previous commands we will need to declare all the subsystems we are using but here we all declare a timer [1] and use two variables as time gates [2]. Everything is the same on setup as a command, we just need to construct the timer [3]. Finally when the command is initialized or started, we will reset the timer, which ensures that it start running at time = 0 seconds [4].
+
+<br/>
 
 ```java
 public class SimpleCoralAuto extends Command {
