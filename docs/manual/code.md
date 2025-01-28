@@ -1,14 +1,28 @@
 ---
-sidebar_label: "Command Based Programming and The Starter Code"
+sidebar_label: "2025 Everybot Code"
 sidebar_position: 10
 description: ""
 ---
 
+import Image from '@theme/IdealImage';
+
 # Command Based Programming Introduction
 
-<br/>
+<p><br /> </p>
 
-## Overview
+In previous years we had used Timed Based code, which we found to be simpler to understand for beginners. With FIRST&rsquo;s KitBot using command based code for the past two years and the community overwhelmingly shifting towards command based, we have decided to switch as well. We hope this allows for a smoother experience when getting assistance from other teams and provides an easier experience when integrating other community code projects. If teams feel that this is an unwelcome change or need help adjusting, please reach out in our Discord, we would love to hear from you.
+
+<p><br /> </p>
+
+## Overview of Command Based Code
+
+There are 5 components to focus on: Autos folder, Commands folder, Subsystems folder, Constants file and Robot Container file. We will start by looking at how each of these work at a very broad level.
+
+<p><br /> </p>
+
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '552.00px'}}><Image autoLoad={"true"} img={require("/static/media/code/image_3.png")} style={{ width: '624.00px', height: '552.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+
+---
 
 <p style={{textAlign: 'center'}}>
 ### Subsystems
@@ -105,7 +119,7 @@ We separate the constants into relevant groups, like subsystems or controllers. 
 
 <br/>
 
-In robot container we construct our controllers and subsystems [1], then we will bind controller actions to commands [2]. For instance, WHILE it is TRUE that we are holding the left bumper on the operator controller, then the arm subsystem will be told to power the arm motor up [3]. If you remember the ArmUpCommand, when the command is finished, meaning you are no longer holding the left bumper, then it will continue to hold the arm up but at a lower power. With this brief overview of the organization let's revisit subsystems, this time with more details.
+In robot container we construct our controllers and subsystems [1], then we will bind controller actions to commands [2]. For instance, WHILE it is TRUE that we are holding the left bumper on the operator controller, then the arm subsystem will be told to power the arm motor up [3]. If you remember the ArmUpCommand, when the command is finished, meaning you are no longer holding the left bumper, then it will continue to hold the arm up but at a lower power. 
 
 <br/>
 
@@ -134,6 +148,10 @@ public class RobotContainer {
 ---
 
 ## Specifics
+
+With this brief overview of the organization let's revisit subsystems, this time with more details.
+
+---
 
 <p style={{textAlign: 'center'}}>
 ### Subsystems
@@ -330,7 +348,9 @@ After the declarations we move into the public DriveTrain() constructor which wi
 
 <br/>
 
-TODO images here
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '201.33px'}}><Image autoLoad={"true"} img={require("/static/media/code/image_1.png")} style={{ width: '624.00px', height: '201.33px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '228.00px'}}><Image autoLoad={"true"} img={require("/static/media/code/image_2.png")} style={{ width: '624.00px', height: '228.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <br/>
 
