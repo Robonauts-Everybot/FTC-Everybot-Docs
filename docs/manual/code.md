@@ -900,7 +900,11 @@ private void configureBindings() {
   }
 ```
 
+---
+
 ### Autonomous
+
+For this structure autonomous commands are regular commands with extra steps. The key difference is that our autos will also call existing commands and use timers to ensure actions are not performed longer than needed. 
 
 ```java
 package frc.robot.autos;
@@ -1000,4 +1004,119 @@ public class SimpleCoralAuto extends Command {
     return timer.get() >= exjest_seconds;
   }
 }
+```
+
+<p style={{textAlign: 'center'}}>
+#### The Timer
+</p>
+
+Like previous commands we will need to declare all the subsystems we are using but here we all declare a timer [1] and use two variables as time gates [2]. Everything is the same on setup as a command, we just need to construct the timer [3]. Finally when the command is initialized or started, we will reset the timer, which ensures that it start running at time = 0 seconds [4].
+
+```java
+public class SimpleCoralAuto extends Command {
+  private DriveSubsystem m_drive;
+  private RollerSubsystem m_roller;
+  private ArmSubsystem m_arm;
+  private Timer timer; // [1]
+  private double drive_seconds = 3.25; // [2]
+  private double exjest_seconds = 4.5;
+
+  /**
+   * This auto will have the robot drive forwards, stop then drop the coral into L1
+   * 
+   * There are many ways to write autos, this form will work well for most simple
+   * auto routines. For more advanced routines you may want a different structure and 
+   * to use more sensors.
+   * 
+   * Here we use two timer gates, after the robot has finished driving for the first 3.25 
+   * seconds, it will exjest the coral for 4.5-3.25 = 1.25 seconds.
+   * 
+   * 
+   * @param drive
+   * @param roller
+   * @param arm
+   */
+  public SimpleCoralAuto(DriveSubsystem drive, RollerSubsystem roller, ArmSubsystem arm)
+  {
+      m_drive = drive;
+      m_roller = roller;
+      m_arm = arm;
+      
+      timer = new Timer(); // [3]
+
+      addRequirements(m_drive);
+      addRequirements(m_roller);
+      addRequirements(m_arm);
+  }
+
+  @Override
+  public void initialize() {
+    // start timer, uses restart to clear the timer as well in case this command has
+    // already been run before
+    timer.restart(); // [4]
+  }
+}
+```
+
+---
+
+<p style={{textAlign: 'center'}}>
+#### Using the Timer and Executing Auto
+</p>
+
+We start the execute portion, which runs about every 20ms, by ensuring that the arm will stay up during the autonomous by running it at the low ARM_HOLD_UP speed [1].
+
+<br/>
+
+Then we ask the question: is the timer, which reports the time passed since the timer was started, less than (\<) drive_seconds. IF the time passed IS NOT GREATER THAN OR EQUAL TO than drive_seconds, then the robot will drive forwards at .3 or 30% power [2]. ELSE IF the time is GREATER THAN (\>) drive_seconds AND (&&) the timer is LESS THAN (\<) exjest_seconds then it make sure the drivetrain stays still and exjests the coral [3].
+
+<br/>
+
+Once the timer is GREATER THAN OR EQUAL TO (\>=) exjest_seconds, then the auto will end [4] and ensure that everything is stopped, except the passive arm holding up, as there is no reason to stop it [5].
+
+<br/>
+
+```java
+@Override
+  public void execute() {
+    /**
+     * We always want to hold the arm up duirng the auto to ensure the rollers
+     */ 
+    m_arm.runArm(ArmConstants.ARM_HOLD_UP); // [1]
+
+    /**
+     * While this timer is less than drive_seconds, the robot will obey the command inside
+     */
+    if(timer.get() < drive_seconds) // [2]
+    {
+      m_drive.driveArcade(0.3, 0.0,false);
+    }
+    /**
+     * Once the timer is greater than drive_seconds but less than exjest seconds,
+     * the code inside will run, here we stop the drivetrain and exjest the coral.
+     */
+    else if(timer.get() > drive_seconds && timer.get() < exjest_seconds) // [3]
+    {
+      m_drive.driveArcade(0.0, 0.0,false);
+      m_roller.runRoller(RollerConstants.ROLLER_CORAL_OUT);
+    }
+  }
+
+  // Runs each time the command ends via isFinished or being interrupted.
+  @Override
+  public void end(boolean isInterrupted) { // [5]
+    // stop drive motors
+    m_drive.driveArcade(0.0, 0.0, false);
+    m_roller.runRoller(0);
+    timer.stop();
+  }
+
+  // Runs every cycle while the command is scheduled to check if the command is
+  // finished
+  @Override
+  public boolean isFinished() { // [4]
+    // check if timer exceeds seconds, when it has this will return true indicating
+    // this command is finished
+    return timer.get() >= exjest_seconds;
+  }
 ```

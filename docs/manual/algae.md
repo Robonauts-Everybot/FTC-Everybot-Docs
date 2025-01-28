@@ -329,7 +329,7 @@ Finally add shaft collars on the outside of both 04_Algae_Arm_Tubes and on the i
 
 <p><br /> </p>
 
-Add the corrugated plastic, which will be attached to the rear churros and LOOSELY to the hex shaft via zip ties. You will need to make holes in plastic to attach it, these holes can be &frac14;&rdquo;. To make accessing the battery easier we also recommend that you cut a slit with a utility knife into the corrugated plastic. By only slicing a single layer it will be able to bend nicely, our line was about 4.25&rdquo; from the bottom on the battery side. We also recommend taping the corners to prevent cut from the sharp plastic.
+Add the corrugated plastic, which will be attached to the rear churros and LOOSELY to the hex shaft via zip ties. You will need to make holes in plastic to attach it, these holes can be &frac14;&rdquo;. To make accessing the battery easier we also recommend that you cut a slit with a utility knife into the corrugated plastic. By only slicing a single layer it will be able to bend nicely, our line was about 4.25&rdquo; from the bottom on the battery side. We also recommend taping the corners to prevent cuts from the sharp plastic.
 
 <br/>
 
