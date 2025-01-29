@@ -163,11 +163,7 @@ Looking at the #25 roller chain, find the first section of chain that has pins t
 
 <div style={{overflow: 'hidden', float: 'left', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{float: 'left', overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '245.50px', height: '351.85px'}}><Image autoLoad={"true"} img={require("/static/media/algae/image_18.png")} style={{ width: '246.06px', height: '351.85px', marginLeft: '-0.28px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div>
 
-
-
 <div style={{overflow: 'hidden', float: 'left', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{float: 'left', overflow: 'hidden', display: 'inline-block', margin: '11.01px -11.01px', border: '0.00px solid #000000', transform: 'rotate(4.71rad) translateZ(0px)',  width: '328.00px', height: '305.98px'}}><Image autoLoad={"true"} img={require("/static/media/algae/image_19.jpg")} style={{ width: '328.00px', height: '437.11px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div>
-
-
 
 <p><br /> </p>
 

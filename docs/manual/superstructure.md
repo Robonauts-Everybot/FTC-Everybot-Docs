@@ -95,7 +95,7 @@ All holes can be made with a #7 drill bit. If you do not have the drill guides o
 
 ## Superstructure Assembly
 
-Start by attaching the 03_Superstructure_Upright to the chassis using a minimum of three 10-32 1.5&rdquo; bolts with Nylock nuts inside the chassis rail. Be careful not to crush the box tube when tightening the bolts, having some sort of crush spacer would be prudent. It will be mounted 6 bolt holes in when counting from the top of the inside rail. Mount the other side in the same manor.
+Start by attaching the 03_Superstructure_Upright to the chassis using a minimum of three 10-32 1.5&rdquo; bolts with Nylock nuts inside the chassis rail. These will go on the battery side. Be careful not to crush the box tube when tightening the bolts, having some sort of crush spacer would be prudent. It will be mounted 6 bolt holes in when counting from the top of the inside rail. Mount the other side in the same manor.
 
 <p><br /> </p>
 
