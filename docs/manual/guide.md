@@ -22,9 +22,11 @@ Lining up holes is hard. There are many ways to layout where holes are supposed 
 
 To use the Box Tube Drill Guide, you can measure and layout your holes to the best of your ability, and mark the location with a permanent marker. In the image below, a hole is needed in the center of a 2x1, 1.5&rdquo; from the end of the tube. We first used a green marker to make the initial lines and marks. Then we made a more visible spot with a black marker. This mark is close to the right spot, but it is not perfect.
 
+<p><br /> </p>
+
 <div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '468.00px'}}><Image autoLoad={"true"} img={require("/static/media/guide/image_2.png")} style={{ width: '624.00px', height: '468.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
-<p><br /> <br /> </p>
+<p><br /> </p>
 
 Because the mark is 1.5&rdquo; from the end of the tube, we can use the Drill Guide with a bottom face and butt the tube all the way against the back edge. When we do this, the mark is visible within the 3rd hole in the middle row.
 
@@ -34,10 +36,14 @@ Because the mark is 1.5&rdquo; from the end of the tube, we can use the Drill Gu
 
 Now, we can take the whole assembly over to the drill press and drill straight through this hole.
 
+<p><br /> </p>
+
 <div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '468.00px'}}><Image autoLoad={"true"} img={require("/static/media/guide/image_4.png")} style={{ width: '624.00px', height: '468.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
 You can also clamp the drill guide in place to ensure it doesn&rsquo;t move during the drilling operation.
+
+<p><br /> </p>
 
 <div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '468.00px'}}><Image autoLoad={"true"} img={require("/static/media/guide/image_5.png")} style={{ width: '624.00px', height: '468.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>

@@ -14,9 +14,7 @@ import Image from '@theme/IdealImage';
 
 <p><br /> </p>
 
-<h2 style={{textAlign: 'center'}}><span style={{ fontSize: "16pt"}}>&nbsp;Architecture And Functionality</span></h2>
-
-<p><br /> </p>
+## Architecture And Functionality
 
 The Everybot Deep Climb mechanism consists of four critical components in the form of the Post, the Barb and the Winch. There is a fourth major component of the climb, the Wall, which is incredibly useful but not needed in order for the climb to work.
 
@@ -42,6 +40,8 @@ The Barb is connected to the Winch via a ratchet strap which is pulled in by the
 
 <div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '183.50px', height: '325.93px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p1/image_4.jpg")} style={{ width: '183.50px', height: '325.93px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '184.00px', height: '324.77px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p1/image_5.jpg")} style={{ width: '184.00px', height: '324.77px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
+<p><br /> </p>
+
 The post has two bolts wrapped in surgical tubing that stick out towards the outside of the robot. In most circumstances, we want the Cage&rsquo;s bottom to be underneath these bolts when climbing. When catching the Cage under these bolts, we also want to pierce the Cage with the Barb during this time.
 
 <p><br /> </p>
@@ -51,8 +51,6 @@ The post has two bolts wrapped in surgical tubing that stick out towards the out
 <p><br /> </p>
 
 <div style={{pageBreakAfter: 'always'}}></div>
-
-<p><br /> </p>
 
 The Barb is designed to enter the Cage with little resistance, then expand such that it is impossible to exit the Cage without human intervention. Thus allowing the robot to climb by securely pulling down on two bars via the groves on the end of the fingers.
 
@@ -66,17 +64,13 @@ With the Barb piercing the Cage and caught under the bolts, the Winch is pulled 
 
 <div style={{pageBreakAfter: 'always'}}></div>
 
-<h2><span style={{ fontSize: "16pt"}}>Deep Climb Machining</span></h2>
-
-<p><br /> </p>
+## Deep Climb Machining
 
 First start by cutting all of the stock to length:
 
 <p><br /> </p>
 
 <ul><li>You will need two hex shafts, one 5.25&rdquo; long for the winch and the other 2.75&rdquo; long for the barb.</li><li>Churros from the drivetrain cut to 3&rdquo;</li><li>Three 2&rdquo;x1&rdquo; box tubes, one 20&rdquo; long for the 02_Deep_Climb_Winch, one 9&rdquo; long for the 02_Deep_Climb_Post and finally one 12&rdquo; long for the 02_Deep_Climb_Barb_Arm.</li><li>One 1&rdquo;x1&rdquo; box tube for the 02_Deep_Climb_Reaction_Bar cut to 10&rdquo; long.</li></ul>
-
-<p><br /> </p>
 
 You will also need your &frac34;&rdquo; wood but can hold off cutting it until right away.
 
@@ -96,17 +90,13 @@ If possible we highly recommend using patterned box tubes, especially for the 2&
 
 Our jigs are designed to be printed in place without supports enabled. There are two versions of the jig, one which is intended for use with drill bushings and the other without. Drill bushing will help you drill more precise holes/straight holes and ensure the jig is very reusable, we recommend purchasing drill bushing if possible.
 
-<p><br /> <br /> </p>
+<p><br /> </p>
 
 <div style={{textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '315.50px', height: '177.97px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p1/image_9.png")} style={{ width: '315.50px', height: '177.97px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '296.00px', height: '186.00px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p1/image_10.png")} style={{ width: '310.00px', height: '186.00px', marginLeft: '-14.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
-<p><br /> </p>
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; No Bushing Guide&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Bushing guide
 
-<h3><span style={{ fontSize: "14pt"}}>02_Deep_Climb_Winch</span></h3>
-
-<p><br /> </p>
+### 02_Deep_Climb_Winch
 
 The 02_Deep_Climb_Winch will be made out of a 20&rdquo; long 2&rdquo;x1&rdquo; box tube. This part will be different depending on your gearbox and bearing mount. All holes will be drilled with a #7 to #10 bit or a 13/64 bit (#7 recommended). All of the holes are THRU holes, meaning you drill all the way through the box tube.
 
@@ -162,9 +152,7 @@ Once those holes have been drilled, the part is complete!
 
 <div style={{pageBreakAfter: 'always'}}></div>
 
-<h3><span style={{ fontSize: "14pt"}}>02_Deep_Climb_Post</span></h3>
-
-<p><br /> </p>
+### 02_Deep_Climb_Post
 
 You will need a single deep climb post, there will be holes on both the 2&rdquo; and 1&rdquo; side to accommodate some tube plugs. You can assume that the holes on the 1&rdquo; face have the same spacing as the ones on the 2&rdquo; face.
 
@@ -174,27 +162,27 @@ You will need a single deep climb post, there will be holes on both the 2&rdquo;
 
 <div style={{pageBreakAfter: 'always'}}></div>
 
-<h3><span style={{ fontSize: "14pt"}}>02_Deep_Climb_Barb_Arm</span></h3>
-
-<p><br /> </p>
+### 02_Deep_Climb_Barb_Arm
 
 Once again you will need holes on both faces. On the 11.5&rdquo; it is fine to dimension it off the right end.
+
+<br/>
 
 <div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '352.00px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p1/image_18.png")} style={{ width: '624.00px', height: '352.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <div style={{pageBreakAfter: 'always'}}></div>
 
-<h3><span style={{ fontSize: "14pt"}}>02_Deep_Climb_Reaction_Bar </span></h3>
-
-<p><br /> </p>
+### 02_Deep_Climb_Reaction_Bar
 
 You will need a single reaction bar made of 1x1. Try your best to center the holes in the middle of the bar but being a bit off center should turn out fine.
+
+<br/>
 
 <div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '241.33px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p1/image_19.png")} style={{ width: '624.00px', height: '241.33px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <div style={{pageBreakAfter: 'always'}}></div>
 
-<h3><span style={{ fontSize: "14pt"}}>02_Deep_Climb_Wall</span></h3>
+### 02_Deep_Climb_Wall
 
 <p><br /> </p>
 
@@ -206,9 +194,7 @@ You will need to make two walls out of wood. Finding the 45 degree angle can be 
 
 <p><br /> </p>
 
-<h2><span style={{ fontSize: "16pt"}}>The Winch</span></h2>
-
-<p><br /> </p>
+## The Winch
 
 Start by assembling your gearbox of choice, a minimum reduction of 100:1 is required. We recommend &nbsp;either a 100:1 AndyMark CIM Sport or a 100:1 REV Max Planetary gearbox. You will also need your Winch motor, we highly recommend using a brushless motor, like a NEO, here as it has better brake mode performance, which will prevent the Winch from backdriving once the robot is disabled at the end of a match. Please note that the shaft of the Max Planetary will need to be cut down such that it sticks out of the gearbox ~1&rdquo;.
 
@@ -216,7 +202,7 @@ Start by assembling your gearbox of choice, a minimum reduction of 100:1 is requ
 
 <div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '205.50px', height: '205.50px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_0.png")} style={{ width: '205.50px', height: '205.50px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '308.50px', height: '218.60px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_1.png")} style={{ width: '460.22px', height: '459.35px', marginLeft: '-79.91px', marginTop: '-121.32px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
-<p><br /> <br /> </p>
+<p><br /> </p>
 
 When you attach your motor, ensure that the leads of the motor will not be facing the box tube when mounted.
 
@@ -240,7 +226,7 @@ Once your gearbox has been assembled, you will need to attach it to the 02_Winch
 
 <p><br /> </p>
 
-<div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '318.00px', height: '189.02px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_5.png")} style={{ width: '318.00px', height: '199.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '289.00px', height: '196.02px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_6.png")} style={{ width: '289.00px', height: '221.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '318.00px', height: '189.02px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_5.png")} style={{ width: '318.00px', height: '199.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '289.00px', height: '196.02px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_6.png")} style={{ width: '289.00px', height: '221.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
@@ -252,17 +238,19 @@ Next you will need to add the shaft support onto the 2x1. Our two recommended br
 
 <p><br /> </p>
 
-<div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '180.30px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_7.png")} style={{ width: '624.00px', height: '216.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '180.30px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_7.png")} style={{ width: '624.00px', height: '216.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div>
 
-<div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '487.99px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_8.png")} style={{ width: '624.00px', height: '525.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div>
+<div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '487.99px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_8.png")} style={{ width: '624.00px', height: '525.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
 Next add a shaft coupler to the output shaft of your gearbox shaft. You will need to loosen or add bolts to the shaft coupler, this should be done with a 3/32&rdquo; allen key.
 
-<p><br /> <br /> </p>
+<p><br /> </p>
 
-<div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '354.67px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_9.png")} style={{ width: '624.00px', height: '354.67px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '354.67px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_9.png")} style={{ width: '624.00px', height: '354.67px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+
+<br/>
 
 Now you will need to press a bearing into your mount of choice. Make sure that the flange, or raised edge faces away from the gearbox shaft.
 
@@ -328,9 +316,7 @@ The Winch can then be attached to the chassis, using the closest holes to the ge
 
 <p><br /> </p>
 
-<h2><span style={{ fontSize: "16pt"}}>Post Assembly</span></h2>
-
-<p><br /> </p>
+## Post Assembly
 
 Start by adding tube plugs to the bottom and top of the 02_Deep_Climb_Barb_Arm, which is the 12&rdquo; long 2&rdquo;x1&rdquo; tube. The flat surface of the tube plug should be facing outwards as shown below. Use 0.375&rdquo; 10-32 bolts on the 1&rdquo; side of the box tube to secure the tube plugs. We highly recommend using a thread locker to secure the bolts in place. Blue Loctite is a good choice.
 
@@ -384,9 +370,7 @@ Next, we will add two 0.75&rdquo; 10-32 bolts with &#8540;&rdquo; spacers on the
 
 <div style={{pageBreakAfter: 'always'}}></div>
 
-<h2><span style={{ fontSize: "16pt"}}>Barb Assembly</span></h2>
-
-<p><br /> </p>
+## Barb Assembly
 
 The barb is made up of several polycarbonate parts. These parts are incredibly difficult to make with manual machines. Currently these parts can be purchased from the Thrifty Bot, AndyMark, and SendCutSend. Additionally we recommend that your team reaches out to local teams who may be able to CNC the parts for you, chances are they would be happy to do so!
 
@@ -408,13 +392,11 @@ There are 2 different plates, there are 02_Deep_Climb_Fingers and the 02_Deep_Cl
 
 <p><br /> </p>
 
-We will first start by stacking the two 02_Deep_Climb_Bodys on top of each other. Then use a &frac14;&rdquo; long #10 spacer and a &frac12;&rdquo; #10 ID spacer on both sides and use a 10-32 2.25&rdquo; bolt with a Nylock nut to secure it. (the image shows a &frac34;&rdquo; spacers, which also works fine but added more parts to the BOM)
+We will first start by stacking the two 02_Deep_Climb_Bodys on top of each other. Then use a &frac14;&rdquo; long #10 spacer and a &frac12;&rdquo; #10 ID spacer on both sides and use a 10-32 2.25&rdquo; bolt with a Nylock nut to secure it. (The image shows a &frac34;&rdquo; spacers, which also works fine but added more parts to the BOM)
 
 <p><br /> </p>
 
 <div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '239.89px', height: '328.50px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_33.jpg")} style={{ width: '291.51px', height: '517.01px', marginLeft: '0.00px', marginTop: '-37.33px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '118.91px', height: '332.50px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_34.jpg")} style={{ width: '187.61px', height: '332.50px', marginLeft: '-13.68px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
-
-<p><br /> </p>
 
 <div style={{pageBreakAfter: 'always'}}></div>
 
@@ -433,8 +415,6 @@ From here you start adding pairs of fingers to the top and bottom of the body vi
 <p><br /> </p>
 
 <div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '228.00px', height: '182.75px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_36.jpg")} style={{ width: '261.34px', height: '461.39px', marginLeft: '-19.68px', marginTop: '-175.04px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '189.00px', height: '181.25px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_37.jpg")} style={{ width: '244.68px', height: '432.59px', marginLeft: '-44.31px', marginTop: '-136.95px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '183.50px', height: '183.50px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_38.jpg")} style={{ width: '289.15px', height: '513.43px', marginLeft: '-83.41px', marginTop: '-215.01px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
-
-<p><br /> </p>
 
 <div style={{pageBreakAfter: 'always'}}></div>
 
@@ -456,7 +436,7 @@ Next comes the passive spring out of the fingers, we will achieve this with zip 
 
 <div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '219.46px', height: '186.21px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_43.jpg")} style={{ width: '219.46px', height: '390.02px', marginLeft: '0.00px', marginTop: '-72.86px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '250.50px', height: '186.14px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_44.jpg")} style={{ width: '250.50px', height: '444.79px', marginLeft: '0.00px', marginTop: '-66.24px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
-<h2><span style={{ fontSize: "16pt"}}>Finishing Up The Deep Climb</span></h2>
+## Finishing Up The Deep Climb
 
 Start by taking the end of the ratchet strap and slide it in between the two Barb body plates. Use three 10-32 0.75&rdquo; bolts with Nylock nuts. If you haven&rsquo;t already added the holes we highly recommend folding the ratchet strap to prevent the bolts from pulling through and shredding the strap.
 
@@ -464,11 +444,11 @@ Start by taking the end of the ratchet strap and slide it in between the two Bar
 
 <div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '181.39px', height: '245.84px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_45.jpg")} style={{ width: '181.39px', height: '321.97px', marginLeft: '0.00px', marginTop: '-14.53px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
-<p><br /> </p>
+<p><br /></p>
 
 Next attach the Barb to the top of 02_Deep_Climb_Barb_Arm with three 10-32 0.75&rdquo; bolts. 
 
-<p><br /> </p>
+<p><br /></p>
 
 :::danger
 
@@ -532,9 +512,7 @@ Finally the walls should be lined up with ends of the chassis and slanted such t
 
 <div style={{pageBreakAfter: 'always'}}></div>
 
-<h2><span style={{ fontSize: "16pt"}}>Climb Adjustments</span></h2>
-
-<p><br /> </p>
+## Climb Adjustments
 
 The 2025 Everybot Deep Cage climb has built in adjustability to allow maximum compatibility. To understand how to adjust your climb, we must first understand how the climb works.
 
@@ -548,13 +526,15 @@ Let&rsquo;s define Center of Mass or Center of Gravity. On earth, these two term
 
 <div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '132.50px', height: '132.50px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_57.png")} style={{ width: '132.50px', height: '132.50px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
-<p><br /> <br /> </p>
+<div style={{ textAlign: 'center'}}> Having trouble seeing it? Turn off dark mode 🌙 in the upper right corner after scrolling down. </div>
+
+<p><br /> </p>
 
 An Everybot with no modifications will have a CG around this location:
 
 <p><br /> </p>
 
-<div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '592.00px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_58.png")} style={{ width: '624.00px', height: '592.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '592.00px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_58.png")} style={{ width: '624.00px', height: '592.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
@@ -576,7 +556,7 @@ In the following image, the CG is even further forwards than normally expected. 
 
 <p><br /> </p>
 
-<div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '602.67px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_59.png")} style={{ width: '624.00px', height: '602.67px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '602.67px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_59.png")} style={{ width: '624.00px', height: '602.67px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
@@ -584,7 +564,7 @@ In the next image, the CG has been shifted more towards the rear of the robot.
 
 <p><br /> </p>
 
-<div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '617.33px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_60.png")} style={{ width: '624.00px', height: '617.33px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '617.33px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_60.png")} style={{ width: '624.00px', height: '617.33px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
@@ -592,7 +572,9 @@ Depending on the final climb angle, you can tell if the CG is towards the front 
 
 <p><br /> </p>
 
-NOTE: CAGES NOT DRAWN TO SIZE IN THESE IMAGES.
+:::note 
+CAGES NOT DRAWN TO SIZE IN THESE IMAGES.
+:::
 
 <p><br /> </p>
 
@@ -626,7 +608,7 @@ The next two images will have the CG in the same spot, but the Cage location wil
 
 <p><br /> </p>
 
-<div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '275.24px', height: '284.50px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_61.png")} style={{ width: '275.24px', height: '284.50px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '290.11px', height: '277.82px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_62.png")} style={{ width: '290.11px', height: '277.82px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '275.24px', height: '284.50px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_61.png")} style={{ width: '275.24px', height: '284.50px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '290.11px', height: '277.82px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_62.png")} style={{ width: '290.11px', height: '277.82px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
@@ -634,7 +616,7 @@ To really drive the point home, here they are overlaid with the Chain in the sam
 
 <p><br /> </p>
 
-<div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '576.00px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_63.png")} style={{ width: '624.00px', height: '576.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '576.00px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_63.png")} style={{ width: '624.00px', height: '576.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
@@ -648,7 +630,7 @@ The lower 1x1:
 
 <p><br /> </p>
 
-<div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '401.33px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_64.png")} style={{ width: '624.00px', height: '401.33px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '401.33px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_64.png")} style={{ width: '624.00px', height: '401.33px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 
@@ -656,7 +638,7 @@ The upper 1x1:
 
 <p><br /> </p>
 
-<div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '374.67px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_65.png")} style={{ width: '624.00px', height: '374.67px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '374.67px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_65.png")} style={{ width: '624.00px', height: '374.67px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <p><br /> </p>
 

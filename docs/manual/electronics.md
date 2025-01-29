@@ -20,7 +20,7 @@ For more visual aid we highly recommend watching this video. Wiring a battery, m
 
 <p><br /> </p>
 
-Above we lined a WPILIB resource that we highly recommend looking at for some additional information.
+Above we linked a WPILIB resource that we highly recommend looking at for some additional information.
 
 <p><br /> </p>
 
@@ -62,7 +62,7 @@ Here we would recommend having the longest width slightly under 18&rdquo; so it 
 
 ## Using Wagos
 
-Whenever we need to connect a motor controller to a motor or when we need to extend wires, we use Wagos, specifically 221-2401 inline Wagos. These Wagos are good for wires up to 12 AWG, some motors, like the Kraken, will desire larger gauge wires, for those we would recommend a 221-600 model that can handle up to 10 AWG. The 221-613 can be purchased at Home Depot. Using the 221-2401 with Krakens will cause the housing to melt.
+Whenever we need to connect a motor controller to a motor or when we need to extend power wires for the motor controllers, we use Wagos, specifically 221-2401 inline Wagos. These Wagos are good for wires up to 12 AWG, some motors, like the Kraken, will desire larger gauge wires, for those we would recommend a 221-600 model that can handle up to 10 AWG. The 221-613 can be purchased at Home Depot. Using the 221-2401 with Krakens will cause the housing to melt.
 
 <p><br /> </p>
 
