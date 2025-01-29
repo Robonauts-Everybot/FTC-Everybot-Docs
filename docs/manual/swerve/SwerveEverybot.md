@@ -11,7 +11,7 @@ description: ""
 Documentation is under constriction, please read the included readme in the onshape document or here below:
 :::
 
-### README
+### README Before Continuing
 
 <br/>
 
@@ -56,3 +56,9 @@ Electronics:
 The provided location for the electronics is a suggestion. Please move components around to best accommodate your specific design.
 <br/>
 It is highly recommended to keep the Gyro in the center of your robot.
+
+### Changes made to fit Everybot on Swerve
+
+You will need some additional 2"x1":
+
+- We used two long sticks that run across the robot to support the superstructure. You may need to support your superstructure better but this will be a good start.

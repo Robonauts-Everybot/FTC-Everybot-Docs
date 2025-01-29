@@ -18,15 +18,13 @@ The Algae Arm utilizes the KitBot intake plates to house a motor to allow the ar
 
 <div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '339.50px', height: '290.62px'}}><Image autoLoad={"true"} img={require("/static/media/algae/image_1.jpg")} style={{ width: '517.07px', height: '290.62px', marginLeft: '-110.56px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
-<h2><span style={{ fontSize: "16pt"}}>Required Tools</span></h2>
+## Required Tools
 
-<ul><li>&#8540;&rdquo; Wrench/Socket</li><li>5/32&rdquo; Allen Key</li><li>#7 Drill bit</li><li>1-&#8539;&rdquo; minimum diameter drill bit or step drill bit</li><li>Band Saw/Chop Saw or other metal cutting device</li><li>Drill press (preferred) or hand drill</li><li>3D printed jig if box tube is not patterned</li></ul>
+<ul><li>&#8540;&rdquo; Wrench/Socket</li><li>5/32&rdquo; Allen Key</li><li>#7 Drill bit</li><li>1-&#8539;&rdquo; minimum diameter drill bit or step drill bit</li><li>Band Saw/Chop Saw or other metal cutting device</li><li>Drill press (preferred) or hand drill</li><li>[3D printed drill guide](https://drive.google.com/drive/folders/11rmf2mMmYooSvV4UwBnba3eJvCZcSJAN?usp=sharing) if box tube is not patterned (preferred if not patterned)</li></ul>
 
-<p><br /> </p>
+## Algae Arm Materials
 
-<h2><span style={{ fontSize: "16pt"}}>Algae Arm Materials</span></h2>
-
-Here is a rough approximation of what you will need:
+Here is a rough approximation of what you will need, bolt counts may be off, items may change based on what you have:
 
 <p><br /> </p>
 
@@ -38,21 +36,15 @@ You will need to make:
 
 <p><br /> </p>
 
-<ul><li>Qty(1) x 26&rdquo; &frac12;&rdquo; hex shaft</li><li>Qty(1) x &nbsp;25&rdquo; &frac12;&rdquo; hex shaft</li><li>Qty(2) x 18&rdquo; Churro (can also be hex shaft, should be left over from the chassis)</li><li>Qty(2) x 20&rdquo; 2x1 04_Algae_Arm_Tubes</li><li>Qty(1) x 03_Back_Stop</li><li>Qty(1) x 04_Corrugated_Plastic_Guard</li></ul>
-
-<p><br /> </p>
+<ul><li>Qty(1) x 26&rdquo; long &frac12;&rdquo; hex shaft</li><li>Qty(1) x 25&rdquo; long &frac12;&rdquo; hex shaft</li><li>Qty(2) x 18&rdquo; Churro (can also be hex shaft, should be left over from the chassis)</li><li>Qty(2) x 20&rdquo; long 2x1 04_Algae_Arm_Tubes</li><li>Qty(1) x 03_Back_Stop</li><li>Qty(1) x 04_Corrugated_Plastic_Guard</li></ul>
 
 <div style={{pageBreakAfter: 'always'}}></div>
 
-<p><br /> </p>
-
-<h2><span style={{ fontSize: "16pt"}}>Algae Arm Machining</span></h2>
+## Algae Arm Machining
 
 Start by cutting all the required stock to length, you will have one 26&rdquo; &frac12;&rdquo; hex shaft, one 25&rdquo; &frac12;&rdquo; hex shaft, two 18&rdquo; churros (can be hex shafts) and two 20&rdquo; 2x1 tubes.
 
-<p><br /> </p>
-
-<h3><span style={{ fontSize: "14pt"}}>Algae Arms</span></h3>
+### Algae Arms
 
 The Algae arms require two 1.125&rdquo; (1-&#8539;&rdquo;) holes. One of the holes is where the hub will be attached and we will use the holes to match drill out the locations that we want, the other will be for the hex shaft. Using the drill guide you will want to make a pilot hole before using your step drill bit. For the 19.125&rdquo; holes, it can be slightly off as we will use a bearing block to ensure we have a tensioned chain.
 
@@ -68,7 +60,7 @@ You will need to attach hubs on both sides of the 1.5&rdquo; holes, to do this p
 
 <p><br /> </p>
 
-<h3><span style={{ fontSize: "14pt"}}>KitBot Roller Plates</span></h3>
+### KitBot Roller Plates
 
 We highly recommend that you purchase these. If you are using churros here, you can drill out the two marked holes to &frac14;&rdquo; but the self tapping screws should work with the included holes.
 
@@ -78,7 +70,7 @@ We highly recommend that you purchase these. If you are using churros here, you 
 
 <p><br /> </p>
 
-<h2><span style={{ fontSize: "16pt"}}>Various Spacers</span></h2>
+### Various Spacers
 
 Many of the spacers needed can be bought but if you want to save some money they can be manufactured. These spacers can be 3D printed or cut from &frac34; in. Schedule 40 PVC Pipe. The spacers can be directly printed directly from exporting the file in the CAD by right clicking and selecting export.
 
@@ -86,9 +78,13 @@ Many of the spacers needed can be bought but if you want to save some money they
 
 <div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '627.50px', height: '314.76px'}}><Image autoLoad={"true"} img={require("/static/media/algae/image_6.png")} style={{ width: '627.50px', height: '314.76px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
+<p><br /> </p>
+
+<ul><li>Qty(7) x 2&rdquo; long &frac12;&rdquo; hex spacer</li><li>Qty(1) x 1&rdquo; long &frac12;&rdquo; hex spacer</li><li>Qty(2) x &frac12;&rdquo; long &frac12;&rdquo; hex spacer</li><li>Qty(6) x &frac14;&rdquo; long &frac12;&rdquo; hex spacer</li><li>Qty(4) x &#8539;&rdquo; long &frac12;&rdquo; hex spacer</li><li>Qty(2) x 1/16&rdquo; long &frac12;&rdquo; hex spacer</li></ul>
+
 <div style={{pageBreakAfter: 'always'}}></div>
 
-<h3><span style={{ fontSize: "14pt"}}>04_Corrugated-Plastic-Guard</span></h3>
+### 04_Corrugated-Plastic-Guard
 
 The corrugated plastic guard will be ~12&rdquo; by ~12&rdquo;, the holes can be drilled later on to #7 size when you have an understanding of where you want your zip ties. When cutting the plastic, pay special attention to the direction of the ribs. You want the rips running from left to right, so it is easier to bend later.
 
@@ -100,9 +96,9 @@ The corrugated plastic guard will be ~12&rdquo; by ~12&rdquo;, the holes can be 
 
 <div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '441.00px', height: '277.88px'}}><Image autoLoad={"true"} img={require("/static/media/algae/image_8.png")} style={{ width: '441.00px', height: '293.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
-<h2><span style={{ fontSize: "16pt"}}>Algae Arm Assembly</span></h2>
+## Algae Arm Assembly
 
-Start by assembling your 4:1 and 25:1 Gearboxes. We used two REV [Max Planetaries](<span style={{ textDecoration: "underline"}}><a class="c6" href="https://www.google.com/url?q=https://docs.revrobotics.com/ion-build-system/motion/maxplanetary-system&amp;sa=D&amp;source=editors&amp;ust=1737259469406277&amp;usg=AOvVaw22xU6vTYBt0ksO1BLFkCyL">https://docs.revrobotics.com/ion-build-system/motion/maxplanetary-system</a></span>) but [CIM Sports](https://cdn.andymark.com/media/W1siZiIsIjIwMTgvMTEvMTIvMTEvMzUvNTkvMTIyYmE4MDAtZDRlYS00ODZiLWI4ZDktMzBlNTdkOGZjZjQ4L0NJTSBTcG9ydCBNb3RvciBJbnN0YWxsYXRpb24ucGRmIl1d/CIM%20Sport%20Motor%20Installation.pdf?sha=16081fdd81656ecd) could be used instead (20:1 would be an acceptable alternative). We used a CIM motor in both of these.
+Start by assembling your 4:1 and 25:1 Gearboxes. We used two REV [Max Planetaries](https://docs.revrobotics.com/ion-build-system/motion/maxplanetary-system) but [CIM Sports](https://cdn.andymark.com/media/W1siZiIsIjIwMTgvMTEvMTIvMTEvMzUvNTkvMTIyYmE4MDAtZDRlYS00ODZiLWI4ZDktMzBlNTdkOGZjZjQ4L0NJTSBTcG9ydCBNb3RvciBJbnN0YWxsYXRpb24ucGRmIl1d/CIM%20Sport%20Motor%20Installation.pdf?sha=16081fdd81656ecd) could be used instead (20:1 would be an acceptable alternative). We used a CIM motor in both of these.
 
 <p><br /> </p>
 
@@ -114,7 +110,7 @@ Start by assembling your 4:1 and 25:1 Gearboxes. We used two REV [Max Planetarie
 
 :::note
 
-If you are using a CIM Sport you will need a [Sport Gearbox Face Mount Spacer](<span style={{ textDecoration: "underline"}}><a class="c6" href="https://www.google.com/url?q=https://www.andymark.com/products/sport-gearbox-face-mount-spacer?via%3DZ2lkOi8vYW5keW1hcmsvV29ya2FyZWE6Ok5hdmlnYXRpb246OlNlYXJjaFJlc3VsdHMvJTdCJTIyYnV0dG9uJTIyJTNBJTIyc2VhcmNoJTIyJTJDJTIycSUyMiUzQSUyMmZhY2UrbW91bnRpbmclMjIlMkMlMjJ1dGY4JTIyJTNBJTIyJUUyJTlDJTkzJTIyJTdE&amp;sa=D&amp;source=editors&amp;ust=1737259469407252&amp;usg=AOvVaw2i0pMJ1zpDjEnOMhrkkKs2">https://www.andymark.com/products/sport-gearbox-face-mount-spacer?via=Z2lkOi8vYW5keW1hcmsvV29ya2FyZWE6Ok5hdmlnYXRpb246OlNlYXJjaFJlc3VsdHMvJTdCJTIyYnV0dG9uJTIyJTNBJTIyc2VhcmNoJTIyJTJDJTIycSUyMiUzQSUyMmZhY2UrbW91bnRpbmclMjIlMkMlMjJ1dGY4JTIyJTNBJTIyJUUyJTlDJTkzJTIyJTdE</a></span>) for each CIM Sport.
+If you are using a CIM Sport you will need a [Sport Gearbox Face Mount Spacer](https://www.andymark.com/products/sport-gearbox-face-mount-spacer?via=Z2lkOi8vYW5keW1hcmsvV29ya2FyZWE6Ok5hdmlnYXRpb246OlNlYXJjaFJlc3VsdHMvJTdCJTIyYnV0dG9uJTIyJTNBJTIyc2VhcmNoJTIyJTJDJTIycSUyMiUzQSUyMmZhY2UrbW91bnRpbmclMjIlMkMlMjJ1dGY4JTIyJTNBJTIyJUUyJTlDJTkzJTIyJTdE) for each CIM Sport.
 
 <p><br /> </p>
 
@@ -140,6 +136,8 @@ Next take your two 18&rdquo; churros (or hex shaft) and your 03_3DP_Algae_Motor-
 <p><br /> </p>
 
 <div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '300.50px', height: '209.87px'}}><Image autoLoad={"true"} img={require("/static/media/algae/image_13.png")} style={{ width: '300.50px', height: '209.87px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '320.96px', height: '212.48px'}}><Image autoLoad={"true"} img={require("/static/media/algae/image_14.png")} style={{ width: '320.96px', height: '212.48px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+
+<p><br /> </p>
 
 <div style={{pageBreakAfter: 'always'}}></div>
 
