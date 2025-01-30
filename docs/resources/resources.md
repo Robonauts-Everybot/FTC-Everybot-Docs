@@ -18,7 +18,7 @@ import Image from '@theme/IdealImage';
 
 # [3D Printed Parts](https://drive.google.com/drive/folders/11rmf2mMmYooSvV4UwBnba3eJvCZcSJAN?usp=sharing)
 
-# [Code](https://github.com/Robonauts-Everybot/Everybot-2025-Code) (will be here once it is ready)
+# [Code](https://github.com/Robonauts-Everybot/Everybot-2025-Code) (released!)
 
 # [CAD](https://cad.onshape.com/documents/322c7df6642d82ddf075940f/w/8ad012ad66362b6d4f5577e0/e/e921bded1f7315514cafb5a6?renderMode=0&uiState=67870c2bf1065e0a527a5e31)
 
