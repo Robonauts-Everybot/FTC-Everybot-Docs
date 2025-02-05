@@ -392,7 +392,7 @@ There are 2 different plates, there are 02_Deep_Climb_Fingers and the 02_Deep_Cl
 
 <p><br /> </p>
 
-We will first start by stacking the two 02_Deep_Climb_Bodys on top of each other. Then use a &frac14;&rdquo; long #10 spacer and a &frac12;&rdquo; #10 ID spacer on both sides and use a 10-32 2.25&rdquo; bolt with a Nylock nut to secure it. (The image shows a &frac34;&rdquo; spacers, which also works fine but added more parts to the BOM)
+We will first start by stacking the two 02_Deep_Climb_Bodys on top of each other. Then use a &frac14;&rdquo; long #10 spacer and a &frac12;&rdquo; #10 ID spacer on both sides and use a 10-32 2.5&rdquo; bolt with a Nylock nut to secure it. (The image shows a &frac34;&rdquo; spacers, which also works fine but added more parts to the BOM)
 
 <p><br /> </p>
 
