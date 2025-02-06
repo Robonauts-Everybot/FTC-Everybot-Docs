@@ -89,7 +89,7 @@ public class ArmUpCommand extends Command {
 }
 ```
 
-The above ArmUp command above takes in the ArmSubsystem, then powers the arm motor at the ARM_SPEED_UP speed while running(executing), then when the command ends it will run the arm motor at the ARM_HOLD_UP speed.
+The above ArmUp command takes in the ArmSubsystem, then powers the arm motor at the ARM_SPEED_UP speed while running(executing), then when the command ends it will run the arm motor at the ARM_HOLD_UP speed.
 
 ---
 
@@ -321,7 +321,7 @@ public class DriveSubsystem extends SubsystemBase {
 }
 ```
 
-Above we declared all the SparkMax motor controller that are required to control the drivebase, as the robot's brains, the roborio, does not directly talk to the motors, it talks to the motor controllers. We will also declare a DifferentialDrive class which when fed the motors used to control our robot will allow for easier control.
+Above we declared all the SparkMax motor controllers that are required to control the drivebase, as the robot's brain, the roborio, does not directly talk to the motors, it talks to the motor controllers. We will also declare a DifferentialDrive class which when fed the motors used to control our robot will allow for easier control.
 
 <br/>
 
@@ -437,7 +437,7 @@ Lastly in this subsystem there are two different public functions that can contr
 
 ### Commands
 
-There are many different philosophies on how to best structure for commands. There is no reason to exactly follow how we organize our commands but we highly recommend that all commands are organized in the same way. For the Everybot, we wanted to make each command incredibly specific, it does exactly one thing and nothing more. This works great for a robot of this complexity but may become a bit annoying as the number of motors and sensors on the robot increases.
+There are many different philosophies on how to best structure commands. There is no reason to exactly follow how we organize our commands but we highly recommend that all commands are organized in the same way. For the Everybot, we wanted to make each command incredibly specific, it does exactly one thing and nothing more. This works great for a robot of this complexity but may become a bit annoying as the number of motors and sensors on the robot increases.
 
 <br/>
 
@@ -445,7 +445,7 @@ If you wish to simplify things, for example all of the roller commands are ident
 
 <br/>
 
-With that brief explanation over, lets look at a command in full, specifically the drive command.
+With that brief explanation over, let's look at a command in full, specifically the drive command.
 
 ```java
 // Copyright (c) FIRST and other WPILib contributors.
@@ -472,7 +472,7 @@ public class DriveCommand extends Command {
    * this command to use tank if desired.
    * 
    * @param driveSubsystem 
-   * @param xSpeed The speed fowards and backwards
+   * @param xSpeed The speed forwards and backwards
    * @param zRotation The speed to turn the drivetrain at
    * @param squareInputs Square the inputs from the controller
    */
@@ -495,7 +495,7 @@ public class DriveCommand extends Command {
   }
 
   // Runs every cycle while the command is scheduled (~50 times per second)
-  // In teleop we square the drive command to help improve hanlding, play
+  // In teleop we square the drive command to help improve handling, play
   // around with it off, this is driver preference
   @Override
   public void execute() {
@@ -777,7 +777,7 @@ public class RobotContainer {
 #### Starting Robot Container
 </p>
 
-First we start setting up the controllers that we will be using. You can choose to use two or one if you use a single controller it will require some minor button mappings [1]. Then we will setup something that will allow us to choose our autonomous modes in the SendableChooser [2]. Finally we will initialize all of our subsystems, this will only be done once [3].
+First we start setting up the controllers that we will be using. You can choose to use two or one if you use a single controller it will require some minor button mappings [1]. Then we will set up something that will allow us to choose our autonomous modes in the SendableChooser [2]. Finally we will initialize all of our subsystems, this will only be done once [3].
 
 ```java
 public class RobotContainer {
@@ -807,7 +807,7 @@ public class RobotContainer {
 #### Setting up Autos
 </p>
 
-Next we will initialize all of the autos, making sure to feed in the correct subsystem instances [1]. Then we will configure the button bindings, which calls a function that will be explored in a bit [2]. Then we will provide the our autos to the sendable chooser, with the string (text) that will be output to your dashboard [3]. Then the data will be sent to the SmartDashboard [4]. Finally we create a function that will return the autonomous command to be used in Robot.java [5] (which we will not be covering).
+Next we will initialize all of the autos, making sure to feed in the correct subsystem instances [1]. Then we will configure the button bindings, which calls a function that will be explored in a bit [2]. Then we will provide our autos to the sendable chooser, with the string (text) that will be output to your dashboard [3]. Then the data will be sent to the SmartDashboard [4]. Finally we create a function that will return the autonomous command to be used in Robot.java [5] (which we will not be covering).
 
 <br/>
 
@@ -838,7 +838,7 @@ Next we will initialize all of the autos, making sure to feed in the correct sub
 #### Configuring the button bindings
 </p>
 
-In order for the robot to drive we need to map the commands to buttons on the controllers. First we will setup a default command for the drivebase, to ensure that the command is always active [1]. This will ensure that whenever the sticks on the controllers are moved, then the robot always move. When the left bumper on the driver controller the robot will driven at a significantly lower speed [2]. The command works WHILE it is TRUE that the chosen button is held, then the behavior will return to normal. Finally all the controls are either true while a button is being held [3] or while one of the rear triggers is held down over the threshold [4].
+In order for the robot to drive we need to map the commands to buttons on the controllers. First we will setup a default command for the drivebase, to ensure that the command is always active [1]. This will ensure that whenever the sticks on the controllers are moved, then the robot always moves. When the left bumper on the driver controller the robot will drive at a significantly lower speed [2]. The command works WHILE it is TRUE that the chosen button is held, then the behavior will return to normal. Finally all the controls are either true while a button is being held [3] or while one of the rear triggers is held down over the threshold [4].
 
 ```java
 private void configureBindings() {
@@ -1016,7 +1016,7 @@ public class SimpleCoralAuto extends Command {
 #### The Timer
 </p>
 
-Like previous commands we will need to declare all the subsystems we are using but here we all declare a timer [1] and use two variables as time gates [2]. Everything is the same on setup as a command, we just need to construct the timer [3]. Finally when the command is initialized or started, we will reset the timer, which ensures that it start running at time = 0 seconds [4].
+Like previous commands we will need to declare all the subsystems we are using but here we all declare a timer [1] and use two variables as time gates [2]. Everything is the same on setup as a command, we just need to construct the timer [3]. Finally when the command is initialized or started, we will reset the timer, which ensures that it starts running at time = 0 seconds [4].
 
 <br/>
 
