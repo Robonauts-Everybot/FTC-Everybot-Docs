@@ -14,10 +14,6 @@ In previous years we had used Timed Based code, which we found to be simpler to 
 
 <p><br /> </p>
 
-:::note
-This section is still under construction and being cleaned up. There is more than enough information to get started in your understanding but it needs some cleanup.
-:::
-
 ## Overview of Command Based Code
 
 There are 5 components to focus on: Autos folder, Commands folder, Subsystems folder, Constants file and Robot Container file. We will start by looking at how each of these work at a very broad level.

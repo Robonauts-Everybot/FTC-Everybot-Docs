@@ -20,6 +20,8 @@ export default function HomepageFeatures() {
               <h1>Welcome to the Everybot Documentation Site</h1>
               <br>
               </br>
+              <p>For the 2025 FRC manual use the <a href="https://robonauts-everybot.github.io/Everybot-Docs/manual/the-everybot">2025 Everybot Documentation Tab</a></p>
+              <p>For a translated version please see our <a href="https://docs.google.com/document/d/10iMX5CHhDT6XGOxzTSVr5Q2kzvpQWDvjO8g7mc4HeaM/edit?tab=t.0">Google Doc version</a></p>
               <br></br><br></br><br></br><br></br>
             </div>
           </div>
