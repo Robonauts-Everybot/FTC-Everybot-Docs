@@ -10,9 +10,17 @@ import Image from '@theme/IdealImage';
 
 <div style={{textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '662.67px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p1/image_0.png")} style={{ width: '624.00px', height: '662.67px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
+<p><br /> </p>
+
 <div style={{pageBreakAfter: 'always'}}></div>
 
-<p><br /> </p>
+:::note
+The barb is made up of a few complex polycarbonate parts that are very difficult to machine manually. These can be purchased from vendors or made on a machine capable of making them. Here are the [DXFs](https://drive.google.com/drive/folders/1sUP19WCUuQKzJp3KsBW6bazIK08D-APO) for teams who wish to use an advanced machine to make them, you will need two bodies and four fingers.
+:::
+
+:::danger
+The 02_Deep_Climb_Post had incorrect hole placement for the upper tube plug. It was previously listed as 1.5" from the bottom, that has been changed to 2.5" from the bottom. This shifts everything that was attached at the previous 1.5" height up to the new 2.5" height.
+:::
 
 ## Architecture And Functionality
 
@@ -154,11 +162,15 @@ Once those holes have been drilled, the part is complete!
 
 ### 02_Deep_Climb_Post
 
+:::warning
+This part has been updated, ensure that you have holes 2.5" from the bottom instead of 1.5" from the bottom.
+:::
+
 You will need a single deep climb post, there will be holes on both the 2&rdquo; and 1&rdquo; side to accommodate some tube plugs. You can assume that the holes on the 1&rdquo; face have the same spacing as the ones on the 2&rdquo; face.
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '316.00px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p1/image_17.png")} style={{ width: '624.00px', height: '316.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '624.00px', height: '330.00px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p1/image_17.png")} style={{ width: '624.00px', height: '316.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <div style={{pageBreakAfter: 'always'}}></div>
 
@@ -326,17 +338,17 @@ Start by adding tube plugs to the bottom and top of the 02_Deep_Climb_Barb_Arm, 
 
 <p><br /> </p>
 
-The same can be done for the 9&rdquo; long 2&rdquo;x1&rdquo; 02_Deep_Cimb_Post except one tube plug will be located close to the other. The upper tube plug&rsquo;s side holes will be 1.5&rdquo; from the bottom or 1&rdquo; up from the holes on the lower tube plug. Once again use 0.375&rdquo; 10-32 bolts and use thread locker.
+The same can be done for the 9&rdquo; long 2&rdquo;x1&rdquo; 02_Deep_Climb_Post except one tube plug will be located close to the other. The upper tube plug&rsquo;s side holes will be 2.5&rdquo; from the bottom or 2&rdquo; up from the holes on the lower tube plug. Once again use 0.375&rdquo; 10-32 bolts and use thread locker.
 
 <p><br /> </p>
 
-<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '176.69px', height: '258.50px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_22.png")} style={{ width: '176.69px', height: '258.50px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '301.25px', height: '207.68px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_23.png")} style={{ width: '436.75px', height: '286.88px', marginLeft: '-50.81px', marginTop: '-36.60px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '176.69px', height: '300.50px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_22.png")} style={{ width: '176.69px', height: '300.50px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '301.25px', height: '207.68px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_23.png")} style={{ width: '436.75px', height: '286.88px', marginLeft: '-50.81px', marginTop: '-36.60px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <div style={{pageBreakAfter: 'always'}}></div>
 
 <p><br /> </p>
 
-Now we will attach the 02_Deep_Cimb_Post to the chassis, it must be centered in the chassis on the outer bolt grid. Use two 10-32 0.5&rdquo; bolts with threadlocker.
+Now we will attach the 02_Deep_Climb_Post to the chassis, it must be centered in the chassis on the outer bolt grid. Use two 10-32 0.5&rdquo; bolts with threadlocker.
 
 <p><br /> </p>
 
@@ -344,7 +356,7 @@ Now we will attach the 02_Deep_Cimb_Post to the chassis, it must be centered in 
 
 <p><br /> </p>
 
-Next grab your hinge and 02_Deep_Cimb_Reaction_Bar. Center the 02_Deep_Cimb_Reaction_Bar with the upper tube plug on the 02_Deep_Cimb_Post, then place the hinge in front and add two 1.5&rdquo; 10-32 bolts, secure with thread locker.
+Next grab your hinge and 02_Deep_Cimb_Reaction_Bar. Center the 02_Deep_Cimb_Reaction_Bar with the upper tube plug on the 02_Deep_Climb_Post, then place the hinge in front and add two 1.5&rdquo; 10-32 bolts, secure with thread locker.
 
 <p><br /> </p>
 
