@@ -262,3 +262,13 @@ The RSL will then be wired into the Roborio with the red wire towards the center
 
 <div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '202.00px', height: '352.00px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_28.png")} style={{ width: '202.00px', height: '352.00px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '270.50px', height: '360.11px'}}><Image autoLoad={"true"} img={require("/static/media/electrical/image_29.png")} style={{ width: '270.50px', height: '360.11px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
+<br/>
+
+Below is a video that showcases how the battery is secured:
+
+<br/>
+
+
+<div style={{ textAlign: 'center'}}>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zj9sE6Q8uK8?si=1lH5Znyw1L0Wi7oB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="true"></iframe>
+</div>
