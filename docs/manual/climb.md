@@ -284,15 +284,11 @@ The ratchet strap needs to be prepared. We want to have a loop side of the strap
 
 <div style={{pageBreakAfter: 'always'}}></div>
 
-<p><br /> </p>
-
 Next insert your shaft through the hex bearing and add the following hardware in order: &#8539;&rdquo; hex spacer, &frac14;&rdquo; hex spacer, hex hub, 1&rdquo; hex spacer with ratchet strap loop around it, hex hub, &frac14;&rdquo; spacer. The shaft should then be put into the shaft coupler and the coupler can be tightened.
 
 <p><br /> </p>
 
 <div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '565.50px', height: '228.30px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_13.png")} style={{ width: '565.50px', height: '228.30px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '198.46px', height: '265.22px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_14.jpg")} style={{ width: '198.46px', height: '353.20px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
-
-<p><br /> <br /> </p>
 
 <div style={{pageBreakAfter: 'always'}}></div>
 
@@ -311,8 +307,6 @@ Once the shaft collar is in place, you will need a single ~3&rdquo; bolt that ru
 <p><br /> </p>
 
 <div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '258.50px', height: '321.51px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_16.png")} style={{ width: '258.50px', height: '459.07px', marginLeft: '0.00px', marginTop: '-46.82px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
-
-<p><br /> </p>
 
 <div style={{pageBreakAfter: 'always'}}></div>
 
@@ -334,7 +328,7 @@ The Winch can then be attached to the chassis, using the closest holes to the ge
 
 <p><br /> </p>
 
-<div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '312.05px', height: '261.50px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_19.png")} style={{ width: '312.05px', height: '261.50px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '296.50px', height: '265.54px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_20.png")} style={{ width: '341.48px', height: '265.54px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div>
+<div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '312.05px', height: '261.50px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_19.png")} style={{ width: '312.05px', height: '261.50px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '296.50px', height: '265.54px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_20.png")} style={{ width: '341.48px', height: '265.54px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
 <div style={{pageBreakAfter: 'always'}}></div>
 
@@ -408,7 +402,7 @@ There are 2 different plates, there are 02_Deep_Climb_Fingers and the 02_Deep_Cl
 
 <div style={{ textAlign: 'center'}}><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '179.50px', height: '295.86px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_32.png")} style={{ width: '179.50px', height: '295.86px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div><div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)',  width: '331.50px', height: '272.91px'}}><Image autoLoad={"true"} img={require("/static/media/Climb/p2/image_33.png")} style={{ width: '331.50px', height: '272.91px', marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "none"}}></Image></span></div></div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Body&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Finger
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Body&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Finger
 
 <p><br /> </p>
 
