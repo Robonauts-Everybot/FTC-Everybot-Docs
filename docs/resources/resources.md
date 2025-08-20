@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Resources'
-sidebar_position: 3
+sidebar_position: 1
 description: ""
 ---
 
@@ -8,38 +8,20 @@ import Image from '@theme/IdealImage';
 
 <br/>
 
-# [Everybot Discord](https://discord.gg/XuWfwRJcfA)
-
-# [Reveal Video](https://www.youtube.com/watch?v=cM40ZVAj9Tk)
-
-# [BOM (Bill Of Materials)](https://docs.google.com/spreadsheets/d/1xdodEr3vj5AneTFxeAHf_wto5SA2gwDHoCzKOeL6VsE/edit?usp=sharing)
-
-# [Cut List](https://docs.google.com/spreadsheets/d/1xdodEr3vj5AneTFxeAHf_wto5SA2gwDHoCzKOeL6VsE/edit?gid=2076126636#gid=2076126636)
-
-# [3D Printed Parts](https://drive.google.com/drive/folders/11rmf2mMmYooSvV4UwBnba3eJvCZcSJAN?usp=sharing)
-
-# [Code](https://github.com/Robonauts-Everybot/Everybot-2025-Code) (released!)
-
-# [CAD](https://cad.onshape.com/documents/322c7df6642d82ddf075940f/w/8ad012ad66362b6d4f5577e0/e/e921bded1f7315514cafb5a6?renderMode=0&uiState=67870c2bf1065e0a527a5e31)
-
-# [Main Everybot Site](https://www.118everybot.org/)
-
-# [Robonauts Website](https://www.118robonauts.org/)
-
-# [NASA RAP Design Guide](https://robotics.nasa.gov/nasa-rap-robotics-design-guide/)
+<h1>2024-2025 Into The Deep's Resources</h1>
 
 <br/>
-<br/>
 
-# Supplier Specific Resources
-<br/>
-<div style={{ textAlign: 'center'}}>
+# [Discord](https://discord.gg/XuWfwRJcfA)
 
-|Supplier|Link|Type Of Resource|
-| :--- | --- | ---|
-|Thrifty Bot|[2025 FRC Everybot Specific Page](https://www.thethriftybot.com/collections/everybot-2025)|Barb and Parts|
-|REV Robotics|[2025 FRC Everybot Specific Page](https://www.revrobotics.com/competition/frc-everybot/)|Parts|
-|AndyMark|[2025 FRC Everybot Specific Page](https://www.andymark.com/pages/everybot-2025)|Barb, Winch and Parts|
-|SendCutSend|[Everybot Barb Deep Climb Plates Cart Link](https://app.sendcutsend.com/customer#/cart?accept=aWQ9MTMwNDI3JnRva2VuPWJkOTM1ZDBhLWJlZjMtNDkyMi05MmMxLWRkOTU2%0ANzA2NDI2Mw%3D%3D%0A)|Barb|
+# [Reveal Video](https://www.youtube.com/watch?v=-Td-YyUvbgA&feature=youtu.be)
 
-</div>
+# [Build Manual](https://docs.google.com/document/d/1fdUc4363JO63Tt-Ic8A857gmWDdt-jFOyDFyZdh56HE/edit?usp=sharing)
+
+# [Bill of Materials](https://docs.google.com/spreadsheets/d/16SHY9aURrcYTW40pppQab-kI0Qbs4xU4B7Qja8amBEI/edit?usp=sharing)
+
+# [3D Printing Guide](https://docs.google.com/document/d/1DpJMma5DXdUC7I47EvvJcplRARQ-dMx6k5BWRSHwE0g/edit?usp=sharing)
+
+# [Everybot CAD](https://cad.onshape.com/documents/a2212ec4d0ff04ecfa468fab/w/de74c2fa846c84827f4ffeb0/e/a069a0c4d53cbe62662539e1)
+
+# [Everybot Code](https://gitlab.com/robonautseverybot/FTC-Everybot-2024/)

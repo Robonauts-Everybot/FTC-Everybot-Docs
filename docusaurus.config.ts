@@ -129,7 +129,7 @@ const config: Config = {
             label: '2025 Everybot Documentation',
           },
           {
-            type: 'docSidebar', sidebarId: 'everybotResources', label: 'Everybot Resources', position: 'left'
+            type: 'docSidebar', sidebarId: 'everybotResources', label: 'FTC Everybot Resources', position: 'left'
           },
           { to: '/blog', label: 'Updates', position: 'left' },
           //{
@@ -139,6 +139,11 @@ const config: Config = {
           {
             href: 'https://www.118everybot.org/',
             label: 'Everybot Hub Website',
+            position: 'right',
+          },
+          {
+            href: 'https://robonauts-everybot.github.io/Everybot-Docs/',
+            label: 'FRC Everybot Docs',
             position: 'right',
           },
           //{to: '/resources', label: 'Team Resources', position: 'left'}, 
