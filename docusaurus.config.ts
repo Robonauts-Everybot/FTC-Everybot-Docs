@@ -141,7 +141,7 @@ const config: Config = {
             label: 'Everybot Hub Website',
             position: 'right',
           },
-          //{to: '/resources', label: 'Team Resources', position: 'left'},
+          //{to: '/resources', label: 'Team Resources', position: 'left'}, 
         ],
       },
       footer: {
