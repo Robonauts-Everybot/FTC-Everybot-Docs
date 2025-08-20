@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/FTC-Everybot-Docs/blog</id>
+    <title>FTC Everybot Docs Blog</title>
+    <updated>2025-02-08T18:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/FTC-Everybot-Docs/blog"/>
+    <subtitle>FTC Everybot Docs Blog</subtitle>
+    <icon>https://github.com/FTC-Everybot-Docs/img/favicon.ico</icon>
+    <rights>Copyright © 2025 THE ROBONAUTS</rights>
+    <entry>
+        <title type="html"><![CDATA[Pre-release]]></title>
+        <id>https://github.com/FTC-Everybot-Docs/blog/Major correction to 02_Deep_Climb_Post</id>
+        <link href="https://github.com/FTC-Everybot-Docs/blog/Major correction to 02_Deep_Climb_Post"/>
+        <updated>2025-02-08T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[test]]></summary>
+        <content type="html"><![CDATA[<p>test</p>]]></content>
+        <category label="Everybot" term="Everybot"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pre-release]]></title>
+        <id>https://github.com/FTC-Everybot-Docs/blog/Electrical and Start of Code Documentation</id>
+        <link href="https://github.com/FTC-Everybot-Docs/blog/Electrical and Start of Code Documentation"/>
+        <updated>2025-01-28T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[test]]></summary>
+        <content type="html"><![CDATA[<p>test</p>]]></content>
+        <category label="Everybot" term="Everybot"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pre-release]]></title>
+        <id>https://github.com/FTC-Everybot-Docs/blog/Code and Swerve CAD</id>
+        <link href="https://github.com/FTC-Everybot-Docs/blog/Code and Swerve CAD"/>
+        <updated>2025-01-21T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Test]]></summary>
+        <content type="html"><![CDATA[<p>Test</p>]]></content>
+        <category label="Everybot" term="Everybot"/>
+    </entry>
+</feed>

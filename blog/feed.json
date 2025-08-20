@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "FTC Everybot Docs Blog",
+    "home_page_url": "https://github.com/FTC-Everybot-Docs/blog",
+    "description": "FTC Everybot Docs Blog",
+    "items": [
+        {
+            "id": "https://github.com/FTC-Everybot-Docs/blog/Major correction to 02_Deep_Climb_Post",
+            "content_html": "<p>test</p>",
+            "url": "https://github.com/FTC-Everybot-Docs/blog/Major correction to 02_Deep_Climb_Post",
+            "title": "Pre-release",
+            "summary": "test",
+            "date_modified": "2025-02-08T18:00:00.000Z",
+            "tags": [
+                "Everybot"
+            ]
+        },
+        {
+            "id": "https://github.com/FTC-Everybot-Docs/blog/Electrical and Start of Code Documentation",
+            "content_html": "<p>test</p>",
+            "url": "https://github.com/FTC-Everybot-Docs/blog/Electrical and Start of Code Documentation",
+            "title": "Pre-release",
+            "summary": "test",
+            "date_modified": "2025-01-28T18:00:00.000Z",
+            "tags": [
+                "Everybot"
+            ]
+        },
+        {
+            "id": "https://github.com/FTC-Everybot-Docs/blog/Code and Swerve CAD",
+            "content_html": "<p>Test</p>",
+            "url": "https://github.com/FTC-Everybot-Docs/blog/Code and Swerve CAD",
+            "title": "Pre-release",
+            "summary": "Test",
+            "date_modified": "2025-01-21T18:00:00.000Z",
+            "tags": [
+                "Everybot"
+            ]
+        }
+    ]
+}
