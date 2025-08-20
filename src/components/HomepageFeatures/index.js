@@ -38,7 +38,7 @@ function Tester() {
   }, [])
 
   const blogs = async () => {
-    const response = await fetch('https://robonauts-everybot.github.io/Everybot-Docs/blog/feed.json');
+    const response = await fetch('https://robonauts-everybot.github.io/FTC-Everybot-Docs/blog/feed.json');
     let text = await response.json();
     setText(text.items);
   }
@@ -49,9 +49,9 @@ function Tester() {
     return <aside className="col col--2"></aside>
   }
 
-  let firstBlog = "/Everybot-Docs" + test[0].id.match(/\/blog\/.*/);
-  let secondBlog = "/Everybot-Docs" + test[1].id.match(/\/blog\/.*/);
-  let thirdBlog = "/Everybot-Docs" + test[2].id.match(/\/blog\/.*/);
+  let firstBlog = "/FTC-Everybot-Docs" + test[0].id.match(/\/blog\/.*/);
+  let secondBlog = "/FTC-Everybot-Docs" + test[1].id.match(/\/blog\/.*/);
+  let thirdBlog = "/FTC-Everybot-Docs" + test[2].id.match(/\/blog\/.*/);
 
   return (
     <aside className="col col--2"><nav className="sidebar_node_modules-@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module thin-scrollbar" aria-label="Blog recent posts navigation" style={{
