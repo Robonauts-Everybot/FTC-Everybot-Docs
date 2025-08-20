@@ -15,13 +15,12 @@ export default function HomepageFeatures() {
           <Tester />
           <div className="col col--8" >
             <div className="text--center">
-              <div style={{ textAlign: 'center' }}><img src={require("/static/media/Logos/Everybot118.webp").default}></img></div>
+              <br></br><br></br>
+              <h1>FTC Everybot Documentation Site</h1>
               <br></br>
-              <h1>Welcome to the Everybot Documentation Site</h1>
+              <div style={{ textAlign: 'center' }}><img src={require("/static/media/Logos/Everybot118.webp").default}></img></div>
               <br>
               </br>
-              <p>For the 2025 FRC manual use the <a href="https://robonauts-everybot.github.io/Everybot-Docs/manual/the-everybot">2025 Everybot Documentation Tab</a></p>
-              <p>For a translated version please see our <a href="https://docs.google.com/document/d/10iMX5CHhDT6XGOxzTSVr5Q2kzvpQWDvjO8g7mc4HeaM/edit?tab=t.0">Google Doc version</a></p>
               <br></br><br></br><br></br><br></br>
             </div>
           </div>

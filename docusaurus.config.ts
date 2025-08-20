@@ -1,20 +1,20 @@
 const lightCodeTheme = require('prism-react-renderer').themes.github;
 const darkCodeTheme = require('prism-react-renderer').themes.dracula;
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 const path = require("path");
 
 const config: Config = {
-  title: 'Everybot Docs',
-  tagline: 'Everybot Docs',
+  title: 'FTC Everybot Docs',
+  tagline: 'FTC Everybot Docs',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Everybot-Docs/',
+  baseUrl: '/FTC-Everybot-Docs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -85,7 +85,7 @@ const config: Config = {
       { // this is the options object passed to the plugin
         routes: [
           { // using Route schema from react-router
-            path: '/Everybot-Docs/importer',
+            path: '/FTC-Everybot-Docs/importer',
             exact: false, // this is needed for sub-routes to match!
             component: '/importer/Importerv3.js',
           }
@@ -115,7 +115,7 @@ const config: Config = {
         respectPrefersColorScheme: false,
       },
       navbar: {
-        title: 'Everybot Documentation',
+        title: 'FTC Everybot Documentation',
         hideOnScroll: true,
         logo: {
           alt: 'My Site Logo',
@@ -131,10 +131,6 @@ const config: Config = {
           {
             type: 'docSidebar', sidebarId: 'everybotResources', label: 'Everybot Resources', position: 'left'
           },
-          {
-            type: 'docSidebar', sidebarId: 'FTCSidebar', label: "FTC Everybot Resources", position: 'left'
-          },
-          { type: 'docSidebar', sidebarId: 'fundamentalSidebar', label: 'Everybot Evergreens', position: 'left' },
           { to: '/blog', label: 'Updates', position: 'left' },
           //{
           //  type: 'localeDropdown',
