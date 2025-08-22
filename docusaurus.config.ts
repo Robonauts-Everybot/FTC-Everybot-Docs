@@ -108,7 +108,7 @@ const config: Config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: './static/img/everybot-logo.jpg',
+      image: './static/img/everybot-logo.svg',
       colorMode: {
         defaultMode: 'dark',
         disableSwitch: false,
@@ -119,7 +119,9 @@ const config: Config = {
         hideOnScroll: true,
         logo: {
           alt: 'My Site Logo',
-          src: 'img/everybot.svg',
+          src: 'img/Everybot E No BG on White.svg',
+          srcDark: 'img/Everybot E No BG.svg',
+          height: 100,
         },
         items: [
           {

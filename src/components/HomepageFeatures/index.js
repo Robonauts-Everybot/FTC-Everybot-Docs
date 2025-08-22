@@ -5,6 +5,7 @@ import { func } from 'joi';
 import Layout from "@theme/Layout";
 import BlogPostItem from "@theme/BlogPostItem";
 import { Content } from "@theme/BlogPostPage";
+import useBaseUrl, { useBaseUrlUtils } from '@docusaurus/useBaseUrl';
 
 export default function HomepageFeatures() {
   //alert("Hello, I am currently improving performance, images are not present, except in the printable section of the chassis")
@@ -18,7 +19,7 @@ export default function HomepageFeatures() {
               <br></br><br></br>
               <h1>FTC Everybot Documentation Site</h1>
               <br></br>
-              <div style={{ textAlign: 'center' }}><img src={require("/static/media/Logos/Everybot118.webp").default}></img></div>
+              <div style={{ textAlign: 'center' }}><img src={useBaseUrl("/img/FTC Everybot Full No BG.svg")} height="400"></img></div>
               <br>
               </br>
               <br></br><br></br><br></br><br></br>

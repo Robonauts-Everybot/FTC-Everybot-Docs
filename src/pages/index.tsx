@@ -13,7 +13,7 @@ export default function Home() {
   return (
     <Layout
       title={`Welcome to the ${siteConfig.title}`}
-      description="Home of the Everybot manual">
+      description="Home of the FTC Everybot manual">
       <main>
         <HomepageFeatures />
       </main>
