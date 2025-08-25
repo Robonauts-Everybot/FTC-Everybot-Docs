@@ -96,7 +96,7 @@ const config: Config = {
       require.resolve('@yapplejack/docusaurus-plugin-ideal-image'),
       {
         quality: 100,
-        max: 1800, // max resized image's size.
+        max: 3200, // max resized image's size.
         min: 600, // min resized image's size. if original is lower, use that size.
         steps: 3, // the max number of images generated between min and max (inclusive)
         disableInDev: false,
@@ -108,7 +108,7 @@ const config: Config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: './static/img/everybot-logo.svg',
+      image: 'img/everybot-logo.jpg',
       colorMode: {
         defaultMode: 'dark',
         disableSwitch: false,
@@ -194,6 +194,11 @@ const config: Config = {
             ],
           },
         ],
+        logo: {
+          alt: 'Everybot Logo',
+          src: '/img/Everybot Full No BG 118.svg',
+          href: 'https://opensource.fb.com',
+        },
         copyright: `Copyright © ${new Date().getFullYear()} THE ROBONAUTS`,
       },
       prism: {

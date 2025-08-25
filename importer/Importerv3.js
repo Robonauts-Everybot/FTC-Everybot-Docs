@@ -31,6 +31,7 @@ function Importerv3() {
 
     const zip = require('jszip')();
 
+    // begins when doneSorting is true
     useEffect(() => {
         if (importMD != '' && files != '' && numImages == files.length - 2 && doneSorting == true) {
             console.log("called");
@@ -117,27 +118,40 @@ function Importerv3() {
 
     //this function does not currently work with V3
     const upscaleFromHMTL = () => {
+        let factor = 40;
+        let changeIndex = 0;
+        let numChanges = 0;
         for (let i = 0; i < exportText.length; i++) {
-            if (importedHTML[i][0] == 'img') {
+            if (exportText[i].match(/<Image auto/)) {
                 let widths = exportText[i].split('width: \'');
                 let heights = exportText[i].split('height: \'');
                 let margTop = exportText[i].split('marginTop: \'');
                 let margLeft = exportText[i].split('marginLeft: \'');
+                for (let j = 0; j < exportText[i].split('\}\}').length; j++) {
+                    console.log(j);
+                    if (exportText[i].split('\}\}')[j].match(/width: /)) {
+                        if (changeIndex == 0) {
+                            console.log("found here");
+                            changeIndex = j + 1;
+                        }
+                        numChanges += 1;
+                    }
+                }
                 for (let j = 1; j < 3; j++) {
                     widths[j - 1] = widths[j].split('px')[0];
                     heights[j - 1] = heights[j].split('px')[0];
                 }
                 margTop[0] = margTop[1].split('px')[0];
                 margLeft[0] = margLeft[1].split('px')[0];
-                //console.log(exportText[i]);
-                //console.log(widths[0] + " converted: " + Math.round(parseFloat(widths[0]) * 1.8 * 100)/100);
-                exportText[i] = exportText[i].split('width: \'')[0] + 'width: \'' + Math.round(parseFloat(widths[0]) * 1 * 100) / 100 + 'px\', height: \''
-                    + Math.round(parseFloat(heights[0]) * 1 * 100) / 100 + 'px\'\}\}' + exportText[i].split('\}\}')[1].split('width: \'')[0] + 'width: \''
-                    + Math.round(parseFloat(widths[1]) * 1 * 100) / 100 + 'px\', height: \''
-                    + Math.round(parseFloat(heights[1]) * 1 * 100) / 100 + 'px\', marginLeft: \''
-                    + Math.round(parseFloat(margLeft[1]) * 1 * 100) / 100 + 'px\', marginTop: \''
-                    + Math.round(parseFloat(margTop[1]) * 1 * 100) / 100 + 'px\', transform' + exportText[i].split('\}\}')[1].split('transform')[1] + '\}\}' + exportText[i].split('\}\}')[2];
+                exportText[i] = exportText[i].split('width: \'')[0] + 'width: \'' + Math.round(parseFloat(widths[0]) * 1 * factor) / 100 + 'px\', height: \''
+                    + Math.round(parseFloat(heights[0]) * 1 * factor) / 100 + 'px\'\}\}' + exportText[i].split('\}\}')[changeIndex].split('width: \'')[0] + 'width: \''
+                    + Math.round(parseFloat(widths[1]) * 1 * factor) / 100 + 'px\', height: \''
+                    + Math.round(parseFloat(heights[1]) * 1 * factor) / 100 + 'px\', marginLeft: \''
+                    + Math.round(parseFloat(margLeft[1]) * 1 * factor) / 100 + 'px\', marginTop: \''
+                    + Math.round(parseFloat(margTop[1]) * 1 * factor) / 100 + 'px\', transform' + exportText[i].split('\}\}')[changeIndex].split('transform')[1] + '\}\}' + exportText[i].split('\}\}')[changeIndex + 1];
             }
+            changeIndex = 0;
+            numChanges = 0;
         }
     }
 
@@ -489,15 +503,15 @@ function Importerv3() {
                 }
                 //*
                 //else if(goodTags.hasOwnProperty(headParent) && headParent.match(/h\d/) && useHashtagHeader == true)
-               // {
+                // {
                 //    ignoreEndTags[headParent] = true;
                 //    importedHTML[currIndex] = "#";
                 //    for(let k = 1; k < parseInt(headParent.match(/(?<=h)\d/)[0]); k++)
                 //    {
                 //        importedHTML[currIndex] += "#";
                 //    }
-               // }
-                
+                // }
+
                 else {
                     importedHTML[currIndex] = '<' + headParent + '>';
                     elementInit = true;
@@ -685,8 +699,7 @@ function Importerv3() {
                 //if things are being erased it is probably the regex above
             }
             else {
-                if (disableP == true)
-                {
+                if (disableP == true) {
                     if (numSpaces > 0) {
                         let space = "<br/>";
                         for (let j = 1; j < numSpaces; j++) {
@@ -784,16 +797,16 @@ function Importerv3() {
         <div className="Importer">
             <button onClick={() => setPStatus(!disableP)}>Toggle P</button>
             {disableP && (
-        <div>
-            P Disabled
-        </div>
-      )}
-      <button onClick={() => setHashtagHeader(!useHashtagHeader)}>Toggle Hash</button>
+                <div>
+                    P Disabled
+                </div>
+            )}
+            <button onClick={() => setHashtagHeader(!useHashtagHeader)}>Toggle Hash</button>
             {useHashtagHeader && (
-        <div>
-            Hash enabled
-        </div>
-      )}
+                <div>
+                    Hash enabled
+                </div>
+            )}
             <center>
                 <input multiple
                     type="file"
