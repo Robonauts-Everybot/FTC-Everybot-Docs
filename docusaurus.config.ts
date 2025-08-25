@@ -108,7 +108,7 @@ const config: Config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/everybot-logo.jpg',
+      image: 'img/Everybot E No BG.svg',
       colorMode: {
         defaultMode: 'dark',
         disableSwitch: false,
