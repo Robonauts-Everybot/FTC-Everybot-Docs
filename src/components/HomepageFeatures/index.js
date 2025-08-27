@@ -13,8 +13,7 @@ export default function HomepageFeatures() {
     <div>
       <div className="container margin-vert--xs" style={{ margin: '0px 2.5%', maxWidth: '95%' }}>
         <div className="row">
-          <Tester />
-          <div className="col col--8" >
+          <div className="col col--12" >
             <div className="text--center">
               <br></br><br></br>
               <h1>FTC Everybot Documentation Site</h1>
@@ -22,10 +21,11 @@ export default function HomepageFeatures() {
               <div style={{ textAlign: 'center' }}><img src={useBaseUrl("/img/FTC Everybot Full No BG.svg")} height="400"></img></div>
               <br>
               </br>
-              <br></br><br></br><br></br><br></br>
+              <br></br>
             </div>
           </div>
         </div>
+        <Tester />
       </div>
     </div>
   );
@@ -55,10 +55,11 @@ function Tester() {
   let thirdBlog = "/FTC-Everybot-Docs" + test[2].id.match(/\/blog\/.*/);
 
   return (
-    <aside className="col col--2"><nav className="sidebar_node_modules-@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module thin-scrollbar" aria-label="Blog recent posts navigation" style={{
+    /*<aside className="col col--2"><nav className="sidebar_node_modules-@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module thin-scrollbar" aria-label="Blog recent posts navigation" style={{
       top: "calc(var(--ifm-navbar-height) + 2rem)", position: "sticky", maxHeight: "calc(100vh - (var(--ifm-navbar-height) + 2rem))", overflowY: "auto"
-    }}><h3 className={styles.updates}>Recent Updates</h3><ul className="sidebarItemList_node_modules-@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module clean-list"><li className="sidebarItem_node_modules-@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module" style={{ margin: "0px 0" }}><a className={styles.details} href={firstBlog}>{test[0].title}</a></li><br /><li className="sidebarItem_node_modules-@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module" style={{ margin: "0px 0" }}><a className={styles.details} href={secondBlog}>{test[1].title}</a></li><br /><li className="sidebarItem_node_modules-@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module" style={{ margin: "0px 0" }}><a className={styles.details} href={thirdBlog}>{test[2].title}</a></li></ul></nav></aside >
+    }}><h3 className={styles.updates}>Recent Updates</h3><ul className="sidebarItemList_node_modules-@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module clean-list"><li className="sidebarItem_node_modules-@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module" style={{ margin: "0px 0" }}><a className={styles.details} href={firstBlog}>{test[0].title}</a></li><br /><li className="sidebarItem_node_modules-@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module" style={{ margin: "0px 0" }}><a className={styles.details} href={secondBlog}>{test[1].title}</a></li><br /><li className="sidebarItem_node_modules-@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module" style={{ margin: "0px 0" }}><a className={styles.details} href={thirdBlog}>{test[2].title}</a></li></ul></nav></aside >*/
+
+    <div style={{ textAlign: 'center' }}>Recent Updates <br /><br /><a className={styles.details} href={firstBlog}>{test[0].title}</a><br /><a className={styles.details} href={secondBlog}>{test[1].title}</a><br /><a className={styles.details} href={thirdBlog}>{test[2].title}</a></div >
+
   );
 }
-
-//let test;
