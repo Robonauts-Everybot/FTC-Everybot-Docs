@@ -10,13 +10,12 @@ import Image from '@theme/IdealImage';
 
 <p><br /> </p>
 
-Documentation is coming soon!!!
+<div style={{textAlign: 'center'}}>
+<div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)'}}><Image autoLoad={"true"} img={require("/static/media/introduction/IMG_4949.jpg")} style={{ marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "700px"}}></Image></span></div></div>
+<br/>
 
-You can find the Everybot here:
+# Documentation is coming soon!!!
 
-https://www.youtube.com/watch?v=K3eTjJm09WY
-
-https://cad.onshape.com/documents/6b009ac2fe8cd5493a91dc53/w/6d6954e67072f79309813086/e/4c713f6d2f44a330e30b2a79
 
 
 
