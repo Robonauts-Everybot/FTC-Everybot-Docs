@@ -8,8 +8,7 @@ import Image from '@theme/IdealImage';
 
 <br/>
 
-<h1>2025-2026 DECODE Resources </h1>
-
+# 2025-2026 DECODE Resources
 
 # [Discord](https://discord.gg/XuWfwRJcfA)
 
@@ -23,13 +22,11 @@ import Image from '@theme/IdealImage';
 
 # [Everybot CAD](https://cad.onshape.com/documents/6b009ac2fe8cd5493a91dc53/w/6d6954e67072f79309813086/e/4c713f6d2f44a330e30b2a79)
 
-:::danger
-These resources below are from the previous year's game and not for the current 2025-2026 DECODE! Season
-:::
-
-<h1>2024-2025 Into The Deep's Resources</h1>
-
 <br/>
+<br/>
+
+<details>
+  <summary>2024-2025 Into The Deep's Resources</summary>
 
 # [Discord](https://discord.gg/XuWfwRJcfA)
 
@@ -44,3 +41,5 @@ These resources below are from the previous year's game and not for the current 
 # [Everybot CAD](https://cad.onshape.com/documents/a2212ec4d0ff04ecfa468fab/w/de74c2fa846c84827f4ffeb0/e/a069a0c4d53cbe62662539e1)
 
 # [Everybot Code](https://gitlab.com/robonautseverybot/FTC-Everybot-2024/)
+ 
+</details>
