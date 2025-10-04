@@ -28,10 +28,10 @@
         },
         {
             "id": "https://github.com/FTC-Everybot-Docs/blog/Code and Swerve CAD",
-            "content_html": "<p>Test</p>",
+            "content_html": "<p>We just released the robot but are running behind, docs will be up ASAP.</p>",
             "url": "https://github.com/FTC-Everybot-Docs/blog/Code and Swerve CAD",
-            "title": "Pre-release",
-            "summary": "Test",
+            "title": "Everybot docs are coming soon",
+            "summary": "We just released the robot but are running behind, docs will be up ASAP.",
             "date_modified": "2025-01-21T18:00:00.000Z",
             "tags": [
                 "Everybot"
