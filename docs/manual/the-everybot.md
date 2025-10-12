@@ -16,6 +16,8 @@ import Image from '@theme/IdealImage';
 
 # Documentation is coming soon!!!
 
+# Chassis documentation is now up!
+
 
 
 
