@@ -5,12 +5,12 @@
     "description": "FTC Everybot Docs Blog",
     "items": [
         {
-            "id": "https://github.com/FTC-Everybot-Docs/blog/Code and Swerve CAD",
-            "content_html": "<p>We just released the robot but are running behind, docs will be up ASAP.</p>",
-            "url": "https://github.com/FTC-Everybot-Docs/blog/Code and Swerve CAD",
-            "title": "Everybot docs are coming soon",
-            "summary": "We just released the robot but are running behind, docs will be up ASAP.",
-            "date_modified": "2025-01-22T18:00:00.000Z",
+            "id": "https://github.com/FTC-Everybot-Docs/blog/Chassis section added",
+            "content_html": "<p>Docs for the custom Everybot Chassis are up, we are working at the superstructure next.</p>",
+            "url": "https://github.com/FTC-Everybot-Docs/blog/Chassis section added",
+            "title": "Chassis section has been added",
+            "summary": "Docs for the custom Everybot Chassis are up, we are working at the superstructure next.",
+            "date_modified": "2025-10-12T18:00:00.000Z",
             "tags": [
                 "Everybot"
             ]
