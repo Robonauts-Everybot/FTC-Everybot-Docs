@@ -14,13 +14,15 @@ import Image from '@theme/IdealImage';
 
 # [Reveal Video](https://www.youtube.com/watch?v=K3eTjJm09WY)
 
-# Build manaul coming soon
+# Build manaul coming soon (some sections are live here)
 
 # Bill of materials coming soon
 
 # [3D Printing Guide](https://docs.google.com/document/d/1aBI-4wX4Yulq_blhoYv0_N5ydYD1Yb1bROByIuCTLBo/edit?tab=t.0)
 
 # [Everybot CAD](https://cad.onshape.com/documents/6b009ac2fe8cd5493a91dc53/w/6d6954e67072f79309813086/e/4c713f6d2f44a330e30b2a79)
+
+# [Everybot Code](https://github.com/Robonauts-Everybot/FTC-Everybot-Code-2025-DECODE)
 
 <br/>
 <br/>
