@@ -28,12 +28,12 @@
             <category>Everybot</category>
         </item>
         <item>
-            <title><![CDATA[Everybot docs are coming soon]]></title>
-            <link>https://github.com/FTC-Everybot-Docs/blog/Code and Swerve CAD</link>
-            <guid>https://github.com/FTC-Everybot-Docs/blog/Code and Swerve CAD</guid>
+            <title><![CDATA[The Superstructure is now out]]></title>
+            <link>https://github.com/FTC-Everybot-Docs/blog/Superstructure out</link>
+            <guid>https://github.com/FTC-Everybot-Docs/blog/Superstructure out</guid>
             <pubDate>Wed, 22 Jan 2025 18:00:00 GMT</pubDate>
-            <description><![CDATA[We just released the robot but are running behind, docs will be up ASAP.]]></description>
-            <content:encoded><![CDATA[<p>We just released the robot but are running behind, docs will be up ASAP.</p>]]></content:encoded>
+            <description><![CDATA[The superstructure is out, the code will be out next.]]></description>
+            <content:encoded><![CDATA[<p>The superstructure is out, the code will be out next.</p>]]></content:encoded>
             <category>Everybot</category>
         </item>
     </channel>

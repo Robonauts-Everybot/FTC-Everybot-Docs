@@ -27,12 +27,12 @@
         <category label="Everybot" term="Everybot"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Everybot docs are coming soon]]></title>
-        <id>https://github.com/FTC-Everybot-Docs/blog/Code and Swerve CAD</id>
-        <link href="https://github.com/FTC-Everybot-Docs/blog/Code and Swerve CAD"/>
+        <title type="html"><![CDATA[The Superstructure is now out]]></title>
+        <id>https://github.com/FTC-Everybot-Docs/blog/Superstructure out</id>
+        <link href="https://github.com/FTC-Everybot-Docs/blog/Superstructure out"/>
         <updated>2025-01-22T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We just released the robot but are running behind, docs will be up ASAP.]]></summary>
-        <content type="html"><![CDATA[<p>We just released the robot but are running behind, docs will be up ASAP.</p>]]></content>
+        <summary type="html"><![CDATA[The superstructure is out, the code will be out next.]]></summary>
+        <content type="html"><![CDATA[<p>The superstructure is out, the code will be out next.</p>]]></content>
         <category label="Everybot" term="Everybot"/>
     </entry>
 </feed>

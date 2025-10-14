@@ -27,11 +27,11 @@
             ]
         },
         {
-            "id": "https://github.com/FTC-Everybot-Docs/blog/Code and Swerve CAD",
-            "content_html": "<p>We just released the robot but are running behind, docs will be up ASAP.</p>",
-            "url": "https://github.com/FTC-Everybot-Docs/blog/Code and Swerve CAD",
-            "title": "Everybot docs are coming soon",
-            "summary": "We just released the robot but are running behind, docs will be up ASAP.",
+            "id": "https://github.com/FTC-Everybot-Docs/blog/Superstructure out",
+            "content_html": "<p>The superstructure is out, the code will be out next.</p>",
+            "url": "https://github.com/FTC-Everybot-Docs/blog/Superstructure out",
+            "title": "The Superstructure is now out",
+            "summary": "The superstructure is out, the code will be out next.",
             "date_modified": "2025-01-22T18:00:00.000Z",
             "tags": [
                 "Everybot"
