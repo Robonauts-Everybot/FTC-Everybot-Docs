@@ -1,23 +1,30 @@
 ---
-sidebar_label: "Robonauts' Everybot Overview"
+sidebar_label: "Robonauts' Everybot Documentation"
 sidebar_position: 1
 description: ""
 ---
 
 import Image from '@theme/IdealImage';
 
-# Robonauts' FTC 2025 Everybot
+# Documentation links
 
-<p><br /> </p>
+## [Before You Get Started](https://docs.google.com/document/d/1WNFWK0Gp7KbyQRgXPhFSKY0o7JrDMMCjNS9m8Oeq09A/edit?usp=sharing)
 
-<div style={{textAlign: 'center'}}>
-<div style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px'}}><span style={{overflow: 'hidden', display: 'inline-block', margin: '0.00px 0.00px', border: '0.00px solid #000000', transform: 'rotate(0.00rad) translateZ(0px)'}}><Image autoLoad={"true"} img={require("/static/media/introduction/IMG_4949.jpg")} style={{ marginLeft: '0.00px', marginTop: '0.00px', transform: 'rotate(0.00rad) translateZ(0px)', maxWidth: "700px"}}></Image></span></div></div>
-<br/>
+## [3D Printing Parts](https://docs.google.com/document/d/1BzlHjUQulXNchWSRm-UigonzINrQqb_-EIGO_drZKKA/edit?usp=sharing)
 
-# Documentation is coming soon!!!
+## [Chassis](https://docs.google.com/document/d/19063TribfO-uEDxWiNYr9W0t0NC0odwILOKiA_6Rh-8/edit?usp=sharing)
 
-# Chassis documentation is now up!
+## [Superstructure](https://docs.google.com/document/d/1Jm1eGthCBVdSPJIHuGTAgMzLkEN3cPq5UJ6jW8e0I80/edit?usp=sharing)
 
+## [Catapult](https://docs.google.com/document/d/1gv5zHanKZmtw2EFQ3v8gwJJSj7jMt2ZMZIjQgh5bOXQ/edit?usp=sharing)
+
+## [Hopper](https://docs.google.com/document/d/1eywQHKHZS2c2Nef7zRQ5FCAWRBdkHFOHHOlhuM4xS8c/edit?usp=sharing)
+
+## [Intake](https://docs.google.com/document/d/1jxFD34DMMUw48urQjkqZBmNyAQhbUi9tERMdAHs2VFo/edit?usp=sharing)
+
+## [Catapult/Artifact Related Finishing Touches](https://docs.google.com/document/d/1msOz-7IprFAPgOIplpfAX5rKhL0RDTQSKV7XqOnHcz4/edit?usp=sharing)
+
+## [Endgame](https://docs.google.com/document/d/143B3xyEl2Wa-xNXk6_CITptEqu5uUtIaXJPry8hd4nw/edit?usp=sharing)
 
 
 
