@@ -16,7 +16,7 @@ import Image from '@theme/IdealImage';
 
 # Build manaul coming soon (some sections are live here)
 
-# Bill of materials coming soon
+# [Bill of materials](https://docs.google.com/spreadsheets/d/1Rqlt6zIeVRWva1c8mFyxaLEvUzCDwsdCPO-C-R-VM-s/edit?usp=sharing)
 
 # [3D Printing Guide](https://docs.google.com/document/d/1aBI-4wX4Yulq_blhoYv0_N5ydYD1Yb1bROByIuCTLBo/edit?tab=t.0)
 
