@@ -4,11 +4,20 @@
         <title>FTC Everybot Docs Blog</title>
         <link>https://github.com/FTC-Everybot-Docs/blog</link>
         <description>FTC Everybot Docs Blog</description>
-        <lastBuildDate>Sun, 12 Oct 2025 18:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Oct 2025 18:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2025 THE ROBONAUTS</copyright>
+        <item>
+            <title><![CDATA[The build sections of the manual are all live]]></title>
+            <link>https://github.com/FTC-Everybot-Docs/blog/Most of the manual</link>
+            <guid>https://github.com/FTC-Everybot-Docs/blog/Most of the manual</guid>
+            <pubDate>Wed, 15 Oct 2025 18:00:00 GMT</pubDate>
+            <description><![CDATA[Most of the manual is live!]]></description>
+            <content:encoded><![CDATA[<p>Most of the manual is live!</p>]]></content:encoded>
+            <category>Everybot</category>
+        </item>
         <item>
             <title><![CDATA[Chassis section has been added]]></title>
             <link>https://github.com/FTC-Everybot-Docs/blog/Chassis section added</link>
@@ -16,15 +25,6 @@
             <pubDate>Sun, 12 Oct 2025 18:00:00 GMT</pubDate>
             <description><![CDATA[Docs for the custom Everybot Chassis are up, we are working at the superstructure next.]]></description>
             <content:encoded><![CDATA[<p>Docs for the custom Everybot Chassis are up, we are working at the superstructure next.</p>]]></content:encoded>
-            <category>Everybot</category>
-        </item>
-        <item>
-            <title><![CDATA[Everybot docs are coming soon]]></title>
-            <link>https://github.com/FTC-Everybot-Docs/blog/Code and Swerve CAD</link>
-            <guid>https://github.com/FTC-Everybot-Docs/blog/Code and Swerve CAD</guid>
-            <pubDate>Wed, 22 Jan 2025 18:00:00 GMT</pubDate>
-            <description><![CDATA[We just released the robot but are running behind, docs will be up ASAP.]]></description>
-            <content:encoded><![CDATA[<p>We just released the robot but are running behind, docs will be up ASAP.</p>]]></content:encoded>
             <category>Everybot</category>
         </item>
         <item>
