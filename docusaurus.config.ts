@@ -128,7 +128,7 @@ const config: Config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: '2025 Everybot Documentation',
+            label: '2025 Everybot Build Manual',
           },
           {
             type: 'docSidebar', sidebarId: 'everybotResources', label: 'FTC Everybot Resources', position: 'left'

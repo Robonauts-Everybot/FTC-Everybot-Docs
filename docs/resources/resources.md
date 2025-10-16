@@ -14,7 +14,7 @@ import Image from '@theme/IdealImage';
 
 # [Reveal Video](https://www.youtube.com/watch?v=K3eTjJm09WY)
 
-# Build manaul coming soon (some sections are live here)
+# Build manaul coming soon (Most sections are live in the manual tab)
 
 # [Bill of materials](https://docs.google.com/spreadsheets/d/1Rqlt6zIeVRWva1c8mFyxaLEvUzCDwsdCPO-C-R-VM-s/edit?usp=sharing)
 
