@@ -16,9 +16,9 @@ import Image from '@theme/IdealImage';
 
 # Build manaul coming soon (Most sections are live in the manual tab)
 
-# [Bill of materials](https://docs.google.com/spreadsheets/d/1Rqlt6zIeVRWva1c8mFyxaLEvUzCDwsdCPO-C-R-VM-s/edit?usp=sharing)
+# [Bill of materials](https://docs.google.com/spreadsheets/d/1sDXYv0FfvtYJpS8D2unsGj_9wgmHTuOPAkGFtUbN1QY/edit?usp=sharing)
 
-# [3D Printing Guide](https://docs.google.com/document/d/1aBI-4wX4Yulq_blhoYv0_N5ydYD1Yb1bROByIuCTLBo/edit?tab=t.0)
+# [3D Printing Guide](https://docs.google.com/document/d/1aBI-4wX4Yulq_blhoYv0_N5ydYD1Yb1bROByIuCTLBo/edit?usp=sharing)
 
 # [Everybot CAD](https://cad.onshape.com/documents/6b009ac2fe8cd5493a91dc53/w/6d6954e67072f79309813086/e/4c713f6d2f44a330e30b2a79)
 
